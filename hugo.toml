@@ -5,7 +5,7 @@ baseURL = "https://imiqbal.com"
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
-title = "Not legal advice"
+title ="From the desk of I M Iqbal"
 author = "I M Iqbal"
 copyright = "Copyright © 2025, I M Iqbal."
 languageCode = "en-GB"
