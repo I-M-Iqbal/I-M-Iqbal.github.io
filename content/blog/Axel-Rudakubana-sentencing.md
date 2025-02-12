@@ -7,7 +7,7 @@ date = "2025-02-12T15:02:44Z"
 #
 # description = " Discusses the questions around whether Rudakubana should have recieved a full life term and why children cannot recieve full life terms in the UK."
 
-tags = [criminal law]
+tags = ["criminal law"]
 +++
 
 This is a page about »Axel Rudakubana Sentencing«.
