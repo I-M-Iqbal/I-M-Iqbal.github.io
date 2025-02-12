@@ -20,11 +20,11 @@ The Attorney General's office has received request to review his sentence under 
 
 Many people who have criticised the sentence have highlighted the following comment made by the judge during sentencing:
 
-    ‘Had he been 18, I make it clear that I would have been compelled to impose on him, life imprisonment without a minimum term, otherwise known as a whole life term, meaning that he would never be released. However, the law does not permit such a sentence for those offenders who are under 18 when they offend.’ 
+> Had he been 18, I make it clear that I would have been compelled to impose on him, life imprisonment without a minimum term, otherwise known as a whole life term, meaning that he would never be released. However, the law does not permit such a sentence for those offenders who are under 18 when they offend.
 
 The law does not permit such a sentence because the UK ratified the United Nations Convention on the Rights of the Child in 1991. Article 37 of the UNCRC states:
 
-    ‘No child shall be subjected to torture or other cruel inhuman or degrading treatment of punishment. Neither Capital Punishment nor life imprisonment without the possibility of release shall be imposed for offences committed by persons below eighteen years of age’  
+> No child shall be subjected to torture or other cruel inhuman or degrading treatment of punishment. Neither Capital Punishment nor life imprisonment without the possibility of release shall be imposed for offences committed by persons below eighteen years of age 
 
 Downing street stated that they would not consider changing the law to permit full life terms for those who commit offences under the age of 18 however Defence Secretary John Healey however, refused to rule out a change to the law.  
 
