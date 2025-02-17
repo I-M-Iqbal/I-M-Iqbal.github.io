@@ -33,6 +33,9 @@ What is clear, is a change in the law would violate the UNCRC. The UNCRC seeks t
 
 Many people rightly feel no sentence is severe enough for his crimes: the murder of three young girls who were denied the right to grow into adults, the pain of their families and the life altering injuries of inflicted on 10 other victims of his attack, 8 of whom were children. The question is can changing the law be justified, if it does not serve a purpose beyond it standing as a marker of our societies condemnation of the offences committed by Rudakubana? 
 
+Edit as of 17/02/2025:
+The Attorney General's office responded to the requests under the ULS and confirmed that he would not be seeking to refer the sentence to the Court of Appeal because there was no legal basis for such a request. (10) 
+
 References:
 [1](https://www.merseyside.police.uk/news/merseyside/news/2025/january-2025/axel-rudakubana-jailed-for-minimum-of-52-years/)
 [2](https://www.judiciary.uk/wp-content/uploads/2025/01/R-v-Axel-Rudakubana.pdf)
@@ -43,3 +46,4 @@ References:
 [7](https://www.theguardian.com/uk-news/2025/jan/24/southport-law-reform-whole-life-term-axel-rudakubana)
 [8](https://www.sentencingcouncil.org.uk/overarching-guides/magistrates-court/item/sentencing-children-and-young-people/)
 [9](https://www.itv.com/news/2025-01-24/calls-grow-for-whole-life-terms-to-be-extended-to-under-18s)
+[10](https://www.gov.uk/government/news/statement-from-the-attorney-general-on-the-case-of-axel-rudakubana)
