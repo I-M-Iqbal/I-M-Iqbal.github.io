@@ -15,3 +15,4 @@ Regards
 
 I M Iqbal
  
+ [link to sofia's website](https://deltzabar.github.io/) Webring [link to charlie's website](https://charliew.net/)
