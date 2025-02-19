@@ -15,4 +15,4 @@ Regards
 
 I M Iqbal
  
- [Charlie's website](https://charliew.net/) Webring [Sofia's website](https://deltzabar.github.io/)
+ [Charlie's website](https://charliew.net/) < webring > [Sofia's website](https://deltzabar.github.io/)
