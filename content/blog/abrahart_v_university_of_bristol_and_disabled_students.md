@@ -1,5 +1,5 @@
 +++
-title = "Abrahart v University of Bristol and disabled students"
+title = "Abrahart v University of Bristol & disabled students"
 date = "2025-02-20T20:40:39Z"
 
 #
