@@ -1,5 +1,5 @@
 +++
-title = "Abrahart v University of Bristol & disabled students"
+title = "Abrahart v University of Bristol & its impact on disabled students"
 date = "2025-02-20T20:40:39Z"
 
 #
@@ -28,7 +28,7 @@ Reasonable adjustments:
 
 > There is no duty to make reasonable adjustments on a competence standard. This is a standard used to establish whether someone has a certain amount of medical, academic or other ability. 
 
-> The university argued that they were permitted to ensure a formal process according to their regulations was followed before providing adjustments.  The high court judge pointed out the problem with this: the regulations of the university ‘are not the law. They were subject to the law, including the requirements of the Equality Act 2010.’4 The policies may become ‘a PCP if applied strictly which is subject to the duties under the Equality Act including the reasonable adjustment duty’.[^4']
+> The university argued that they were permitted to ensure a formal process according to their regulations was followed before providing adjustments.  The high court judge pointed out the problem with this: the regulations of the university ‘are not the law. They were subject to the law, including the requirements of the Equality Act 2010.’4 The policies may become ‘a PCP if applied strictly which is subject to the duties under the Equality Act including the reasonable adjustment duty’.[^4]
 
 Indirect discrimination:
 
