@@ -3,9 +3,7 @@ date = '2025-04-05T18:43:40+01:00'
 
 title = 'What is the Universal Postal Union?'
 +++
-# description is optional 
-#
-# description = " what is the upu response post to abi. "
+
 tags = ["International law"]
 
 My friend Abi wrote a blog post about the S10 standard created by the Universal Postal Union. You can find it here:https://www.akpain.net/blog/s10-upu/. As a result, I googled the union and realised it was created via a international treaty: the Treaty of Bern and pre-dates the UN by 71 years. So here is a brief outline of the treaty, how the UPU became part of the UN and what the treaty looks like today.
