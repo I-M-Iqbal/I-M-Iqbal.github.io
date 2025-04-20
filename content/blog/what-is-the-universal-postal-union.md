@@ -17,7 +17,7 @@ The treaty's purpose was to allow the free flow of mail between its members. Art
 
 The UPU and the UN:
 
-The UPU because part of the UN on 1 July 1948, via a negociated agreement. It is a specialised agency of the UN meaning its an autonomous international organizations working with the United Nations. The agreement is linked here (It started on page 232): https://treaties.un.org/doc/Publication/UNTS/Volume%2019/v19.pdf. Its largely procedural- establishing the information to be shared between the UN and the UPU, financing arragments and formal communication and consultation mechanisms between the UN and UPU. It is however, one of the oldest specialised agencies of the UN having celebrated its 150th bithday last year on the 9th of October.  
+The UPU because part of the UN on 1 July 1948, via a negociated agreement. It is a specialised agency of the UN meaning its an autonomous international organizations working with the United Nations. The agreement is linked here (It starts on page 232): https://treaties.un.org/doc/Publication/UNTS/Volume%2019/v19.pdf. Its largely procedural- establishing the information to be shared between the UN and the UPU, financing arragments and formal communication and consultation mechanisms between the UN and UPU. It is however, one of the oldest specialised agencies of the UN having celebrated its 150th bithday last year on the 9th of October.  
 
 UPU, decolonisation and Terminal dues:
 
@@ -32,6 +32,10 @@ The most recent dispute over terminal dues was the reuslt of the 2018 trade war 
 Update to the 1964 Constitution in 2021:
 
 In 1964, the UPU introduced a consitution and incoporated the Treaty of Bern into it. This is now the documents states ratify if they want to join the UPU. In 2021, the consitution was updated to allow agreements by the UPU congress to have unlimited validity rather than validity for 4 years. 
+
+Regards
+
+IMI
 
 Random fun fact to end: Did you know World Post Day is on the 9th October- chosen because it was the day the Treaty of Bern was signed. The annual award for best postal services is also announced on this day. 
 

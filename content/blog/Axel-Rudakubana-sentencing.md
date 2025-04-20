@@ -33,6 +33,10 @@ What is clear, is a change in the law would violate the UNCRC. The UNCRC seeks t
 
 Many people rightly feel no sentence is severe enough for his crimes: the murder of three young girls who were denied the right to grow into adults, the pain of their families and the life altering injuries of inflicted on 10 other victims of his attack, 8 of whom were children. The question is can changing the law be justified, if it does not serve a purpose beyond it standing as a marker of our societies condemnation of the offences committed by Rudakubana? 
 
+Regards
+
+IMI
+
 Edit as of 17/02/2025:
 The Attorney General's office responded to the requests under the ULS and confirmed that he would not be seeking to refer the sentence to the Court of Appeal because there was no legal basis for a referal. (10) 
 

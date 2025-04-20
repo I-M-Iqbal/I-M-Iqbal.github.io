@@ -48,6 +48,10 @@ In their annual access insights report, Disabled Students UK found almost half o
 
 Despite this, disabled students always have and always will continue to demand equal treatment to their able-bodied counterparts. And will keep doing so for as long as it takes. 
 
+Regards
+
+IMI
+
 [^1]: https://www.bbc.co.uk/news/uk-england-bristol-68284323
 [^2]: https://disabledstudents.co.uk/wp-content/uploads/2024/12/2024-Access-Insights-Report.pdf
 [^3]: https://www.judiciary.uk/wp-content/uploads/2022/05/Abrahart-v-Uni-Bristol-judgment-200522.pdf
