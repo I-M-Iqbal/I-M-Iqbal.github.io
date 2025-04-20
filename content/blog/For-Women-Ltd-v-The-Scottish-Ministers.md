@@ -4,7 +4,7 @@ title = 'For Women Ltd v the Scottish Ministers- Explained'
 
 # description = "An explaination of the recent supreme court decision on whether a GRC means a trans person is their certificated gender for the purposes of section 7 definition of sex"
 
-tags ["Equality Law",]
+tags = ["Equality Law",]
 +++
 
 On Wednesday 16th April 2025, the UK supreme court ruled in a case about the meaning of the word sex, woman and man in the Equality Act. The court ruled the meaning of the word sex in the Equality Act is biological. Therefore trans people including those with gender recognition certificates are not their acquired/ certificated gender for the purposes of the Equality Act. This post aims to explain the reasoning in the courts judgment in the hope this will combat the large amount of misreporting by the press about what this judgment means. 
