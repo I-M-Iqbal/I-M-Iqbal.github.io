@@ -1,6 +1,5 @@
 +++
 date = '2025-04-18T21:53:01+01:00'
-draft = true
 title = 'For Women Ltd v the Scottish Ministers- Explained'
 
 # description = "An explaination of the recent supreme court decision on whether a GRC means a trans person is their certificated gender for the purposes of section 7 definition of sex"
@@ -287,9 +286,9 @@ Regards
 IMI
 
 ## sources
-Link to the  video of the judgment summary made by Lord Hodge on behalf of the court:
-Link to the press release:
-Link to the judgment:
+Link to the  video of the judgment summary made by Lord Hodge on behalf of the court: https://www.youtube.com/watch?v=XxHtbTragtg
+Link to the press release: https://supremecourt.uk/cases/press-summary/uksc-2024-0042
+Link to the judgment:https://supremecourt.uk/cases/judgments/uksc-2024-0042
 
 [^1]:https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/genderidentity/bulletins/genderidentityenglandandwales/census2021
 [^2]:https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-sexual-orientation-and-trans-status-or-history/
