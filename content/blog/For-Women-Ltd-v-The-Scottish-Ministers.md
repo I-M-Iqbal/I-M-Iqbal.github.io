@@ -30,9 +30,9 @@ The glossary of terms below contains imperfect definitions and may not reflect t
 - Gender Recognition Act 2004: Referred to as the GRA throughout.
 - Gender Recognition Certificate: A certificate that states a trans person is legally their acquired gender which is issued under the GRA. Referred to as a GRC throughout.
 - Equality Act 2010: Referred to as thr EA throughout. 
-> - Public Sector Equality Duty: Referred to as the PSED throughout. 
-> - Duty Bearers: Those with responsibility to not discriminate and in some cases take postive steps to promote equality.
-> - Association: A body with 25 or more members where access to membership is controlled by rules and involves a genuine selection process based on personal criteria.
+    - Public Sector Equality Duty: Referred to as the PSED throughout. 
+    - Duty Bearers: Those with responsibility to not discriminate and in some cases take postive steps to promote equality.
+    - Association: A body with 25 or more members where access to membership is controlled by rules and involves a genuine selection process based on personal criteria.
 - Sex Discrimination Act 1975: Referred to as the SDA throughout
 - European Convention on Human Rights: Referred to as the ECHR throughout. 
 - Irrational: Legally this word means absurd or ridiculous. Essentially, where the outcome of something does not make sense when compared with the intention of the relevant law, it will be irrational. The law is presumed to not intend to cause irrational results. 
@@ -46,7 +46,7 @@ The glossary of terms below contains imperfect definitions and may not reflect t
 
 ## How did this case get to the UKSC: 
 
-> This case originated in Scotland as the result of guidance issued by the devolved Scottish government. Powers that the UK parliament has not given the devolved Scottish government the power to legislate are called reserved powers. S.29 of the Scotland Act 1998 states that equal opportunities law is a reserved matter. Since 2016 there has been an exception for positive action (action taken to improve equality) with regard to appointments to public bodies[^4]. 
+This case originated in Scotland as the result of guidance issued by the devolved Scottish government. Powers that the UK parliament has not given the devolved Scottish government the power to legislate are called reserved powers. S.29 of the Scotland Act 1998 states that equal opportunities law is a reserved matter. Since 2016 there has been an exception for positive action (action taken to improve equality) with regard to appointments to public bodies[^4]. 
 
 S.1 of The Gender Representation on Public Boards (Scotland) Act 2018 states 50% of not executive members of a public board must be women. S.2 defined woman as: 
 >"a person who has the protected characteristic of gender reassignment (within the meaning of section 7 of the Equality Act 2010) if, and only if, the person is living as a woman and is proposing to undergo, is undergoing or has undergone a process (or part of a process) for the purpose of becoming female".
@@ -62,7 +62,7 @@ The Appellants challenged this guidance as outside the powers of the Scottish go
 
 The Outer House ruled S.9(1) of the GRA 2004 changed the sex of a trans person for all purposes from their biological sex to their certificated sex. Therefore, sex in the EA included certificated sex therefore a trans woman with a GRC was a woman for the purposes of the EA 2010[^5]. 
 
-The Inner House heard the appeal and agreed with the Outer House.[^6] They found that the terms sex, man and woman in the EA could have a biological meaning or could have a wider meaning including both cisgender people and trans people with a GRC. According to their decision, both cisgender women and trans women with a GRC would be women under the EA. They found there was nothing in the EA that mandated a conclusion that sex was biological. The only section that required a biological definition of the word sex was the pregnancy and maternity section of the EA. In the remainder of the act, the Inner House ruled trans people with GRC's could be considered as part of their certificated 
+The Inner House heard the appeal and agreed with the Outer House.[^6] They found that the terms sex, man and woman in the EA could have a biological meaning or could have a wider meaning including both cisgender people and trans people with a GRC. According to their decision, both cisgender women and trans women with a GRC would be women under the EA. They found there was nothing in the EA that mandated a conclusion that sex was biological. The only section that required a biological definition of the word sex was the pregnancy and maternity section of the EA. In the remainder of the act, the Inner House ruled trans people with GRCs could be considered as part of their certificated 
  sex. 
 
 For Women Ltd, then appealed to the UKSC. 
@@ -73,7 +73,7 @@ Several parties intervened in the case including the EHRC, the LGB Alliance, Sex
 
 Sex Matters is a charity whose charitable purpose is to promote human rights where they relate to biological sex. They argue the definition of sex in EA has a biological meaning because trans people's rights under the EA are protected under the characteristic of gender reassignment and a definition of sex under the EA that includes trans people with GRCs would produce irrational results. The LGB alliance, Scottish Lesbians and the Lesbian Project also collectively argue that the meaning of the word sex is biological.
 
-The EHRC explained their view that the terms sex, man and woman in the EA include those with certificated sex via a GRC. They conceed this causes problems in 4 areas under the EA and argue parliament should resolve them urgently. These 4 areas are:
+The EHRC explained their view that the terms sex, man and woman in the EA include those with certificated sex via a GRC. They conceded this causes problems in 4 areas under the EA and argue parliament should resolve them urgently. These 4 areas are:
 - Discrimination due to pregnancy and Maternity. 
 - Protection against sexual orientation discrimination (some gay men and lesbians might not be able to form associations that exclude trans men and women respectively).
 - Single sex services.
@@ -90,11 +90,11 @@ There are longstanding principles that govern how words and provisions in statut
 In R(o) v Secretary of state for the Home department[^9] the court stated:
 
 - when interpreting statutes he court are seeking the meaning of the words used by parliament in the particular context in which they occur. 
-- 'A phrase or passage must be read in the context of the section as a whole and in the wider context of a relevant group of sections'
+- "A phrase or passage must be read in the context of the section as a whole and in the wider context of a relevant group of sections"
 - Other provisions in the statute may provide the relevant context which must be examined to determine the meaning of the words that are the subject of the case. 
-- The statute itself is the primary source for determining the meaning of a section of word because '‘Citizens, with the assistance of their advisers, are intended to be able to understand parliamentary enactments, so that they can regulate their conduct accordingly. They should be able to rely upon what they read in an Act of Parliament.’[^10] The best way to ensure this is if the ordinary meaning of the words is used[^11].
-- External aids such as material provided to  parliament during the process by which the law was passes like white papers and other aids play a secondary role by disclosng background and the reason why parliament enacted the law.
-- Where there is doubt about the meaning of a word or a provision, 'indicators of the legislature’s purpose outside the provision in question, including the external aids described' without displacing meanings which are clear and unambiguous.[^12]
+- The statute itself is the primary source for determining the meaning of a section of word because "‘Citizens, with the assistance of their advisers, are intended to be able to understand parliamentary enactments, so that they can regulate their conduct accordingly. They should be able to rely upon what they read in an Act of Parliament."[^10] The best way to ensure this is if the ordinary meaning of the words is used[^11].
+- External aids such as material provided to  parliament during the process by which the law was passes like white papers and other aids play a secondary role by disclosing background and the reason why parliament enacted the law.
+- Where there is doubt about the meaning of a word or a provision, "indicators of the legislature’s purpose outside the provision in question, including the external aids described" without displacing meanings which are clear and unambiguous.[^12]
 
 In R(Quintavelle) v Secretary of State for Health[^13] The court stated:
 
@@ -123,10 +123,10 @@ The Goodwin Judgment was considered by the House of Lords (now known as the UKSC
 This led to the GRA being passed which established a legal framework for a trans person to change their sex to match their acquired gender. It contained the following provisions: 
 - A person over 18 can apply for a GRC because they have been living as their acquired gender or have changed sex overseas. 
 - This application is considered by a panel who can issue a GRC if they are satisfied that: 
-> - The person has gender dysphoria. 
-> - They have lived as their acquired gender for a period of 2 yrs ending on the date when the application is made. 
-> - They intend to live as their acquired gender till death. 
-> - They provide the relevant evidence including medical reports including the details of their diagnosis and the treatment they have, are currently or are planning to undergo as part of their transition including details and a declaration that they hve lived in their acquired gender  for 2 years and intend to do so till death. 
+    - The person has gender dysphoria. 
+    - They have lived as their acquired gender for a period of 2 yrs ending on the date when the application is made. 
+    - They intend to live as their acquired gender till death. 
+    - They provide the relevant evidence including medical reports including the details of their diagnosis and the treatment they have, are currently or are planning to undergo as part of their transition including details and a declaration that they hve lived in their acquired gender  for 2 years and intend to do so till death. 
 
 An application for a GRC is private and if a trans person received a GRC it is confidential. It is a criminal offence to disclose GRC status with some exceptions. The certificate must state that the acquired gender is male or is female. Non binary certificates do not exist even where the applicant has a certificate declaring them to be non-binary issued in another country. A full GRC is issued if the applicant is unmarried and a partial one if they are married. If they divorce their spouse, a full GRC is then issued. 
 
@@ -152,13 +152,13 @@ The EA intended to “reform and harmonise equality law and restate the greater 
 
 The Equality Act is concerned with discrimination against individuals and groups:
 
-> For example, direct discrimination claims (S.13) are designed to protect the individual. If a person was to make a S.13 claim, they would need to provide a comparator (real or hypothetical) that does not have the protected characteristic and is identical to the claimant in all other respects. This allows the court to examine whether it is the protected characteristic or something else that caused the alleged discrimination. A comparator is not neccessary for pregnancy/ maternity claims and favourable treatment due to pregnancy is not relevant for the purposes of discrimination. Both cisgender people and trans people can make claims under S.13 but if the trans person is alleging the discrimination is due to absence from work, this is covered by S.16 instead. Perception based discrimination, discrimination because someone believes you have a protected characteristic is also prohibited.
+    For example, direct discrimination claims (S.13) are designed to protect the individual. If a person was to make a S.13 claim, they would need to provide a comparator (real or hypothetical) that does not have the protected characteristic and is identical to the claimant in all other respects. This allows the court to examine whether it is the protected characteristic or something else that caused the alleged discrimination. A comparator is not neccessary for pregnancy/ maternity claims and favourable treatment due to pregnancy is not relevant for the purposes of discrimination. Both cisgender people and trans people can make claims under S.13 but if the trans person is alleging the discrimination is due to absence from work, this is covered by S.16 instead. Perception based discrimination, discrimination because someone believes you have a protected characteristic is also prohibited.
 
-> Indirect discrimination, equal pay claims, positive measures and the PSED are designed to protect people with protected characteristics as a group: 
-> - S.19 operates to prohibit a seemingly neutral policy which has a specific discriminatory effect on a group of people because of there protected characteristics. 'It must be possible to reach general conclusions or make general assumptions about a group with a particular protected characteristic such that an employer or other duty-bearer ought reasonably to be able to appreciate that any particular PCP applied to their workforce or service users may have a disproportionately adverse impact on the group. S.19A also extended this protection to people who do not have a protected characteristic but experience the same negative effect as a person with a protected characteristic would. This is essentially a version of perception based discrimination. 
-> - Positive measures to mitigate disadvantage faced by people with protected characteristics as a group are permitted under S.188/9 of the EA so long as they are proportionate. 
-> - S.149 creates specific duties on public bodies. I return to the detail of this duty below. 
-> - S.64 allows for equal pay claims but required a real life comparator without the relevant protected characteristic. 
+Indirect discrimination, equal pay claims, positive measures and the PSED are designed to protect people with protected characteristics as a group: 
+    - S.19 operates to prohibit a seemingly neutral policy which has a specific discriminatory effect on a group of people because of there protected characteristics. "It must be possible to reach general conclusions or make general assumptions about a group with a particular protected characteristic such that an employer or other duty-bearer ought reasonably to be able to appreciate that any particular PCP applied to their workforce or service users may have a disproportionately adverse impact on the group." S.19A also extended this protection to people who do not have a protected characteristic but experience the same negative effect as a person with a protected characteristic would. This is essentially a version of perception based discrimination. 
+    - Positive measures to mitigate disadvantage faced by people with protected characteristics as a group are permitted under S.188/9 of the EA so long as they are proportionate. 
+    - S.149 creates specific duties on public bodies. I return to the detail of this duty below. 
+    - S.64 allows for equal pay claims but required a real life comparator without the relevant protected characteristic. 
 
 ## The courts ruling on the key Q: Does the  definition of sex in the EA include trans people with GRCs:
 
@@ -166,8 +166,8 @@ Consistency is important for those that bear duties under the EA and is especial
 
 It is clear that before the GRA was passed, sex in the SDA meant biological sex. After the GRA was passed, sections were added to the SDA but it did not change the definition of sex. However, given that the EA was meant to both reform and replace the SDA, the focus must be on the EA despite the SDA and amendments to it providing relevant historical context. The court ruled that sex has a biological meaning because there is no indication that parliament intended the word sex to include those with a Certificated sex. Also, 
 it is practically impossible for sex based rights protections to be regulated by referring to categories of people that can only be established if someone had knowledge of a confidential certificate. A wider definition would have meant the following: 
-> - Trans women with GRCs and cisgender women would be women under the EA to the exclusion of trans men with GRCs. 
-> - Trans men with GRCs and cisgender men would be men under the EA to the exclusion of trans women with GRCs. 
+    - Trans women with GRCs and cisgender women would be women under the EA to the exclusion of trans men with GRCs. 
+    - Trans men with GRCs and cisgender men would be men under the EA to the exclusion of trans women with GRCs. 
 
 This would produce irrational results- I return to the nature of these irrational result in the next section. But first I discuss the Scottish governments argument that there is a variable definition of sex in the EA. 
 
@@ -189,7 +189,7 @@ The definition of sexual orientation in S.12 of the EA uses the word sex to defi
 
 #### Difficulties with marriage/ civil partnership characteristic:
 
-The definition of civil partnership explicitly refers to a 'relevant gender change' which refers to a trans person with a GRC. This means this section is unlikely to also include a wider definition of sex that includes those with a GRC implicitly, because where the legislators thought GRC status was relevant for their intended purpose, they explicitly mentioned it. 
+The definition of civil partnership in the EA explicitly refers to a "relevant gender change" which refers to a trans person with a GRC. This means this section is unlikely to also include a wider definition of sex that includes those with a GRC implicitly, because where the legislators thought GRC status was relevant for their intended purpose, they explicitly mentioned it. 
 
 #### Difficulties with single sex services and facilities:
 
@@ -197,7 +197,7 @@ Schedule 3 of the EA contains exceptions to the prohibition on discrimination to
 
 Examples of such spaces include changing rooms, homeless hostels, segregated swimming areas and medical/ counseling services provided to either men or women. For this to be permissible, it must be proven providing a service for all would be less effective. If a wider definition of sex were used, this would be difficult to prove again because duty bearers cannot know who holds a GRC and who does. 
 
-With regard to single sex services, 'it is hard to see how the condition that only persons of one sex have need of the particular service can be satisfied if each sex includes those with GRC’s who are a different biological gender but those with the same biological gender who also have a GRC. 
+With regard to single sex services, "it is hard to see how the condition that only persons of one sex have need of the particular service can be satisfied if each sex includes those with GRC’s who are a different biological gender but those with the same biological gender who also have a GRC." 
 
 The same would be true of the provision of Schedule 3 which allows for single sex services where someone might reasonable object to combined services because the reasonableness of an objection cannot be based on GRC status because a GRC is confidential. The same is true of provision of single sex services where physical contact is required. 
 
@@ -216,17 +216,17 @@ There is also a general exception in the EA for seperate services for people of 
 
 The PSED required organisations subject to the duty to collect data about those that engage with them who have protected characteristics and take steps to improve equality in several specified ways. 
 
-### Difficulties with data collection:
+##### Difficulties with data collection:
 
 Data collection would be difficult because: 
 - Gender reassignment and sex are distinct categories under th EA therefore duty holders have to collect data on both. 
 - Trans people with GRCs would fall into the sex category or perhaps both but those without GRCs would only be part of the gender reassignment characteristic. There is no coherent justification for this distinction between trans people with GRCs and those without.
 
-### Difficulties with provisions that require duty holders to have action to promote equality under the PSED: 
+##### Difficulties with provisions that require duty holders to have action to promote equality under the PSED: 
 
-The difficulties with data collection would affect the ability of duty holders to promote equality as required under the PSED.'The distinct discrimination and disadvantage faced by women as a group or trans people would simply not be capable of being addressed by the PSED because the group being considered would not be a group that, because of the shared protected characteristic of sex, has experienced discrimination or disadvantage flowing from shared biology, societal norms or prejudice.’	The needs of transgender people and cisgender people are different and should be considered differently or the PSED would be less effective.
+The difficulties with data collection would affect the ability of duty holders to promote equality as required under the PSED."The distinct discrimination and disadvantage faced by women as a group or trans people would simply not be capable of being addressed by the PSED because the group being considered would not be a group that, because of the shared protected characteristic of sex, has experienced discrimination or disadvantage flowing from shared biology, societal norms or prejudice.". The needs of transgender people and cisgender people are different and should be considered differently or the PSED would be less effective.
 
-### Difficulties with positive action to promote equality as permitted under S.188/9:
+#### Difficulties with positive action to promote equality as permitted under S.188/9:
 
 The same difficulties described above under the section titled difficulties with provisions that require duty holders to have action to promote equality under the PSED  also apply here. Duty holders would not be capable of ensuring their positive actions address the needs of all trans people. For example, trans women with GRCs would be covered by positive measures taken to ensure equality under sex and under gender reassignment whereas trans women without GRCs would only be covered by positive actions taken under gender reassignment.
 
@@ -247,7 +247,7 @@ S.19A of the EA extends indirect discrimination protection to persons who do not
 
 ### Harassment:
 
-Harassment required a claimant to prove a link between the pattern of unwanted conduct and the relevant protected characteristic. Claimants must also prove the conduct 'violates dignity or creates an intimidating, hostile, degrading, humiliating or offensive environment'[^21].If a trans woman were to be harassed because she is percieved to be a woman she can still claim for harassment on the basis of perceived sex. She may also be able to claim on the basis of gender reassignment. 
+Harassment required a claimant to prove a link between the pattern of unwanted conduct and the relevant protected characteristic. Claimants must also prove the conduct "violates dignity or creates an intimidating, hostile, degrading, humiliating or offensive environment"[^21].If a trans woman were to be harassed because she is percieved to be a woman she can still claim for harassment on the basis of perceived sex. She may also be able to claim on the basis of gender reassignment. 
 
 ### Equal pay:
 
@@ -275,11 +275,11 @@ I have tried to keep my opinion of this judgment out of my summary and discussio
 
 - The decision not to allow  interveners from the trans community was a grave error. The court should have heard arguments from the trans community. I intend to write a piece on the rules on intervention in cases in the future.
 - The court had to decide between 3 options in this case: a biological definition of sex (their conclusion), a wider definition of sex or a mixed definition. The principles of statutory interpretation alongside the UK constitution left them with little choice.
-> - In the UK our parliament is sovereign, meaning when it basses an act, such as the equality act, no court has the power to disapply any provision within it or change the meaning as intended by parliament.
-> - As a result, it is not possible for a mixed definition of sex to exist in the EA because parliament included nothing in the act to indicate this was their intention. This would also require a rebuttal of the presumption that the same word in the same law has the same meaning- this would require some explicit evidence to the contrary which no party was able to produce. 
-> - The court compares the result of a wider definition of sex with a biological definition. It found that the result of a wider definition would produce irrational results and because the law presumes parliament can not have intended to produce an absurd result, the court had one clear outcome. The  definition sex based on parliaments intention had to be biological. 
+- In the UK our parliament is sovereign, meaning when it basses an act, such as the equality act, no court has the power to disapply any provision within it or change the meaning as intended by parliament.
+- As a result, it is not possible for a mixed definition of sex to exist in the EA because parliament included nothing in the act to indicate this was their intention. This would also require a rebuttal of the presumption that the same word in the same law has the same meaning- this would require some explicit evidence to the contrary which no party was able to produce. 
+- The court compares the result of a wider definition of sex with a biological definition. It found that the result of a wider definition would produce irrational results and because the law presumes parliament can not have intended to produce an absurd result, the court had one clear outcome. The  definition sex based on parliaments intention had to be biological. 
 
-The tone of this judgment, the qualification at the beginning stating this ruling only applying to the EA, the fact the judges state this judgment is not taking a position on the wider debate about the meaning of sex suggests to me the court was aware this judgment could be abused. In addition, the judges made sure to clarify the rights of trans people to make EA claims as described above. This indicates that if this judgment is abused and a legal claim is brought by a trans person, the courts will declare such conduct to be unlawful. I am not sure how much comfort this will be to the trans community who are watching people celebrate this judgment by making false claims about its meaning and effect on trans peoples rights under the EA and the law in general. But, I hope a complete understanding of this judgment provides you with a greater understanding and perhaps more reassurance than you had prior to reading this post. 
+The tone of this judgment, the qualification at the beginning stating this ruling only applying to the EA, the fact the judges state this judgment is not taking a position on the wider debate about the meaning of sex suggests to me the court was aware this judgment could be abused. In addition, the judges made sure to clarify the rights of trans people to make EA claims as described above. This indicates that if this judgment is abused and a legal claim is brought by a trans person, the courts will declare such conduct to be unlawful. I am not sure how much comfort this will be to the trans community who are watching people celebrate this judgment by making false claims about what it means with regard to the EA and the law in general. But, I hope a complete understanding of this judgment provides you with a greater understanding and perhaps more reassurance than you had prior to reading this post. 
 
 Regards
 
