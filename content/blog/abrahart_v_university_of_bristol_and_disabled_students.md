@@ -18,29 +18,31 @@ This case is one of the first times legal action has been taken against a univer
 
 Disability is defined as a mental or physical impairment that has a substantial long-term impact on a person's day-to-day activity.  Long-term means it has lasted 12 months, is likely to last more than 12 months, or is likely to last an entire lifetime.  Substantial means more than minor/ trivial.  The Equality and Human Rights Commission states substantial means more than the normal differences in ability that exist amongst people.  No diagnosis is required to meet the definition of disability in the Equality Act because the definition focuses on the effect of the impairment, not the cause.
 
-Mr Justice Linden (the high court judge who heard the appeal) found in Feb 2018, the university knew Ms Abrahart was suffering from harm to her mental health caused by the oral presentations over a long enough period and was discussing the long-term academic impact of her condition. This indicates they knew the condition may last longer than 12 months. As a result, from this point it was clear that Ms Abrahart was disabled. 
-
 A county court judge in 2022 found that the university had discriminated against Ms Abrahart in 3 ways: discriminating as the result of something arising from her disability, indirect discrimination and discrimination due to a lack of reasonable adjustments.[^3] On appeal, a high court judge confirmed this judgment and provided more clarity.[^4]
+
+How did the court determine that Ms Abrahart was disabled?
+
+    To make a claim under the Equality Act for discrimination, a claimant must meet the definition of disability contained within the act. Mr Justice Linden (the high court judge who heard the appeal) found in Feb 2018, the university knew Ms Abrahart was suffering from harm to her mental health caused by the oral presentations over a long enough period and was discussing the long-term academic impact of her condition. This indicates they knew the condition may last longer than 12 months. As a result, from this point it was clear that Ms Abrahart was disabled. 
 
 Reasonable adjustments:
 
-> Reasonable adjustments should be provided for a disabled person where a provision, criteria, or practice (PCP), physical feature, or lack of an auxiliary aid puts them at a substantial disadvantage compared with an able-bodied person. Not providing adjustments is discriminatory. 
+    Reasonable adjustments should be provided for a disabled person where a provision, criteria, or practice (PCP), physical feature, or lack of an auxiliary aid puts them at a substantial disadvantage compared with an able-bodied person. Not providing adjustments is discriminatory. 
 
-> There is no duty to make reasonable adjustments on a competence standard. This is a standard used to establish whether someone has a certain amount of medical, academic or other ability. 
+    There is no duty to make reasonable adjustments on a competence standard. This is a standard used to establish whether someone has a certain amount of medical, academic or other ability. 
 
-> The university argued that they were permitted to ensure a formal process according to their regulations was followed before providing adjustments.  The high court judge pointed out the problem with this: the regulations of the university ‘are not the law. They were subject to the law, including the requirements of the Equality Act 2010.’4 The policies may become ‘a PCP if applied strictly which is subject to the duties under the Equality Act including the reasonable adjustment duty’.[^4]
+    The university argued that they were permitted to ensure a formal process according to their regulations was followed before providing adjustments.  The high court judge pointed out the problem with this: the regulations of the university ‘are not the law. They were subject to the law, including the requirements of the Equality Act 2010.’4 The policies may become ‘a PCP if applied strictly which is subject to the duties under the Equality Act including the reasonable adjustment duty’.[^4]
 
 Indirect discrimination:
 
-> Where a PCP applies to all, but it puts those with a disability at a particular disadvantage compared with non-disabled people it is discriminatory.The requirement to complete an oral assessment was a PCP which had a detrimental effect on people with disabilities which precluded them from completing an oral presentation.
+    Where a PCP applies to all, but it puts those with a disability at a particular disadvantage compared with non-disabled people it is discriminatory.The requirement to complete an oral assessment was a PCP which had a detrimental effect on people with disabilities which precluded them from completing an oral presentation.
 
-> There is also a defence that applies to this form of discrimination, but the university did not argue that it applied and as a result, the high court found that the PCP was indirectly discriminatory.
+    There is also a defense that applies to this form of discrimination, but the university did not argue that it applied and as a result, the high court found that the PCP was indirectly discriminatory.
 
 Discrimination arising from Disability:
 
-> The Equality Act prohibits treating someone unfavourably because of something arising from their disability. The low marks were the result of Ms Abrahart’s condition which prevented her from being able to perform in the oral assessment. 
+    The Equality Act prohibits treating someone unfavourably because of something arising from their disability. The low marks were the result of Ms Abrahart’s condition which prevented her from being able to perform in the oral assessment. 
 
-> There is a possible defence for this form of discrimination. It did not apply because it was not necessary to mark her down to achieve fairness with respect to marking because she could have had reasonable adjustments which likely would have led to an increase in Ms Abrahart’s marks. 
+    There is a possible defense for this form of discrimination. It did not apply because it was not necessary to mark her down to achieve fairness with respect to marking because she could have had reasonable adjustments which likely would have led to an increase in Ms Abrahart’s marks. 
 
 Many disabled students were very optimistic that this tragedy would lead to the university sector changing its attitude towards disability and meeting its obligations to disabled people under the Equality Act. 
 
