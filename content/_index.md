@@ -14,5 +14,5 @@ A bit about me: I have completed an undergrad degree in law and an in the proces
 Regards
 
 I M Iqbal
- 
+ RSS feed: https://imiqbal.com/blog/index.xml
  [Charlie's website](https://charliew.net/) < webring > [Fern's website](https://fernymcfernface.github.io/)
