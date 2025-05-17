@@ -9,29 +9,23 @@ tags = ["Counter-terrorism"]
 In 2010, the book Dispatches from the Dark Side: On Torture and the Death of Justice was published by Gareth Peirce, a British solicitor. The book contains a series of 4 essays along with a introduction and a postscript about the war on terror and its impact on the rule of law in the UK. 
 
 Each chapter focuses on a different event during the war on terror and how the rule of law was undermined by the actions of the UK government: 
-    Chapter 1 focuses on the British men detained by the US in Guantanamo bay and the involvement of the UK government in their detention.
-
-    Chapter 2 is about the trial of Al-Megrahi, the only person convicted of the Lockerbie bombing and the evidence that another group of people were actually responsible for the bombing. 
-
-    Chapter 3 compared the experience of British Muslims during the war on terror and Irish Catholics during the Troubles. 
-
-    The final chapter is about the arrest and potential extradition of people from the UK to the US for terrorism related crimes and how the mechanisms of US terrorism law would violate human rights law in Europe. 
+- Chapter 1 focuses on the British men detained by the US in Guantanamo bay and the involvement of the UK government in their detention.
+-  Chapter 2 is about the trial of Al-Megrahi, the only person convicted of the Lockerbie bombing and the evidence that another group of people were actually responsible for the bombing. 
+- Chapter 3 compared the experience of British Muslims during the war on terror and Irish Catholics during the Troubles. 
+-The final chapter is about the arrest and potential extradition of people from the UK to the US for terrorism related crimes and how the mechanisms of US terrorism law would violate human rights law in Europe. 
 
 Peirce argues that each event eroded human rights and the rule of law, both principles the government claims to be protecting by engaging in a war on terrorism. If you want to read the book you can find it here: https://www.versobooks.com/en-gb/products/2177-dispatches-from-the-dark-side. 
 
 Given that the events discussed in the book took place over 15 years ago, why is the book still relevant today?
 
-    What all the events discussed in the book have in common is that the law itself was used to facilitate the human rights abuses and violations of the rule of law. The majority of the events discussed are either legal grey hole or a legal black holes. 
+- What all the events discussed in the book have in common is that the law itself was used to facilitate the human rights abuses and violations of the rule of law. The majority of the events discussed are either legal grey hole or a legal black holes. 
+- A legal black hole are "zones formally created by law within which, no recourse to the law can be made. A legal black hole is thus created when there is no legal control on the body exercising the power in question, leaving the decision-maker free to exercise their absolute discretion."[^1] 
+- Legal grey holes are "questions of law which courts state that they do have the capacity to review; however, the review exercised is so light touch that it is essentially meaningless".[^2] 
 
-    A legal black hole are "zones formally created by law within which, no recourse to the law can be made. A legal black hole is thus created when there is no legal control on the body exercising the power in question, leaving the decision-maker free to exercise their absolute discretion."[^1] 
+- For example, Guantanamo started as a  legal black hole, chosen because it was outside of the US thereby allowing the Bush administration to claim US law did not apply there. As a result, they could detain people without charge or trial and torture them without the oversight of US courts. 
+- After several US supreme court cases, it became clear that some limited rights under the US constitution still applied in Guantanamo such as habeas corpus: the primary mechanism used to challenge unlawful detention in the US. However, the courts, as expected, heavily deferred to the government regarding their assessments of the national security threats posed by those detained there. In effect, the courts were applying a light touch review to the status of the them, thereby allowing people who had no links to Al-Qaeda or any other terrorist group to remain detained in a prison notorious for human rights abuses and torture. Guantanamo changed from a legal black hole to a legal grey hole, which is how it remains 23 years after it was opened. 
 
-    Legal grey holes are "questions of law which courts state that they do have the capacity to review; however, the review exercised is so light touch that it is essentially meaningless".[^2] 
-
-    For example, Guantanamo started as a  legal black hole, chosen because it was outside of the US thereby allowing the Bush administration to claim US law did not apply there. As a result, they could detain people without charge or trial and torture them without the oversight of US courts. 
-
-    After several US supreme court cases, it became clear that some limited rights under the US constitution still applied in Guantanamo such as habeas corpus: the primary mechanism used to challenge unlawful detention in the US. However, the courts, as expected, heavily deferred to the government regarding their assessments of the national security threats posed by those detained there. In effect, the courts were applying a light touch review to the status of the them, thereby allowing people who had no links to Al-Qaeda or any other terrorist group to remain detained in a prison notorious for human rights abuses and torture. Guantanamo changed from a legal black hole to a legal grey hole, which is how it remains 23 years after it was opened. 
-
-> Peirce discusses Guantanamo throughout her book but primarily in Chapter 1: Make sure you say you were treated properly and Chapter 4: Are we out Brothers Keepers?.
+Peirce discusses Guantanamo throughout her book but primarily in Chapter 1: Make sure you say you were treated properly and Chapter 4: Are we out Brothers Keepers?.
 
 Donald Trump's senior advisor Stephen Miller has stated the Trump administration wishes to suspend Habeas Corpus. Miller states “The constitution is clear, and that of course is the supreme law of the land, that the privilege of the writ of habeas corpus could be suspended in time of invasion. So that’s an option we’re actively looking at. A lot of it depends on whether the courts do the right thing or not,”.[^3] 
 
@@ -41,9 +35,8 @@ The writ of habeas corpus has only been suspended four times in US history, most
 
 This is the product of courts hearing Habeas petitions from those who are detained to either be deported based on 2 different grounds:
 
-    1- The Secretary of state has concluded they are a threat to the foreign policy of the US because they where involved in pro-Palestine activism. To be clear, such activism is protected under the 1st amendment: the right to freedom of speech. 
-
-    2- They are accused of being a member of a gang and as a result will be sent to El Salvador's notorious CECOT prison. The vast majority of those detained are not gang members. For example, one man was detained because he had a tattoo of a crown to honour his parents. 
+- 1- The Secretary of state has concluded they are a threat to the foreign policy of the US because they where involved in pro-Palestine activism. To be clear, such activism is protected under the 1st amendment: the right to freedom of speech. 
+- 2- They are accused of being a member of a gang and as a result will be sent to El Salvador's notorious CECOT prison. The vast majority of those detained are not gang members. For example, one man was detained because he had a tattoo of a crown to honour his parents. 
 
 Miller argues because these cases are immigration cases, the courts that hear the Habeas petitions which aren't immigration courts, lack jurisdiction. Habeas makes no distinction based on the reason for detention. It applies in all cases where the government is detaining a person. To suspend Habeas is to suspend the ability of people to challenge the grounds for detention. 
 
@@ -57,8 +50,8 @@ His case was joined with Mamdouh Habib's case which made the same arguments agai
 The Bush administration argued Guantanamo was in Cuba and outside the jurisdiction of the US therefore the supreme court couldn't hear the case. The court heard it anyway and found the men had the right to challenge their detention as Habeas jurisdiction existed over all places under the sovereign's control. That included Guantanamo, as it was inside US naval base in Cuba and therefore under US sovereign control.
 
 To quote Peirce on Rasul v Bush:
-
-> The argument that won in Bush v Rasul was "prisoners... should have access to legal remedies and to lawyers who could, most importantly of all, for the first time go in and, bit by bit, bring out reports, not just of the physical and mental horrors inflicted by or on behalf of Americans, but the complicity of this country (at every level) in their unlawful captivity. We were never mean to know any of this."
+The argument that won in Bush v Rasul was 
+> "prisoners... should have access to legal remedies and to lawyers who could, most importantly of all, for the first time go in and, bit by bit, bring out reports, not just of the physical and mental horrors inflicted by or on behalf of Americans, but the complicity of this country (at every level) in their unlawful captivity. We were never mean to know any of this."
 
 We know what happened because of Habeas Corpus. Without it, we would not know the names of the 800 men detained there. Lawyers would not have been able to tell the world of the torture they experienced at the hands of the country that calls itself the leader of the free world. Worse of all the men might still be there because the campaigns to end Guantanamo might never have started. We would never know that our government, the UK government, was complicit in the crime of torture.[^4]
 
