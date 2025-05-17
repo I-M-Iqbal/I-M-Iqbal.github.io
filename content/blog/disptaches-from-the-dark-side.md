@@ -1,6 +1,5 @@
 +++
 date = '2025-05-16T19:02:15+01:00'
-draft = true
 title = 'Dispatches From the Dark Side: my favourite book about law and why it remains relevant 15 years after its publication'
 +++
 
