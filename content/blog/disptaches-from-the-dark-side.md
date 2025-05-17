@@ -65,7 +65,7 @@ Peirce's book  tells us how governments use the law to undermine the law by crea
 
 The title Dispatches from the Dark Side is a warning, from a solicitor who knows because she has represented hundreds of people who found themselves in a legal black or grey hole, as to what happens in the dark, where the law and oversight does not exist. The subtitle of the book refers to the death of justice. To suspend Habeas is to kill justice because without it, there is no way to know who is detained by the government, on what grounds and what conditions they are being held in.
 
-Her book its still relevant because is shows us "history doesn't repeat itself, but it often rhymes"[^6]. Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
+Her book its still relevant because "history doesn't repeat itself, but it often rhymes"[^6]. Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
 
 [^1]: https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/
 [^2]:https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/
