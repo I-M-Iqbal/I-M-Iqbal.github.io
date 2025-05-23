@@ -285,6 +285,10 @@ Regards
 
 IMI
 
+Edit 23/05/2025: Baroness Brenda Hale, former head of the UK supreme court, was asked about this judgement recently and she stated that she believes it is being misinterpreted. I suspect this is what the current UKSC judges were concerned about as mentioned above. She also highlighted that a biological definition of sex without clarifying what that means may itself cause issues in the future. Noteably she stated: 
+
+> 'there’s nothing in that judgment that says that you can’t have gender neutral loos, as we have here in this festival.” She applauded the fact that Charleston’s organisers went ahead with that decision “despite the fact that there are people saying that you can’t do that”.The judgment “says nothing about that”, she added. “It’s for other people to work out the other parts of the Equality Act, which permit but do not require services to be provided differently for people according to sex.'[^26]
+
 ## sources
 Link to the summary judgment given by Lord Hodge on behalf of the court: https://www.youtube.com/watch?v=XxHtbTragtg
 Link to the press release: https://supremecourt.uk/cases/press-summary/uksc-2024-0042
@@ -315,3 +319,4 @@ Link to the judgment: https://supremecourt.uk/cases/judgments/uksc-2024-0042
 [^23]:https://www.theguardian.com/uk-news/2025/apr/17/trans-women-uk-railways-strip-searched-male-officers
 [^24]:https://x.com/JolyonMaugham/status/1912805095198142581
 [^25]:https://oldsquare.co.uk/wp-content/uploads/2021/11/R-on-application-of-AEA-v-EHRC-2021-EWHC-1623-Admin.pdf
+[^26]: https://www.theguardian.com/law/2025/may/22/court-ruling-legal-definition-of-a-woman-misinterpreted-lady-hale
