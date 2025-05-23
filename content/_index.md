@@ -20,3 +20,5 @@ I M Iqbal
 
 
  [Charlie's website](https://charliew.net/) < webring > [Fern's website](https://fernymcfernface.github.io/)
+
+ If you wish to search the webring, my good friend Charlie has created a handy search engine: https://search.246802468.xyz/. 
