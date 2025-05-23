@@ -6,9 +6,6 @@ tags = ["Counter-terrorism"]
 
 +++
 
-![alt](./SOS%20image.webp)
-> The image is a photo of men wearing red or orange jumpsuits that are incarcerated for the purposes of deportation in the united stated. Red indicates high risk prisoners. The vast majority of those who are detained have committed no crime. 
-
 In 2010, the book Dispatches from the Dark Side: On Torture and the Death of Justice was published by Gareth Peirce, a British solicitor. The book contains a series of 4 essays along with a introduction and a postscript about the war on terror and its impact on the rule of law in the UK. 
 
 Each chapter focuses on a different event during the war on terror and how the rule of law was undermined by the actions of the UK government: 
