@@ -1,6 +1,6 @@
 +++
 date = '2025-06-02T21:46:32+01:00'
-title = 'Why S.58 and S.57 are perhaps the worst offences created by the Terrorism Act 2000'
+title = 'Why S.58 is perhaps the worst offences created by the Terrorism Act 2000'
 
 tags = ["Terrorism Law"]
 
@@ -16,18 +16,20 @@ The general argument in favour of these offences is that they tend to prohibit c
 
 This takes us to S.58 of the Terrorism Act 2000:
 
-    S.58 is collection of information [^2]:
-        A person commits an offence if they record information that is likely to be useful to a person committing or preparing an act of terrorism.
-        Or
-        If a person possesses information of this nature.
-        OR
-        A person accesses a record that contains such information or use the internet to access information of this nature. This is regardless of whether a download was made.
+S.58 is collection of information [^2]:
 
-        A defence to this offence is having a reasonable excuse which means:
-            1- they did not know and had no reason to believe the information contained or was likely to contain information likely to be useful to a person committing or preparing an act of terrorism. 
-            2- the action was for the purposes of work as a journalist or academic research. 
+- A person commits an offence if they record information that is likely to be useful to a person committing or preparing an act of terrorism.
+Or
+- If a person possesses information of this nature.
+Or
+- A person accesses a record that contains such information or use the internet to access information of this nature. This is regardless of whether a download was made.
 
-        A person convicted of a S.58 offence can also be sentenced to up to 15 years in prison. 
+A defence to this offence is having a reasonable excuse which means:
+
+- 1- they did not know and had no reason to believe the information contained or was likely to contain information likely to be useful to a person committing or preparing an act of terrorism. 
+- 2- the action was for the purposes of work as a journalist or academic research. 
+
+A person convicted of a S.58 offence can be sentenced to up to 15 years in prison. 
 
 S.58 does not mention the mens rea (mental state) of the accused. The words intention, reckless, negligent, all terms that allude to the mental state of the accused are absent from the definition of these offences. Effectively this means all the CPS (Crown Prosecution Service) has to prove is that the accused commited the act itself. Generally, the less elements the CPS has to prove, the easier it is to obtain a conviction. This is a classic examples of a strict liability offence. 
 
