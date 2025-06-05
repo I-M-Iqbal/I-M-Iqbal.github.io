@@ -3,7 +3,7 @@ date = '2025-06-04T17:48:58+01:00'
 
 title = 'Why the UK does not have blasphemy laws even if the press claim otherwise:'
 
-Tags ["criminal law"]
+Tags = ["criminal law"]
 +++
 
 A man has been fined £240 after he set fire to a Quran outside the Turkish consulate in London. Mr Coskun is half Kurdish and half Armenian and was born in Turkey. He stated on social media that he wanted to 'protest the Islamist Government of Erdogan who has made Turkey a base for radical Islamists and is trying to establish a Sharia regime'[^1]. The case was heard before a judge sitting in the Magistrates court meaning he was both the finder of fact and responsible to issuing a sentence in this case. 
