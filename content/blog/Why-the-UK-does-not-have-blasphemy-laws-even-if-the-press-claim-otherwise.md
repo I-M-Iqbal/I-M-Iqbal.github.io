@@ -1,6 +1,6 @@
 +++
 date = '2025-06-04T17:48:58+01:00'
-draft = true
+
 title = 'Why the UK does not have blasphemy laws even if the press claim otherwise:'
 
 Tags ["criminal law"]
