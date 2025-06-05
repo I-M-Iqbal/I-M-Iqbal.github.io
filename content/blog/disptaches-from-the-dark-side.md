@@ -63,6 +63,10 @@ The title Dispatches from the Dark Side is a warning, from a solicitor who knows
 
 Her book its still relevant because "history doesn't repeat itself, but it often rhymes"[^6]. Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
 
+Regards
+ 
+IMI
+
 [^1]: https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/
 [^2]:https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/
 [^3]: https://www.theguardian.com/law/2025/may/09/end-habeas-corpus-detention-trump-stephen-miller

@@ -82,6 +82,10 @@ Therefore, there is a risk that people charged with this offence may be more lik
 
 Ultimately, the justification for this offence is the classic debate that underpins most of terrorism law: the debate between security and liberty. How much liberty is society willing to sacrifice for security? And what happens when the liberty we are sacrificing is not an equal amount from all persons within a society, but instead a disproportionate amount of a suspect communities liberty is sacrificed?
 
+Regards
+
+IMI
+
 [^1]: https://plus-lexis-com.bham-ezproxy.idm.oclc.org/uk/practical-guidance-uk/strict-liability_2/?crid=ffc1e046-8ce7-4612-a602-495262ece4cb&pddocumentnumber=1
 [^2]: https://www.legislation.gov.uk/ukpga/2000/11/section/58
 [^3]: https://publications.parliament.uk/pa/ld200809/ldjudgmt/jd090304/rgrj-1.htm
