@@ -1,7 +1,7 @@
 +++
 date = '2025-06-10T13:32:50+01:00'
 
-title = 'What Is SIAC ?'
+title = 'What is SIAC ?'
 
 Tags = ["Terrorism Law"]
 
