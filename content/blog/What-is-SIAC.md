@@ -7,7 +7,7 @@ Tags = ["Terrorism Law"]
 
 +++
 
-SIAC, otherwise known as the Special Immigration Appeals Commission, is a specialist tribunal that deals with immigration cases where the decisions have some based in whole or part on national security information. SIAC has heard just over 200 cases since its creation in 1997.
+SIAC, otherwise known as the Special Immigration Appeals Commission, is a specialist tribunal that deals with immigration cases where the decisions have some based in whole or part on national security information. SIAC has heard just over 300 cases since its creation in 1997.
 
 In proceedings about the national security information which led to the immigration decision, a special advocate represents the interests of the appellant and the legal team that represents them in the rest of the case before SIAC cannot attend these hearings. The appellant themselves also cannot attend these proceedings.
 
