@@ -50,7 +50,7 @@ In their annual access insights report, Disabled Students UK found almost half o
 
 Despite this, disabled students always have and always will continue to demand equal treatment to their able-bodied counterparts. The Ms Abrahart's family are part of a campaign called Forthe100. This campaign aims to establish a duty of care 'requiring universities to act responsibly and provide education with reasonable care and skill'.[^6] This does not make universities responsible for instances where students die by suicide instead it requires them to act as other organisations like prisons, schools, employers and hospitals do in this context.
 
-For more information on the Forthe100 campagin see their website: https://www.forthe100.org.uk
+For more information on the Forthe100 campagin, please see their website: https://www.forthe100.org.uk
 
 Regards
 
