@@ -62,11 +62,11 @@ The detail of these cases including some of the reasons why SIAC upholds or over
 
 Ultimately, there is a lot that we just don't know. Some of that is the inherent product of secrecy and relying on secret evidence. But some of it is the product of choices made by successive governments. For example, the bar on discussion between the appellant and special advocate can be removed as is the case in the Canadian procedure that inspired SIAC. That was a political choice made in 1997 and reaffirmed each time the government uses this procedure, because at least in theory governments should not be able to conduct themselves in ways that have the capacity to violate the human rights of those with British citizenship status. 
 
-The requirements that orders do not make people stateless all rely on the judgment of the Home secretary. That requirement focuses on whether there were grounds for the Home Secretary to believe the person has citizenship status and whether that was reasonable not whether the person is actually stateless or not.[^14] Therefore the standard of protection offered by this requirement is not particularly high and it can be used where a person does not have citizenship status but could have it, as was the case with Shamima Begum.
+The requirements that orders do not make people stateless focuses on whether there were grounds for the Home Secretary to believe the person has citizenship status and whether that belief was reasonable. Therefore the standard of protection offered by this requirement is not particularly high and it can be used where a person does not have citizenship status but could have it, as was the case with Shamima Begum.
 
-Given the gravity of citizenship status removal and the fact many of those subject to them are former members of ISIS detained in northern Syria in conditions which violate international law, including the prohibition on torture,[^15] we cannot afford not to know. We cannot afford to remain in the dark as to whether these procedures respect fundamental human rights because the consequences to appellants is grave. But remaining in the dark also has consequences for those of us who aren't subject to s.40 of the BNA, because the government does not have to explain when and why they can remove our citizenship status. 
+Given the gravity of citizenship status removal and the fact many of those subject to them are former members of ISIS detained in northern Syria in conditions which violate international law, including the prohibition on torture,[^14] it should be clear in what circumstances the UK government can remove citizenship. This is both a rule of law issue but also a democratic one. How can we know whether the voting population agrees with the way the Home Secretary has used this power without known the reasons why they have used it and thr circumstances of their decisions?
 
-Hannah Arendt argued that a precondition of all human rights is citizenship as it represents the the right to be part of a political community which is a state who are the guarantors of human rights.[^16] Therefore in her words, without citizenship,  the right to any other rights does not exist. British people should know when the government believes they can deprive us of the right to have rights. 
+Hannah Arendt argued that a precondition of all human rights is citizenship as it represents the the right to be part of a political community, a state, who according to the law are the guarantors of human rights.[^15] Therefore in her words, without citizenship, there can be no right to have any other rights. British people should know when the government believes they have the right to deprive people of the right to have rights. 
 
 Regards
 IMI
@@ -86,6 +86,5 @@ PS: The reason I am failing at being brief about why SIAC is problematic is not 
 [^11]: https://publications.parliament.uk/pa/jt200607/jtselect/jtrights/157/157.pdf
 [^12]: Para 329 of https://justice.org.uk/secret-evidence/
 [^13]: Special advocates and procedural fairness in closed proceedings by Martin Chamberlain published in 2007 and https://www.gov.uk/government/publications/saso-manual. 
-[^14]: The law is explained in several judgments the most recent of which is https://supremecourt.uk/uploads/uksc_2023_0133_0165_press_summary_c0efc9f160.pdf
-[^15]: www.ohchr.org/sites/default/files/documents/issues/terrorism/sr/statements/EoM-Visit-to-Syria-20230721.pdf
-[^16]: https://criticallegalthinking.com/2019/07/12/hannah-arendt-right-to-have-rights/
+[^14]: www.ohchr.org/sites/default/files/documents/issues/terrorism/sr/statements/EoM-Visit-to-Syria-20230721.pdf
+[^15]: https://criticallegalthinking.com/2019/07/12/hannah-arendt-right-to-have-rights/
