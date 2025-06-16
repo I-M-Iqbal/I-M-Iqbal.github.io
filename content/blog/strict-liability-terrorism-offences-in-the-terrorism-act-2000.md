@@ -80,7 +80,7 @@ Before September 11 2001, Terrorism in the UK was largely associated with the Tr
 
 Therefore, there is a risk that people charged with this offence may be more likely to fit our image of a terrorist. It may also fit with the image of how terrorism if committed, despite the fact the method used to commit the offence is not defined in S.1 or elsewhere in the Terrorism Act. Alongside the other issues with S.58 discussed above, the chances of this law being used against a suspect community, Muslims today but is might be another community tomorrow, are heightened. 
 
-Ultimately, the justification for this offence is the classic debate that underpins most of terrorism law: the debate between security and liberty. How much liberty is society willing to sacrifice for security? And what happens when the liberty we are sacrificing is not an equal amount from all persons within a society, but instead a disproportionate amount of a suspect communities liberty is sacrificed?
+Ultimately, the justification for this offence is the classic debate that underpins most of terrorism law: the debate between security and liberty. How much liberty is society willing to sacrifice for security? And what happens when the liberty we are sacrificing is not an equal amount from all persons within a society, but instead a disproportionate amount of a suspect communities liberty?
 
 Regards
 
