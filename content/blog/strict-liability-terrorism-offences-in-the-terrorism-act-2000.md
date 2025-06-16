@@ -12,7 +12,7 @@ Strict liability runs against the presumption in criminal law that offences requ
 
 > 'There is a presumption that mens rea, an evil intention, or a knowledge of the wrongfulness of the act, is an essential ingredient in every offence; but that presumption is liable to be displaced either by the words of the statute creating the offence'.
 
-The general argument in favour of these offences is that they tend to prohibit conduct with is paticularly harmful to society and that is the justification for overriding the presumption mentioned above. But what happens if this argument doesn't clearly apply to a specific example of a strict liability offence:
+The general argument in favour of these offences is that they tend to prohibit conduct with is particularly harmful to society and that is the justification for overriding the presumption mentioned above. But what happens if this argument doesn't clearly apply to a specific example of a strict liability offence:
 
 This takes us to S.58 of the Terrorism Act 2000:
 
@@ -31,13 +31,13 @@ A defence to this offence is having a reasonable excuse which means:
 
 A person convicted of a S.58 offence can be sentenced to up to 15 years in prison. 
 
-S.58 does not mention the mens rea (mental state) of the accused. The words intention, reckless, negligent, all terms that allude to the mental state of the accused are absent from the definition of these offences. Effectively this means all the CPS (Crown Prosecution Service) has to prove is that the accused commited the act itself. Generally, the less elements the CPS has to prove, the easier it is to obtain a conviction. This is a classic examples of a strict liability offence. 
+S.58 does not mention the mens rea (mental state) of the accused. The words intention, reckless, negligent, all terms that allude to the mental state of the accused are absent from the definition of these offences. Effectively this means all the CPS (Crown Prosecution Service) has to prove is that the accused committed the act itself. Generally, the less elements the CPS has to prove, the easier it is to obtain a conviction. This is a classic examples of a strict liability offence. 
 
 But beyond this offence being comparatively easy to prove when compared to other criminal offences, why are these is it problematic?
 
 ## S.58 as a precursor offence:
 
-S.58 prohibits conduct without an mens rea element. Essentially the conduct is unlawful regardless of whether a full intention to commit an act of terrorism has solified. It is essentially assuming terrorism is such a grave threat that society as a whole may wish to prohibit it so early in the timeline of an act of terrorism, in the very early planning stages. This is an attempt to manage risk of terrorism rather than prohibit harm therefore it is not in keeping with the majority of criminal law which aims to prohibit harm to others. 
+S.58 prohibits conduct without an mens rea element. Essentially the conduct is unlawful regardless of whether a full intention to commit an act of terrorism has solidified. It is essentially assuming terrorism is such a grave threat that society as a whole may wish to prohibit it so early in the timeline of an act of terrorism, in the very early planning stages. This is an attempt to manage risk of terrorism rather than prohibit harm therefore it is not in keeping with the majority of criminal law which aims to prohibit harm to others. 
 
 So the question is can you characterise collecting or possessing information in circumstances that violate S.58 as a harm warranting the intervention of the criminal law? 
 
@@ -54,7 +54,7 @@ In R v G, the House of Lords (now replaced by the Supreme Court) delivered some 
 
  - 'the information must, of its very nature, be designed to provide practical assistance to a person committing or preparing an act of terrorism.'
  - 'it is not necessary that the information should be useful only to a person committing etc an act of terrorism'
- - Evidence outside of the information itself cannot be used to convert information which would not assist a person committing/ preparing to commit and act of terrorism into information which would assiat them. 
+ - Evidence outside of the information itself cannot be used to convert information which would not assist a person committing/ preparing to commit and act of terrorism into information which would assist them. 
 
 While this may seem helpful at a first glance, it is not really that helpful. What information is of practical assistance to a person who is going to or intends to commit terrorism? Is a bus or train schedule sufficient- it could be helpful if a person was planning to commit a act of terror on a train/bus  but it could also be possessed for the purposes of catching said train/ bus.  
 
@@ -74,11 +74,11 @@ This takes us to the final critique of s.58 (in this blog post, there are many o
 ## Politics and Terrorism:
 Terrorism is defined in political terms.[^5]. The S.1 definition of terrorism in the Terrorism Act 2000 requires a political, religious, racial or ideological cause. The publics understanding of the offence is driven by politics. And it can often involve suspect communities.
 
-Hillyard coined the term suspect community to describe the way Irish communities were constructed as suspect due to counter terrorism measures during the Troubles. Suspect Community is defined as a group which are percieved as a threat by authorities or society leading to increased surveillance and discriminatory practices[^6]. 
+Hillyard coined the term suspect community to describe the way Irish communities were constructed as suspect due to counter terrorism measures during the Troubles. Suspect Community is defined as a group which are perceieved as a threat by authorities or society leading to increased surveillance and discriminatory practices[^6]. 
 
 Before September 11 2001, Terrorism in the UK was largely associated with the Troubles and Irish Republicans which led to widespread discrimination against Irish people and several wrongful convictions of Irish people for terrorism offences.[^7] After September 11 2001, Terrorism became associated with Muslims and the Arab world, again leading to discrimination against Muslims and those from Muslim countries.[^8] Gareth Pierce writes about the experiences of the Irish during the Troubles and Muslims after 9/11 in the third essay in her book titled: Was it like this for the Irish?[^9]. These groups are both clear examples of suspect communities. The definition of suspect community highlights the role of society and authority in building a suspect community thereby highlighting that the public can influence terrorism law as much as terrorism law can influence the public.
 
-Therefore, there is a risk that people charged with this offence may be more likely to fit our image of a terrorist. It may also fit with the image of how terrorism if committed, despite the fact the method used to commit the offence is not defined in S.1 or elsewhere in the Terrorism Act. Alongside the other issues with S.58 dicussed above, the chances of this law being used against a suspect community, Muslims today but is might be another community tomorrow, are heightened. 
+Therefore, there is a risk that people charged with this offence may be more likely to fit our image of a terrorist. It may also fit with the image of how terrorism if committed, despite the fact the method used to commit the offence is not defined in S.1 or elsewhere in the Terrorism Act. Alongside the other issues with S.58 discussed above, the chances of this law being used against a suspect community, Muslims today but is might be another community tomorrow, are heightened. 
 
 Ultimately, the justification for this offence is the classic debate that underpins most of terrorism law: the debate between security and liberty. How much liberty is society willing to sacrifice for security? And what happens when the liberty we are sacrificing is not an equal amount from all persons within a society, but instead a disproportionate amount of a suspect communities liberty is sacrificed?
 

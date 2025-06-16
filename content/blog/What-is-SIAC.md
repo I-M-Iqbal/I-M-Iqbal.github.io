@@ -56,7 +56,7 @@ The weirdness of SIAC is problematic because all of the above issues impact the 
 
 In cases where the majority of the evidence is secret, the rest of the appellants legal team is making arguments against removal of citizenship status without knowing the details of the case against their client. In such cases, they are making arguments in the dark, without the ability to respond to the states case and hoping they might convince the judges. That is the core of the problem with SIAC, in some cases it might not be capable of providing adequate protection for the rights of appellants. 
 
-The issue is, the matter has not returned to the ECtHR for adjudication. Even if it did, as mentioned above, the effect of SIACs proceedings on the fairness of te case can differ based on how much secret evidence there is. Therefore it is possible SIAC might be more fair with regard to the appellants human rights some cases than others.
+The matter has not returned to the ECtHR for adjudication. Even if it had, as mentioned above, the effect of SIACs proceedings on the fairness of the case can differ based on how much secret evidence there is. Therefore it is possible SIAC might be more fair with regard to the appellants human rights some cases than others.
 
 The detail of these cases including some of the reasons why SIAC upholds or overturns the decisions of the Home Secretary are secret because those reasons are based in secret evidence. This poses additional  difficulties with establishing how SIAC works and whether it is fair because we do not know how the judges reason and weigh the arguments by the government and the appellant and determine which are more convincing. 
 

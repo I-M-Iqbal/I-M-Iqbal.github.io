@@ -46,9 +46,11 @@ There is a possible defense for this form of discrimination. It did not apply be
 
 Many disabled students were very optimistic that this tragedy would lead to the university sector changing its attitude towards disability and meeting its obligations to disabled people under the Equality Act. 
 
-In their annual access insights report, Disabled Students UK found almost half of disabled students who responded to their survey still report having received a lower mark on their course due to an assessment being inaccessible to them.[^2] Disabled student satisfaction is still lower than their able-bodied counterparts in the National Student Survey, a national survey of final year undergraduate students.[^5]  As a result, it appears some portion of respondents may have suffered unlawful discrimination since the Abrahart Ruling and that the attitude of universities may not have progressed as significantly as many disabled students hoped. 
+In their annual access insights report, Disabled Students UK found almost half of disabled students who responded to their survey still report having received a lower mark on their course due to an assessment being inaccessible to them.[^2] Disabled student satisfaction is still lower than their able-bodied counterparts in the National Student Survey, a national survey of final year undergraduate students.[^5]  As a result, it appears some portion of respondents may have suffered unlawful discrimination since the Abrahart Ruling. The attitude of universities may not have progressed as significantly as many disabled students hoped. 
 
-Despite this, disabled students always have and always will continue to demand equal treatment to their able-bodied counterparts. And will keep doing so for as long as it takes. 
+Despite this, disabled students always have and always will continue to demand equal treatment to their able-bodied counterparts. The Ms Abrahart's family are part of a campaign called Forthe100. This campaign aims to establish a duty of care 'requiring universities to act responsibly and provide education with reasonable care and skill'.[^6] This does not make universities responsible for instances where students die by suicide instead it requires them to act as other organisations like prisons, schools, employers and hospitals do in this context.
+
+For more information on the Forthe100 campagin see their website: https://www.forthe100.org.uk/duty-of-care#one
 
 Regards
 
