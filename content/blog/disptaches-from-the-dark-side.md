@@ -1,6 +1,6 @@
 +++
 date = '2025-05-16T19:02:15+01:00'
-title = 'Dispatches From the Dark Side: my favourite book about law and why it remains relevant 15 years after its publication'
+title = 'Dispatches From the Dark Side: Why it remains relevant 15 years after its publication'
 
 tags = ["Terrorism Law"]
 
@@ -61,7 +61,7 @@ Peirce's book  tells us how governments use the law to undermine the law by crea
 
 The title Dispatches from the Dark Side is a warning, from a solicitor who knows because she has represented hundreds of people who found themselves in a legal black or grey hole, as to what happens in the dark, where the law and oversight does not exist. The subtitle of the book refers to the death of justice. To suspend Habeas is to kill justice because without it, there is no way to know who is detained by the government, on what grounds and what conditions they are being held in.
 
-Her book its still relevant because "history doesn't repeat itself, but it often rhymes"[^6]. Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
+The book its still relevant because "history doesn't repeat itself, but it often rhymes"[^6]. Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
 
 Regards
  
