@@ -1,6 +1,6 @@
 +++
 date = '2025-06-20T12:30:06+01:00'
-title = 'What Is a Proscribed Organisation'
+title = 'What is a Proscribed Organisation ?'
 
 Tags = ["Counter Terrorism Law"]
 +++
