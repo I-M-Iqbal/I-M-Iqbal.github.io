@@ -152,13 +152,17 @@ The EA intended to “reform and harmonise equality law and restate the greater 
 
 The Equality Act is concerned with discrimination against individuals and groups:
 
-    For example, direct discrimination claims (S.13) are designed to protect the individual. If a person was to make a S.13 claim, they would need to provide a comparator (real or hypothetical) that does not have the protected characteristic and is identical to the claimant in all other respects. This allows the court to examine whether it is the protected characteristic or something else that caused the alleged discrimination. A comparator is not neccessary for pregnancy/ maternity claims and favourable treatment due to pregnancy is not relevant for the purposes of discrimination. Both cisgender people and trans people can make claims under S.13 but if the trans person is alleging the discrimination is due to absence from work, this is covered by S.16 instead. Perception based discrimination, discrimination because someone believes you have a protected characteristic is also prohibited.
+For example, direct discrimination claims (S.13) are designed to protect the individual. If a person was to make a S.13 claim, they would need to provide a comparator (real or hypothetical) that does not have the protected characteristic and is identical to the claimant in all other respects. This allows the court to examine whether it is the protected characteristic or something else that caused the alleged discrimination. A comparator is not neccessary for pregnancy/ maternity claims and favourable treatment due to pregnancy is not relevant for the purposes of discrimination. Both cisgender people and trans people can make claims under S.13 but if the trans person is alleging the discrimination is due to absence from work, this is covered by S.16 instead. Perception based discrimination, discrimination because someone believes you have a protected characteristic is also prohibited.
 
 Indirect discrimination, equal pay claims, positive measures and the PSED are designed to protect people with protected characteristics as a group: 
-    - S.19 operates to prohibit a seemingly neutral policy which has a specific discriminatory effect on a group of people because of there protected characteristics. "It must be possible to reach general conclusions or make general assumptions about a group with a particular protected characteristic such that an employer or other duty-bearer ought reasonably to be able to appreciate that any particular PCP applied to their workforce or service users may have a disproportionately adverse impact on the group." S.19A also extended this protection to people who do not have a protected characteristic but experience the same negative effect as a person with a protected characteristic would. This is essentially a version of perception based discrimination. 
-    - Positive measures to mitigate disadvantage faced by people with protected characteristics as a group are permitted under S.188/9 of the EA so long as they are proportionate. 
-    - S.149 creates specific duties on public bodies. I return to the detail of this duty below. 
-    - S.64 allows for equal pay claims but required a real life comparator without the relevant protected characteristic. 
+
+- S.19 operates to prohibit a seemingly neutral policy which has a specific discriminatory effect on a group of people because of there protected characteristics. "It must be possible to reach general conclusions or make general assumptions about a group with a particular protected characteristic such that an employer or other duty-bearer ought reasonably to be able to appreciate that any particular PCP applied to their workforce or service users may have a disproportionately adverse impact on the group." S.19A also extended this protection to people who do not have a protected characteristic but experience the same negative effect as a person with a protected characteristic would. This is essentially a version of perception based discrimination. 
+
+- Positive measures to mitigate disadvantage faced by people with protected characteristics as a group are permitted under S.188/9 of the EA so long as they are proportionate. 
+    
+- S.149 creates specific duties on public bodies. I return to the detail of this duty below. 
+    
+- S.64 allows for equal pay claims but required a real life comparator without the relevant protected characteristic. 
 
 ## The courts ruling on the key Q: Does the  definition of sex in the EA include trans people with GRCs:
 
@@ -289,7 +293,6 @@ Edit 23/05/2025: Baroness Brenda Hale, former head of the UK supreme court, was 
 
 > 'there’s nothing in that judgment that says that you can’t have gender neutral loos, as we have here in this festival.” She applauded the fact that Charleston’s organisers went ahead with that decision “despite the fact that there are people saying that you can’t do that”.The judgment “says nothing about that”, she added. “It’s for other people to work out the other parts of the Equality Act, which permit but do not require services to be provided differently for people according to sex.'[^26]
 
-## sources
 Link to the summary judgment given by Lord Hodge on behalf of the court: https://www.youtube.com/watch?v=XxHtbTragtg
 Link to the press release: https://supremecourt.uk/cases/press-summary/uksc-2024-0042
 Link to the judgment: https://supremecourt.uk/cases/judgments/uksc-2024-0042
