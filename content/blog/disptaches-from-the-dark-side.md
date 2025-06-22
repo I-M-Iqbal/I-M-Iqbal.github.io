@@ -16,7 +16,7 @@ Each chapter focuses on a different event during the war on terror and how the r
 
 Peirce argues that each event eroded human rights and the rule of law, both principles the government claims to be protecting by engaging in a war on terrorism. If you want to read the book you can find it here: https://www.versobooks.com/en-gb/products/2177-dispatches-from-the-dark-side. 
 
-Given that the events discussed in the book took place over 15 years ago, why is the book still relevant today?
+## Given that the events discussed in the book took place over 15 years ago, why is the book still relevant today?
 
 - What all the events discussed in the book have in common is that the law itself was used to facilitate the human rights abuses and violations of the rule of law. The majority of the events discussed are either legal grey hole or a legal black holes. 
 - A legal black hole are "zones formally created by law within which, no recourse to the law can be made. A legal black hole is thus created when there is no legal control on the body exercising the power in question, leaving the decision-maker free to exercise their absolute discretion."[^1] 
@@ -40,7 +40,8 @@ This is the product of courts hearing Habeas petitions from those who are detain
 
 Miller argues because these cases are immigration cases, the courts that hear the Habeas petitions which aren't immigration courts, lack jurisdiction. Habeas makes no distinction based on the reason for detention. It applies in all cases where the government is detaining a person. To suspend Habeas is to suspend the ability of people to challenge the grounds for detention. 
 
-Why is this terrifying?  
+## Why is this of concern?
+
 Habeas is the reason we know about Guantanamo. 
 
 Shafiq Rasul was a British national detained in Afghanistan during the American War on Terror. He was not associated with any terrorist organisation, he was British-Pakistani and like a lot of people when visiting Pakistan took a day trip into Afghanistan. Eventually he was transfered to Guantanamo bay. His family discovered his detention when the British Foreign Office contacted them on 21 January 2002, they found lawyers who could provide their US counterparts with the thing they needed to challenge the legality of detention on Guantanamo: a name. Said US lawyers then filed Rasul v Bush, arguing those detained in Guantanamo had the right to file a Habeas petition challenging the lawfulness of their detention. 
@@ -50,7 +51,9 @@ His case was joined with Mamdouh Habib's case which made the same arguments agai
 The Bush administration argued Guantanamo was in Cuba and outside the jurisdiction of the US therefore the supreme court couldn't hear the case. The court heard it anyway and found the men had the right to challenge their detention as Habeas jurisdiction existed over all places under the sovereign's control. That included Guantanamo, as it was inside US naval base in Cuba and therefore under US sovereign control.
 
 To quote Peirce on Rasul v Bush:
-The argument that won in Bush v Rasul was 
+
+The argument that won in Bush v Rasul was:
+
 > "prisoners... should have access to legal remedies and to lawyers who could, most importantly of all, for the first time go in and, bit by bit, bring out reports, not just of the physical and mental horrors inflicted by or on behalf of Americans, but the complicity of this country (at every level) in their unlawful captivity. We were never mean to know any of this."
 
 We know what happened because of Habeas Corpus. Without it, we would not know the names of the 800 men detained there. Lawyers would not have been able to tell the world of the torture they experienced at the hands of the country that calls itself the leader of the free world. Worse of all the men might still be there because the campaigns to end Guantanamo might never have started. We would never know that our government, the UK government, was complicit in the crime of torture.[^4]
@@ -61,7 +64,7 @@ Peirce's book  tells us how governments use the law to undermine the law by crea
 
 The title Dispatches from the Dark Side is a warning, from a solicitor who knows because she has represented hundreds of people who found themselves in a legal black or grey hole, as to what happens in the dark, where the law and oversight does not exist. The subtitle of the book refers to the death of justice. To suspend Habeas is to kill justice because without it, there is no way to know who is detained by the government, on what grounds and what conditions they are being held in.
 
-The book its still relevant because "history doesn't repeat itself, but it often rhymes"[^6]. Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
+Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
 
 Regards
  
@@ -72,4 +75,3 @@ IMI
 [^3]: https://www.theguardian.com/law/2025/may/09/end-habeas-corpus-detention-trump-stephen-miller
 [^4]: https://www.libertyhumanrights.org.uk/fundamental/torture-inquiry/
 [^5]: https://www.youtube.com/watch?v=4f7CIw0ya1I
-[^6]: https://www.owu.edu/alumni-family-friends/owu-magazine/fall-2018/history-doesnt-repeat-itself-but-it-often-rhymes/
