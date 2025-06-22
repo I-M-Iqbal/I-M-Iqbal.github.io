@@ -11,7 +11,7 @@ SIAC, otherwise known as the Special Immigration Appeals Commission, is a specia
 
 In proceedings about the national security information which led to the immigration decision, a special advocate represents the interests of the appellant and the legal team that represents them in the rest of the case before SIAC cannot attend these hearings. The appellant themselves also cannot attend these proceedings.
 
-This post outlines: How SIAC came to exist? Why is SIAC weird? How a case gets heard by SIAC instead of a normal immigration tribunal? Finally I will try and briefly explain why SIAC is problematic (forewarning: I will fail at being brief). 
+This post outlines: How SIAC came to exist? Why is SIAC weird? How a case gets heard by SIAC instead of a normal immigration tribunal? Finally I will try and briefly explain why SIAC is problematic.
 
 
 ## How was SIAC created?
@@ -69,9 +69,8 @@ Given the gravity of citizenship status removal and the fact many of those subje
 Hannah Arendt argued that a precondition of all human rights is citizenship as it represents the the right to be part of a political community, a state, who according to the law are the guarantors of human rights.[^15] Therefore in her words, without citizenship, there can be no right to have any other rights. British people should know when the government believes they have the right to deprive people of the right to have rights. 
 
 Regards
-IMI
 
-PS: The reason I am failing at being brief about why SIAC is problematic is not just because of the above but also because I am likely to write another post about statelessness and SIAC as well as a myriad of other posts the subjects of which are unknown during the next few months whilst I complete my dissertation. 
+IMI
 
 [^1]: https://hudoc.echr.coe.int/eng?i=001-58004
 [^2]: The role of special advocates: Advocacy, due process and the adversarial tradition by Professor John Jackson published in 2016. 
