@@ -2,7 +2,7 @@
 date = '2025-05-16T19:02:15+01:00'
 title = 'Dispatches From the Dark Side: Why it remains relevant 15 years after its publication'
 
-tags = ["#Counter Terrorism Law"]
+tags = ["Counter Terrorism Law"]
 
 +++
 

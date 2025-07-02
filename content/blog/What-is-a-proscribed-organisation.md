@@ -10,29 +10,19 @@ As many people may be aware, earlier this month a member of the band Kneecap has
 
 ## So what is a proscribed organisation?
 
-A proscribed organisation is an organisation concerned with terrorism which is defined in S.3 of the Terrorism Act 2000 as: 'commits or participates in acts of terrorism, prepares for terrorism, promotes or encourages terrorism, or is otherwise concerned in terrorism'.[^3]
+A proscribed organisation is an organisation "concerned with terrorism" which is defined in S.3 of the Terrorism Act 2000 as: 'commits or participates in acts of terrorism, prepares for terrorism, promotes or encourages terrorism, or is otherwise concerned in terrorism'.[^3]
 
 Promoting or encouraging terrorism includes where the activities of the organisation include the unlawful glorification of the commission or preparation of terrorism whether these be specific past or future acts or general glorification of such acts.[^4] It can also includes situation where the organisation is associated with statements containing glorification of the aforementioned nature.[^4]. Glorification includes if a person could reasonably infer that what is being glorified should be emulated or is illustrative of a type of conduct that should be emulated.[^5] This can include any form of praise of celebration and also includes sounds and images as well as words.[^6]
 
-Where the Secretary of State believes an organisation is concerned with terrorism, they may add them to the list of prescribed organisations in Schedule 2.[^7] They also have he power to add any alternative names for such an organisation to the schedule.[^8]
+Where the Secretary of State believes an organisation is "concerned with terrorism", they may add them to the list of prescribed organisations in Schedule 2.[^7] They also have he power to add any alternative names for such an organisation to the schedule.[^8]
 
 ## In what circumstances does the Home Secretary use this power?
 
 The home secretary will also consider other factors, once the statutory test described above is met. These include the nature/ scale of an organisations activities, threat posed to the UK and British nationals overseas, their presence in the UK and the 'need to support other members of the international community in the global fight against terrorism'.[^9]
 
-One example of groups that are proscribed is the UK Hamas. 
-
-Hamas aims to 'liberate Palestine from Israeli occupation and establish an Islamic state in Palestine'.[^9] It was proscribed because it 'commits and participates in terrorism' because it has amongst other things 'launched indiscriminate rocket and mortar attacks' on Israel.[^9] It also prepares for terrorism by training young persons to participate in these attacks[^9]. 
-
-Hamas launched a legal challenge to its proscription recently which has yet to be adjudicated.[^10]. There is likely to be a further blog post about the court that hears cases challenging proscription and the arguments being made by Hamas in the future.
-
-This might appear confusing, why is a group that has not carried out any attacks on the UK on this list? Perhaps because the Home Secretary can proscribe organisations to support our allies in the War on Terror? This might be true, but given the broad meaning of concerned with terrorism and the extra territoriality of the UK definition of Terrorism and other terrorism offences, the groups activities appear to fit under the S.3 power to proscribe. These issues are discussed further below. 
-
 ## what happens when an organisation is proscribed?
 
 A series of offences outlined between section 11 and 13A, which are generally called supporting a proscribed organsation, now apply.[^11] Immigration powers such the power to exclude persons who support these organisations can also be used to manage the risk of Terrorism.[^11] Online material that supports these groups can also be removed.[^11]
-
-A further blog post about these offences, focusing on the offence that Mr Liam Óg Ó hAnnaidh, better known as Mo Chara of Kneecap, has been changed with is also likely to be written in the near future. This will include discussion of the extraterritoriality of some of these offences.[^11] (extraterritoriality = someone can be prosecuted for the offence even if it was committed abroad. Criminal jurisdiction is normally not extraterritorial so this is unusual)
 
 Powers to freeze assets can also be used and the resources of a proscribed organisation are terrorist property and are, therefore, liable to be seized by the UK government.[^11]
 
@@ -40,18 +30,13 @@ So effectively, the government has the power to prevent these groups from operat
 
 But given the breadth of the meaning of the term concerned with terrorism it can also lead to some strange outcomes.
 
-## Effect of the breadth of the term 'concerned with terrorism':
+## Effect of the breadth of the term "concerned with terrorism":
 
-Generally, the broader a term in law, the more activities it can capture. Therefore the breadth of the term concerned with terrorism can include everything from actually committing terrorism against UK citizens to groups that pose no direct threat to the UK. It can also include groups that have never directly committed an act of violence anywhere like Hizb ut-Tahrir who wish to establish a global Islamic state and encourage terrorism (the government cites their support of the October 7 attacks in Israel as an example of such conduct).[^7] The UK government intend to use S.3 of the Terrorism Act to make Palestine Actions direct action unlawful in the future because they recently broke into an RAF base to protest the UK governments role in supporting Israel's war in Gaza.[^2]
+Generally, the broader a term in law, the more activities it can capture. Therefore the breadth of the term "concerned with terrorism" could include everything from actually committing terrorism, such as ISIL, but also groups that have never committed acts of violence such as Hizb ut-Tahrir who wish to establish a global Islamic state and encourage terrorism (the government cites their support of the October 7 attacks in Israel as an example of such conduct).[^7] 
 
-This leads to a obvious question: should the law deal with groups who merely support terrorism abroad and have views which are contrary to most in the UK, like Hizb ut-Tahrir in the same way as ISIL who clearly pose a direct violent threat to the UK.
+The UK government intend to use S.3 of the Terrorism Act to make Palestine Actions direct action unlawful in the future because they recently broke into an RAF base to protest the UK governments role in supporting Israel's war in Gaza.[^2] Palestine Action is a direct action group whose activities are protests, not acts that we traditionally think of as acts of as terrorism. 
 
-Should we deal with a direct action group like Palestine Action in the same way as ISIL? Both will be subject to same legal regime if the government goes ahead and proscribes Palestine Action as they
-have promised. 
-
-They clearly pose different threat levels to the UK and her citizens. So why deal with them the same way?
-
-Discretion, Just because the Home Secretary can proscribe an organisation doesn't mean they have to.
+Below, I discuss each example in further detail:
 
 ### Example 1: Hizb ut-Tahrir: 
 
@@ -69,7 +54,7 @@ He makes his argument against the proscription of Hizb ut-Tahrir more eloquently
 
 ### Example 2: potential proscription of Palestine Action: 
 
-With regard to the potential proscription of Palestine Action, they are a direct action protest group most famous for breaking into arms factories that produce arms that are being sent to Israel, who are using them to in the Occupied Palestinian Territories, and for throwing red paint at banks such as Barclays who have financial ties to arms companies who sell weapons to Israel.[^14]
+With regard to the potential proscription of Palestine Action, they are most famous for breaking into arms factories that produce arms that are being sent to Israel, who are using them to in the Occupied Palestinian Territories, and for throwing red paint at organisations such as Barclays who have financial ties to arms companies who sell weapons to Israel.[^14]
 
 Regardless of whether you agree with their actions, proscribing protest groups thereby making it illegal to participate in their protests, wear symbols associated with them or express support for the forms of direct action they take, as a person might believe you are encouraging support for them, is an extreme step for a democratic state to take. Amnesty UK has highlighted the risks to the right to protest posed by this ban.[^15]
 
@@ -77,18 +62,26 @@ Perhaps the reason for proscription is to allow the proscribed organisation offe
 
 Their most recent protest, breaking into an RAF base and spraying red paint on a plane in protest, might arguably affect the military activities which is clearly a national defence concern, although a small one and proscription appears to be a disproportionate response, even if one finds this argument compelling. Given that protests near to military bases have happened before,[^17], and many Anti South African Apartheid protests took the form of direct action and were not treated as a security threat,[^18] this decision by the government seems questionable. 
 
+## Proscribed organisations offences:
+
+A member of Kneecap whose stage name is Mo Chara, has been charged with supporting a proscribed organisation. He was charged
+
+In May, Chara was charged in relation to a video from Kneecap’s November 2024 concert at O2 Kentish Town Forum, London. In the clip, Mo Chara can be heard seemingly shouting, “Up Hamas, up Hezbollah.” He is also charged for waving a Hezbollah flag. 
+
+Neither of those acts are direct support for Hezbollah or Hamas, they are if proven, rhetorical support for the groups actions.  So why are they criminal offences?
+
+This leads to a obvious question: should the law deal with groups who merely support terrorism abroad and have views which are contrary to most in the UK, like Hizb ut-Tahrir in the same way as ISIL who clearly pose a direct violent threat to the UK.
+
+Should we deal with a direct action group like Palestine Action in the same way as ISIL? Both will be subject to same legal regime if the government goes ahead and proscribes Palestine Action as they
+have promised. 
+
+They clearly pose different threat levels to the UK and her citizens. So why deal with them the same way?
+
+Discretion, Just because the Home Secretary can proscribe an organisation doesn't mean they have to.
+
 Discretion is a key feature of counter terrorism law, its also the mechanism by which political judgment enters the counter terrorism legal space. And sometimes it is the cause of questionable legal decisions such as those highlighted above because ultimately the penalties for supporting ISIL, a group who committed genocide,[^19] should not the the same as spraying red paint at a Barclays bank branches. Such a decision appears completely disproportionate, 
 
-##  Some groups were committing acts that violated S.3 long before they were proscribed. So why were they proscribed at the point they were?
-
-The answer is discretion yet again. 
-
-For example the Wagner group was proscribed in 2023 because of its activities supporting Russians invasion of Ukraine, but it has been committing actions that technically violate S.3 for years previously in Africa and the Middle East,[^7] so why only take the decision in 2023? 
-
-Answer: the Home Secretary only deemed it necessary in 2023, as their actions in Ukraine posed a more direct threat to the UK than actions they had previously undertaken. It was also an additional way to support Ukraine which might be the underlying political motivation for using the power in 2023.[^7]
-
-Ultimately, these strange outcomes highlighted above, are the product of the breadth of S.3 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.[^20] 
-
+Ultimately, the proscription of the groups mentioned above is the product of the breadth of S.3 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.[^20] 
 
 Questions about whether we are satisfied with the breadth of S.3 or the discretion available to the Home Secretary, remain unasked and unanswered. But the power of proscription keeps being used and people keep being prosecuted for supporting proscribed organisations, even where there are serious questions about whether the group they are accused of supporting should be proscribed or whether the law on proscription should exist as it does in its current form. 
 
