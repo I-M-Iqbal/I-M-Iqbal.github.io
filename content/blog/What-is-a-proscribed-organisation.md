@@ -77,11 +77,11 @@ He states that interviews with the groups members prove they are non violent and
 
 He makes his argument against the proscription of Hizb ut-Tahrir more eloquently than I can. The LSE piece is a smaller part of a larger article published by the International Centre of Counter Terrorism. If you wish to know more, I encourage you to read it: https://icct.nl/publication/problems-banning-hizb-ut-tahrir-britain. 
 
-This appears to suggest there may have been an additional political reason behind their proscription at that time: it is likely that the government by proscribing the group was attempting to support its ally Israel, despite that not being explicitly mentioned in the information about why they were proscribed on the government website. 
+This appears to suggest there may have been an additional political reason behind their proscription at that time: it is likely that the government by proscribing the group was attempting to support its ally Israel, despite that not being explicitly mentioned in the information on the governments website. 
 
-This is explicitly allowed by the legislation, there is nothing nefarious about it, but in realising their wish to support Israel, the government has harmed civil liberties and ignored all the reasons outlined by Dr McNeil-Willson's as to why their prescription is both unnecessary and may do more harm than good. 
+This is explicitly allowed by the legislation, there is nothing nefarious about it. But in realising their wish to support Israel, the government has harmed civil liberties and ignored all the reasons outlined by Dr McNeil-Willson's as to why their prescription is both unnecessary and may do more harm than good. 
 
-This leads to a obvious question: should the law deal with groups who merely support terrorism abroad and have views which are contrary to most in the UK, like Hizb ut-Tahrir in the same way as ISIL who clearly pose a direct violent threat to the UK.
+The issues dicussed above leads to a obvious question: should the law deal with groups who merely support terrorism abroad and have views which are contrary to most in the UK, like Hizb ut-Tahrir in the same way as ISIL who clearly pose a direct violent threat to the UK.
 
 Should we deal with a direct action group like Palestine Action in the same way as ISIL? Both will be subject to same legal regime if the government goes ahead and proscribes Palestine Action as they
 have promised. 
