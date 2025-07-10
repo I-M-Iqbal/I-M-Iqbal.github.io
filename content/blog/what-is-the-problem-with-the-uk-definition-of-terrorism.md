@@ -2,7 +2,7 @@
 
 date = '2025-07-08T16:04:14+01:00'
 
-title = 'Has the UK's definition of terrorism really stood the test of time?'
+title = 'Has the definition of terrorism really stood the test of time?'
 
 Tags = ["Counter Terrorism Law"]
 
