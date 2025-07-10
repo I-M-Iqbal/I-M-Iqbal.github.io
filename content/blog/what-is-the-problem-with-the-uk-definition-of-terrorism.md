@@ -1,9 +1,11 @@
 +++
+
 date = '2025-07-08T16:04:14+01:00'
 
 title = 'Has the UK's definition of terrorism really stood the test of time?'
 
 Tags = ["Counter Terrorism Law"]
+
 +++
 
 In Parliament last week, Minister of State for Security Dan Jarvis stated the following during the debate about whether to proscribe Palestine Action (MPs voted in favour of Prescription as did members of the House of Lords and as a result, Palestine Action is now a Proscribed organsation):[^1]
