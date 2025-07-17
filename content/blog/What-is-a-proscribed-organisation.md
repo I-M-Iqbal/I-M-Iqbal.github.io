@@ -6,7 +6,9 @@ title = 'What are proscribed organisations?'
 Tags = ["Counter Terrorism Law"]
 +++
 
-Earlier this month a member of the band Kneecap has been arrested for supporting a proscribed organisation.[^1] In addition, the government put legislation before parliament on the third July 2025 to proscribe Palestine Action, a civil disobedience group as a terrorist organisation.[^2]. So what is a proscribed organisation.
+Earlier this month a member of the band Kneecap has been arrested for supporting a proscribed organisation.[^1] In addition, the government put legislation before parliament on the third July 2025 to proscribe Palestine Action, a direct group as a terrorist organisation.[^2]. 
+
+So what is a proscribed organisation.
 
 A proscribed organisation is commonly known as a Terrorist organisation, is an organisation that meets a particular legal definition, explained below and as a result, the government can effectively make it impossible for them to function within the UK.
 
@@ -32,7 +34,7 @@ The home secretary consider other factors alongside the legal definition explain
 - their presence in the UK.
 - the 'need to support other members of the international community in the global fight against terrorism'.
 
-## what happens when an organisation is proscribed?
+## What happens when an organisation is proscribed?
 
 There are 4 main consequence of proscription:
 
@@ -94,7 +96,7 @@ Discretion is a key feature of counter terrorism law, its also the mechanism by 
 
 And sometimes it is the cause of questionable legal decisions such as those highlighted above because ultimately the penalties for supporting ISIL, a group who committed genocide,[^13] should not the the same as spraying red paint at a Barclays bank branches. Such a decision appears completely disproportionate.
 
-Ultimately, the proscription of the groups mentioned above is the product of the breadth of S.3 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.[^14] 
+Ultimately, the proscription of the groups mentioned above is the product of the breadth of S.3 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.
 
 Questions about whether we are satisfied with the breadth of S.3 or the discretion available to the Home Secretary, remain unasked and unanswered. But the power of proscription keeps being used and people keep being prosecuted for supporting proscribed organisations, even where there are serious questions about whether the group they are accused of supporting should be proscribed or whether the law on proscription should exist as it does in its current form. 
 
@@ -115,5 +117,3 @@ PS: This post, if it wasn't apparent already is likely to be the start of a seri
 [^9]: https://www.gov.uk/government/publications/proscribed-terror-groups-or-organisations--2/proscribed-terrorist-groups-or-organisations-accessible-version
 [^10]: https://www.counterterrorism.police.uk/proscription/ 
 [^11]: https://blogs.lse.ac.uk/religionglobalsociety/2024/01/the-problems-of-banning-of-hizb-ut-tahrir-britain/
-[^19]: https://www.theguardian.com/sport/2020/apr/23/protests-politics-and-a-bus-hijack-the-rugby-tour-that-gave-mandela-hope
-[^20]: https://press.un.org/en/2021/sc14514.doc.htm
