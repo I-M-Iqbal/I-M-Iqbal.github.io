@@ -19,6 +19,6 @@ I M Iqbal
  RSS feed: https://imiqbal.com/blog/index.xml
 
 
- [Charlie's website](https://charliew.net/) < webring > [Fern's website](https://fernymcfernface.github.io/)
+ [Charlie's website](https://charliew.net/) < webring > [Adi's website](https://fuzzythebee.github.io/)
 
  If you wish to search the webring, my good friend Charlie has created a handy search engine: https://search.246802468.xyz/. 
