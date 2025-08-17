@@ -1,6 +1,5 @@
 +++
 date = '2025-07-31T22:06:29+01:00'
-draft = true
 
 title = 'Kier Starmer and Genocide'
 +++
@@ -23,7 +22,7 @@ In 2014 the prime minister when he was a mere human rights lawyer represented Cr
 
 In 1999, Croatia brought a case against the Federal Republic of Yugoslavia (FRY) about alleged violations of the Genocide Convention. Following a referendum in 2006, Montenegro declared independence and as a result, the case became known as Croatia v Serbia as Serbia was the successor to the FRY. 
 
-The events at issue in this case was part of the Croatian War of Independence, the following summary is based on the summary in the ICJ's judgement in this case.[^5] They are summarised to assist in understanding the arguments from the case I discuss below but these events and the overall conclusions of the ICJ in this genocide case and the other cases that resulted from the break-up of the SFRY are not the subject of this post. They are likely to be the subject of a future post. 
+The events at issue in this case was part of the Croatian War of Independence, the following summary is based on the summary in the ICJ's judgement in this case.[^5] They are summarised to assist in understanding the arguments from the case I discuss below but these events and the overall conclusions of the ICJ in this genocide case and the other cases that resulted from the break-up of the SFRY are not the subject of this post. They are likely to be the subject of a future post.
 
 Until the start of the 1990s, the Socialist Federal Republic of Yugoslavia (SFRY) included: Republics of Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia (with two autonomous provinces Vojvodina and Kosovo) and Slovenia. After the death of President Tito in 1980, there was a growing economic crisis, leading to some of the Republics gaining more power and eventually declaring independence. Croatia declared itself independent in June 1991.
 
@@ -33,18 +32,15 @@ At the end of 1990, Croatia adopted a new constitution that Serbs argued deprive
 
 Following a further referendum, SAO Krajina, a majority of Serbs voted in favour of attaching the region to Serbia and staying in the SFRY. A week later, the majority of Croats voted in a seperate referendum to leave the SFRY. By the Summer of 1991, the war had begun. From September the armed forces of the SFRY intervened in this war on behalf of the Serbs and by the end of the year, the armed forces of the SFRY and Serb forces controlled a third of Croat territory. Despite a UN peace plan, peaceful attempts to resolve the conflict failed and following military operations by the Croats they succeeded in regaining some territory with the remainder slowing reintergrating into Croatia from 1996-8. 
 
-Croatia alleges that several types of act by Serbia in occupied territory  violated the genocide convention. This post focuses on the arguments related to provision of food to the civilian population. 
+Croatia alleges that several types of act by Serbia in occupied territory  violated the genocide convention. This post focuses on the arguments related to provision of food to the civilian population and how this is relevant to Israel barring entry of humanitarian aid into Gaza causing famine and starvation[^14]
 
-Serbia made counterclaims alleging Serbs has also been subjected to acts that violate the genocide convention. The Serbian arguments are not discussed in detail because they are not relevant to this post but you cam find the verbatim records of their arguments here: https://www.icj-cij.org/case/118. 
-
-As mentioned above, there will be a future post about this case, the Bosnian Genocide case and why some scholars argue that the test applied to establish whether genocide took place in these cases is incorrect. 
+Serbia made counterclaims alleging Serbs has also been subjected to acts that violate the genocide convention. The Serbian arguments are not discussed in detail because they are not relevant to this post but you cam find the verbatim records of their arguments here: https://www.icj-cij.org/case/118. As mentioned above, there will be a future post about this case, the Bosnian Genocide case and why some scholars argue that the test applied to establish whether genocide took place in these cases is incorrect. 
 
 ## Croatia argument about deportations and conditions of life calculated to bring about the physical destruction of the group:
 
 Croatia argued that Serbia created conditions calculated to bring about physical destruction of Croats in occupied territory.[^6] Article II (c) of the Genocide Convention states' deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part' is an act capable of meeting the definition of genocide is the other elements of the definition are met.[^7] 
 
-Starmer in particular, argued that Serbia's de-facto army and Serb forces committed genocide and this is attributable to Serbia under international law. In the alternative he stated that Serbia has a  responsibility to prevent genocide in the territory it controlled, and it failed to do so. In addition he argued that Serbia participated in a conspiracy, was complicit in or attempt to
-commit genocide, all of which violate the Genocide Convention.
+Starmer argued that Serbia's de-facto army and Serb forces committed genocide and this is attributable to Serbia under international law. In the alternative he argued Serbia has a  responsibility to prevent genocide in the territory it controlled, and it failed to do so. In addition he argued that Serbia participated in a conspiracy, was complicit in or attempt to commit genocide, all of which violate the Genocide Convention.
 
 With regard to conditions of life calculated to bring about the physical destruction of the group, he stated: 
 
@@ -52,17 +48,19 @@ With regard to conditions of life calculated to bring about the physical destruc
 
 ## ICJ judgment in Croatia v Serbia:
 
-The court concluded no genocide had taken place because: the acts committed by Serbia were not of a systematic or general nature, which is a requirement for genocide to be established because occasional denial of food, as shown in the evidence provided by Croatia are insufficient to establish systematic or general conduct which is required for a finding of genocide under Article II (c). However, the court did not reject the argument that deprivation of the nature that Serbia imposed on the civilian population of occupied Croatia was capable of violating Article II (c), as long as it was of a systematic and general nature. 
+The court concluded no genocide had taken place because the acts committed by Serbia were not of a systematic or general nature, which is a requirement for genocide to be established because occasional denial of food, as shown in the evidence provided by Croatia are insufficient to establish systematic or general conduct. As mentioned above, he conclusions of the court in this case is controversial.  However, the court did not reject the argument that deprivation of the nature that Serbia imposed on the civilian population of occupied Croatia was capable of violating Article II (c), as long as it was of a systematic and general nature. 
 
 ## South Africa V Israel:
 
 South Africa took the extraordinary step of bringing a genocide case against Israel for its acts in the Gaza Strip with began October 8th. They are arguing that one of the acts of genocide that is taking place is systematic denial of objects indispensable for human life including but not limited to food, water and medical care which they argue violate Article II (c). 
 
-Only provisional measures hearings have taken place as the case was filied in early 2024. Provisional measures are measures ordered by the court to ensure the subject of the dispute remains in existence so the court can order appropriate remedies. They are issued where the claims are plausible and where there is an urgent need to prevent imminent irreparable prejudice to the rights at issue in the dispute. It is clear that the subject of this dispute: the lives of two million persons are at imminently at risk so the only question the court has to answer was is: are the claims by South Africa plausible? 
+Ms Blinne Ní Ghrálaigh highlighted before the ICJ that 'According to the World Food Programme, "\[f]our out of five people [in the world], in famine or a catastrophic type of hunger, are in Gaza right now”. Indeed, experts warn that deaths from starvation and disease risk significantly outstripping deaths from bombings'.[^8]
+
+Only provisional measures hearings have taken place as the case was filed in early 2024. Provisional measures are measures ordered by the court to ensure the subject of the dispute remains in existence so the court can order appropriate remedies. They are issued where the claims are plausible and where there is an urgent need to prevent imminent irreparable prejudice to the rights at issue in the dispute. It is clear that the subject of this dispute: the lives of two million persons are at imminently at risk so the only question the court has to answer was is: are the claims by South Africa plausible? 
 
 ## January 2024 provisional measures order:
 
-The court issued provisional measures, meaning they found South Africa's claims plausible. In its original provisional measures order the court found many Palestinians in the Gaza Strip had 'no access to the most basic foodstuffs, potable water, electricity, essential medicines or heating'.[^9] As a result one provisional measure contained in that order was: 'Israel must take immediate and effective measures to enable the provision of urgently needed basic services and humanitarian assistance to address the adverse conditions of life faced by Palestinians in the Gaza Strip'[^9] which clearly includes food and other neccesities for life. 
+The court issued provisional measures, meaning they found South Africa's claims plausible. In its original provisional measures order the court found many Palestinians in the Gaza Strip had 'no access to the most basic foodstuffs, potable water, electricity, essential medicines or heating'.[^9] As a result the court ordered Israel to 'take immediate and effective measures to enable the provision of urgently needed basic services and humanitarian assistance to address the adverse conditions of life faced by Palestinians in the Gaza Strip'[^9] which clearly includes food and other necessities of life. 
 
 ## March 2024 provisional measures order:
 
@@ -81,9 +79,9 @@ The court ordered Israel to:
 
 ## May 2024 - August 2025:
 
-Since May 2024, the situation regarding food access in Gaza has significantly deteriorated. The Palestinian Ministry of Health said the number of starvation-related death is at least 111 as of the end of July 2025. According to the UN Special Rapporteur on the right to food, 'this is the fastest famine we’ve seen, the fastest starvation campaign we’ve seen in modern history'.[^12]
+Since May 2024, the situation regarding food access in Gaza has significantly deteriorated. The Palestinian Ministry of Health said the number of starvation-related deaths is at least 111 as of the end of July 2025. According to the UN Special Rapporteur on the right to food, 'this is the fastest famine we’ve seen, the fastest starvation campaign we’ve seen in modern history'.[^12]
 
-It is very clear that the legal argument the prime minister made in 2014, applies to Gaza. Israel by depriving Palestinians of food, which is a standalone violation of IHL,[^13] which is clearly creating conditions which can bring about the destruction of the Palestinians as a people because the deprivation of food is systematic and widespread. According to the Integrated Food Security Phase Classification:[^14]
+It is very clear that the legal argument the prime minister made in 2014, applies to Gaza. Israel by depriving Palestinians of food, which itsef is a violation of International Humanitarian Law,[^13] and is also clearly creating conditions which can bring about the destruction of the Palestinians as a people because the deprivation of food is systematic and widespread. According to the Integrated Food Security Phase Classification:[^14]
 
 - 24% of people are in phase 3 food insecurity. This means households have food consumption gaps that are reflected by high or above-usual acute malnutrition or are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies.
 - 54% of people are in phase 4 food insecurity. These households have large food consumption gaps which are reflected in very high acute malnutrition and excess mortality or they able to mitigate large food consumption gaps but only by employing emergency livelihood strategies and asset liquidation
@@ -93,47 +91,25 @@ It is very clear that the legal argument the prime minister made in 2014, applie
 
 Palestinians are clearly a 'a national, ethnic, racial or religious group' covered by the Convention. So the only remaining requirement is that of genocidal intent which is intent to destroy in whole or part the group at issue.[^7] 
 
-South Africa's arguments list dozens of examples of genocidal intent by leadership in Israel, which are repeated by military commanders and soliders, in some cases while they are committing atrocities in Gaza. Since the application and arguments by South Africa, many more statements displaying genocidical intent have been made by Israel's leaders and soliders carrying out their orders. 
+South Africa's arguments list dozens of examples of genocidal intent by leadership in Israel, which are repeated by military commanders and soldiers, in some cases while they are committing atrocities in Gaza. Since the application and arguments by South Africa, many more statements displaying genocidal intent have been made by Israel's leaders and soldiers carrying out their orders.[^15] There are numerous examples that relate to the mass killings and other acts committed by Israel that can constitute genocide but I focus on those that relate to the deprivation of food or humanitarian aid which includes food. 
 
-As a matter of law, during provisional measures proceedings all that needs to be established is that the intent behind the actions dicussed by South Africa could be genocidal. It should be noted that the exsistence of other intents alongside genocidal intent does not preclude a finding that acts of genocide are  plausibly taken place. 
+As a matter of law, during provisional measures proceedings all that needs to be established is that the intent behind the actions discussed by South Africa could be genocidal. It should be noted that the existence of other intents alongside genocidal intent does not preclude a finding that acts of genocide are  plausibly taken place. 
 
-Not all of these examples directly mentioned the seige on Gaza and the deprivation of food but given that they display general intent to destory the Palestinians as a people, they prove that genocidal intent is likely behind the decision to starve over 1.5 million people in Gaza. 
+South Africa argues that genocidal intent is evident from Israel's conduct including mass systemic displacement to areas that are unsafe, creation of conditions to cause a slow death of Palestinians, indiscriminate killings of civilians and 1 in 40 Gazan's being injured.[^15] In addition, they argue Israel’s leaders have in explicit terms declared their genocidal intent both generally and with regard to deprivation of humanitarian aid including food.[^15] These statements have been repeated by soldiers as they engage in the destruction of Palestinians and the physical infrastructure of Gaza:[^15]
 
-The arguments South Africa include that intent is evident from Israel's conduct including mass systemic displacement to areas that are unsafe, creation of conditions to cause a slow death of Palestnians, indiscriminate killings of civilians and 1 in 40 Gazans being injured.[^15] 
-
-They also state that Israel’s leaders have in explicit terms declared their genocidal intent which is repeated by soldiers as they engage in the destruction of Palestinians and the physical infrastructure of Gaza:[^15]
-
-Israeli Prime Minister Benjamin Netanyahu declared war on Gaza, Israel had started 'clear\[ing] out the communities that have been infiltrated by terrorists' and he warned of an 'unprecedented price' to be paid by the enemy'. He also invoked Amalek, a biblical massacre of men and women, children and infants, cattle and sheep, camels and donkeys, both in speech and in writing. 
-
-The Deputy Speaker of the Knesset, Israel’s Parliament, has called for the erasure of the Gaza Strip from the face of the earth. The genocidal rhetoric is also commonplace within the Israeli Knesset, Israel's parliment.
-
-Defence Minister Yoav Gallant gave a update to the army in which he said israel was 'imposing a complete siege on Gaza' with 'no electricity, no food, no water, no fuel. 'Everything would be closed', because Israel is 'fighting human animals'. When speaking to troops on the Gaza border, he instructed them that all restrained have been released and Gaza will not return to what it was and went ont to say 'We will eliminate everything . . . we will reach all places.” Eliminate everything. Reach all places. Without any restraints'. This is clearly relevant to the decision to deprive Palestinians of food and the ongoing famine taking place today.
-
-The Israeli Army Coordinator of Government Activities in the Territories (COGAT) on 9 October 2023 stated that Hamas has become ISIS and that 'the citizens of Gaza are celebrating instead of being horrified'. He stated they are 'human animals are dealt with accordingly' going onto make reference to the seige of Gaza. He then said 'You wanted hell, you will get hell'. Both Hamas and the civilians in this statement are condemned. 
-
-The Minister for Energy and Heritage both made similar statements. The President said 'this rhetoric about civilians not aware, not involved, is absolutely not true . . . we will fight until we break their backbone'. His later attempts to mediate his language have not changed the conduct of Israel's war. 
-
-Soliders in the IDF have gone onto: 
-- sing a song with the lyrics 'We know our motto: there are no uninvolved . . .'; that they (the soldiers)obey one commandment, 'to wipe off the seed of Amalek'
-- Chant 'May their village burn; may Gaza be erased.'
-- Film themselves committing atrocities against civilians in Gaza sometimes singing about the destruction of Gaza in the background.
-- One soldier stated in a video 'once upon a time there was a university in Gaza and in practice- a school for murderers and human animals'
-- Israeli army Commander Yair Ben David has stated that the army had done in 'Beit Hanoun and did there as Shimon and Levi did in Nablus' and that the 'entire Gaza should resemble Beit Hanoun'
-- Ezra Yachin — a veteran of the Deir Yassin massacre against the Palestinians in 1948 — was invited to speak to the soldiers ahead of the ground invasion in Gaza. He said, without condemnation by the Israeli government: 'Erase them, their families, mothers and children. These animals can no longer live . . . If you have an Arab neighbour, don’t wait, go to his home and shoot him . . . We want to invade, not like before, we want to enter and destroy what’s in front of us, and destroy houses, then destroy the one after it. With all of our forces, complete destruction, enter and destroy. As you can see, we will witness things we’ve never dreamed of. Let them drop bombs on them and erase them'
+Defence Minister Yoav Gallant gave a update to the army in which he said Israel was 'imposing a complete siege on Gaza' with 'no electricity, no food, no water, no fuel. 'Everything would be closed', because Israel is 'fighting human animals'. When speaking to troops on the Gaza border, he instructed them that all restrained have been released and Gaza will not return to what it was and went ont to say 'We will eliminate everything . . . we will reach all places.” Eliminate everything. Reach all places. Without any restraints'. This is clearly relevant to the decision to deprive Palestinians of food and the ongoing famine taking place today.
 
 South Africa also highlighted that Fifteen United Nations Special Rapporteurs and 21 members of the United Nations Working Groups have warned that what is happening in Gaza reflects 'a genocide in the making' and an overt intent to 'destroy the Palestinian people under occupation'.[^16]
 
-In issuing provisional measures, the court confirms that a possible genocidal intent lies behind the actions described above, including causing mass starvation. Other motives such as intending to  engage in warfare against Hamas or intent to seize Palestinian territory may also exist but there is a clear intention to destroy the Palestinians as a group which is the necessary intent for genocide to be established.
+In issuing provisional measures, the court confirms that it is possible that genocidal intent lies behind the actions described above, including causing mass starvation. Other motives such as intending to  engage in warfare against Hamas or intent to seize Palestinian territory may also exist but there is a clear intention to destroy the Palestinians as a group which is the necessary intent for genocide to be established.
 
-Mr Starmer believed deprivation of food and water, which is what Gazan's are being subjected to, was capable of being a genocidal act in Croatia. He refused to accept this argument in the context of Gaza in 2023, instead endorsing Israel's seige. In 2024, he said genocide was not taking place, with reference to his legal expertise, which does not appear a tenable conclusion. The prime minister's reluctance to revise his assessment in late 2024 that genocide is not taking place is reprehensible, even more so given he is using his prior legal experience to cast doubt on legimiate claims that Israel is commiting genocide. His legal legal experience makes him uniquely aware, compared with his fellow western leaders and the vast majority of people in the UK and around the world, that Israel actions can and likely do consitute genocide. 
+Sir Kier Starmer believed deprivation of food and water, which is what Gazan's are being subjected to, was capable of being a genocidal act in Croatia. He refused to accept this argument in the context of Gaza in 2023, instead endorsing Israel's siege. In  parliament in 2024, he said genocide was not taking place, with reference to his legal expertise, which does not appears incorrect. The prime minister's reluctance to revise his assessment in late 2024 that genocide is not taking place is reprehensible, even more so given he is using his prior legal experience to cast doubt on legitimate claims that Israel is committing genocide. His legal experience makes him uniquely aware, compared with his fellow western leaders and the vast majority of people, that Israel actions can and likely do constitute genocide. 
 
 Ih the words of Ammar Hijazi, Ambassador Agent of the State of Palestine who submitted Palestine's application to intervene in the genocide case brought by South Africa:
 
-'The purpose of the Genocide Convention is to "safeguard the very existence of human groups" and "to confirm and endorse the most elementary principles of morality"' and 'The urgency of these proceedings... seek nothing less than protecting the survival of the Palestinian people at a time when their existence is under threat'.[^17]
+> 'The purpose of the Genocide Convention is to "safeguard the very existence of human groups" and "to confirm and endorse the most elementary principles of morality"' and 'The urgency of these proceedings... seek nothing less than protecting the survival of the Palestinian people at a time when their existence is under threat'.[^17]
 
-The Prime Minister litigated Croatia v Serbia alongside Ms Blinne Ní Ghrálaigh. Now he has abandoned his commitment to international law for and its promise, for politics. By contrast, Ms Ní Ghrálaigh is now counsel for South Africa in their genocide case against Israel.
-
-And even when he could take steps to prevent genocide as Prime Minister, by ensuring no arms manufactured in the UK are used by Israel and by taking steps to use the UK's influence to force a ceasefire and the entry of humanitarian aid, he has declined to do so. His own argument in 2014 condemn his actions and history likely will too. 
+The Prime Minister litigated Croatia v Serbia alongside Ms Blinne Ní Ghrálaigh. Now he has abandoned his commitment to international law for and its promise, for politics. By contrast, Ms Ní Ghrálaigh is now counsel for South Africa in their genocide case against Israel. And even when he could take steps to prevent genocide as Prime Minister, by ensuring no arms manufactured in the UK are used by Israel and by taking steps to use the UK's influence to force a declaration of anceasefire and the entry of humanitarian aid, he has declined to do so. His own argument in 2014 condemn his actions and it is likely that history will too. 
 
 EDIT: 13/08/2025: At the time of writing, I could not find this letter, it is signed by over 1000 lawyers, legal academics and former judges and it states genocide is either taking place or there is a serious risk of genocide taking place. See: https://lawyersletter.uk/
 
