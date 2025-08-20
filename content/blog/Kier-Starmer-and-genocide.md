@@ -2,6 +2,8 @@
 date = '2025-07-31T22:06:29+01:00'
 
 title = 'Kier Starmer and Genocide'
+
+tags = ["International law"]
 +++
 
 In October 2023, Nick Ferrari asked the Prime Minister whether a siege and cutting off water and electricity supplies to Gaza (which was already subject to an unlawful blockade)[^1] was a proportionate response to October 7? He responded by saying:
@@ -105,13 +107,13 @@ In issuing provisional measures, the court confirms that it is possible that gen
 
 Sir Kier Starmer believed deprivation of food and water, which is what Gazan's are being subjected to, was capable of being a genocidal act in Croatia. He refused to accept this argument in the context of Gaza in 2023, instead endorsing Israel's siege. In  parliament in 2024, he said genocide was not taking place, with reference to his legal expertise, which does not appears incorrect. The prime minister's reluctance to revise his assessment in late 2024 that genocide is not taking place is reprehensible, even more so given he is using his prior legal experience to cast doubt on legitimate claims that Israel is committing genocide. His legal experience makes him uniquely aware, compared with his fellow western leaders and the vast majority of people, that Israel actions can and likely do constitute genocide. 
 
-Ih the words of Ammar Hijazi, Ambassador Agent of the State of Palestine who submitted Palestine's application to intervene in the genocide case brought by South Africa:
+In the words of Ammar Hijazi, Ambassador Agent of the State of Palestine who submitted Palestine's application to intervene in the genocide case brought by South Africa:
 
 > 'The purpose of the Genocide Convention is to "safeguard the very existence of human groups" and "to confirm and endorse the most elementary principles of morality"' and 'The urgency of these proceedings... seek nothing less than protecting the survival of the Palestinian people at a time when their existence is under threat'.[^17]
 
 The Prime Minister litigated Croatia v Serbia alongside Ms Blinne Ní Ghrálaigh. Now he has abandoned his commitment to international law for and its promise, for politics. By contrast, Ms Ní Ghrálaigh is now counsel for South Africa in their genocide case against Israel. And even when he could take steps to prevent genocide as Prime Minister, by ensuring no arms manufactured in the UK are used by Israel and by taking steps to use the UK's influence to force a declaration of anceasefire and the entry of humanitarian aid, he has declined to do so. His own argument in 2014 condemn his actions and it is likely that history will too. 
 
-EDIT: 13/08/2025: At the time of writing, I could not find this letter, it is signed by over 1000 lawyers, legal academics and former judges and it states genocide is either taking place or there is a serious risk of genocide taking place. See: https://lawyersletter.uk/
+EDIT 13/08/2025: At the time of writing, I could not find this letter, it is signed by over 1000 lawyers, legal academics and former judges and it states genocide is either taking place or there is a serious risk of genocide taking place. See: https://lawyersletter.uk/
 
 [^1]: https://www.youtube.com/shorts/5HQYfsUAf3s
 [^2]: https://www.middleeasteye.net/news/starmer-argued-serbia-waged-genocide-against-croatia
