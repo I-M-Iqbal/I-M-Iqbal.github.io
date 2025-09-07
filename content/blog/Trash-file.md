@@ -1,8 +1,11 @@
 +++
 date = '2025-06-21T16:18:12+01:00'
 draft = true
-title = 'Trash File'
+title = 'trash file'
 +++
+
+
+
 
 [^1]: https://www.bbc.co.uk/news/articles/cx2qq2n3800o
 [^2]: https://www.bbc.co.uk/news/articles/cn81g4e0nlyo
@@ -27,9 +30,17 @@ title = 'Trash File'
 [^21]: The role of political discretion in counter terrorism law is widely discussed. For example, S.40 of the British Nationality Act (BNA) 1981 gives the Home Secretary the power to deprive persons of their citizenship status, which has most often been used on Muslims as highlighted by Dr McNeil-Willson, is discretionary. The Home Secretary does not have to deprive, in fact there are many people who travelled to ISIL territory who returned to the UK, rather it is within their discretion. See https://imiqbal.com/what-is-siac/ for more on S.40 of the BNA. 
 
 
+## Why was a member of Kneecap charged with supporting a proscribed organisations:
 
+A member of Kneecap whose stage name is Mo Chara, has been charged with supporting a proscribed organisation. He was charged
 
-In addition, the government put legislation before parliament on the third July 2025 to proscribe Palestine Action, a civil disobedience group as a terrorist organisation.[^2].
+In May, Chara was charged in relation to a video from Kneecap’s November 2024 concert at O2 Kentish Town Forum, London. In the clip, Mo Chara can be heard seemingly shouting, “Up Hamas, up Hezbollah.” He is also charged for waving a Hezbollah flag. 
+
+Neither of those acts are direct support for Hezbollah or Hamas, they are if proven, rhetorical support for the groups actions. So how are they criminal offences?
+
+## Definition of supporting a proscribed organisation:
+
+The answer: The definition of the offences known as supporting a proscribed organisation is broad. Very Broad. 
 
 The UK government intend to use S.3 of the Terrorism Act to make Palestine Actions direct action unlawful in the future because they recently broke into an RAF base to protest the UK governments role in supporting Israel's war in Gaza.[^2] 
 

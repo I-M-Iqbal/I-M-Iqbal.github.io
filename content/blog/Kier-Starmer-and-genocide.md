@@ -40,7 +40,7 @@ Serbia made counterclaims alleging Serbs has also been subjected to acts that vi
 
 ## Croatia argument about deportations and conditions of life calculated to bring about the physical destruction of the group:
 
-Croatia argued that Serbia created conditions calculated to bring about physical destruction of Croats in occupied territory.[^6] Article II (c) of the Genocide Convention states' deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part' is an act capable of meeting the definition of genocide is the other elements of the definition are met.[^7] 
+Croatia argued that Serbia created conditions calculated to bring about physical destruction of Croats in occupied territory.[^6] Article II (c) of the Genocide Convention states 'deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part' is an act capable of meeting the definition of genocide is the other elements of the definition are met.[^7] 
 
 Starmer argued that Serbia's de-facto army and Serb forces committed genocide and this is attributable to Serbia under international law. In the alternative he argued Serbia has a  responsibility to prevent genocide in the territory it controlled, and it failed to do so. In addition he argued that Serbia participated in a conspiracy, was complicit in or attempt to commit genocide, all of which violate the Genocide Convention.
 
@@ -114,6 +114,8 @@ In the words of Ammar Hijazi, Ambassador Agent of the State of Palestine who sub
 The Prime Minister litigated Croatia v Serbia alongside Ms Blinne Ní Ghrálaigh. Now he has abandoned his commitment to international law for and its promise, for politics. By contrast, Ms Ní Ghrálaigh is now counsel for South Africa in their genocide case against Israel. And even when he could take steps to prevent genocide as Prime Minister, by ensuring no arms manufactured in the UK are used by Israel and by taking steps to use the UK's influence to force a declaration of anceasefire and the entry of humanitarian aid, he has declined to do so. His own argument in 2014 condemn his actions and it is likely that history will too. 
 
 EDIT 13/08/2025: At the time of writing, I could not find this letter, it is signed by over 1000 lawyers, legal academics and former judges and it states genocide is either taking place or there is a serious risk of genocide taking place. See: https://lawyersletter.uk/
+
+EDIT 07/09/2025: The International Association of Genocide Scholars (the largest group of genocide scholars in the world) has issued a resolution that states that Israel has committed genocide by creating conditions that are 'calculated to bring about its physical destruction'. Their resolution states that starvation is a result of such actions. See: https://genocidescholars.org/wp-content/uploads/2025/08/IAGS-Resolution-on-Gaza-FINAL.pdf
 
 [^1]: https://www.youtube.com/shorts/5HQYfsUAf3s
 [^2]: https://www.middleeasteye.net/news/starmer-argued-serbia-waged-genocide-against-croatia
