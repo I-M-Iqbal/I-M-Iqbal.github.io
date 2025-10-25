@@ -1,7 +1,7 @@
 +++
 date = '2025-04-18T21:53:01+01:00'
 title = 'For Women Ltd v the Scottish Ministers- Explained'
-
+draft = true 
 # description = "An explaination of the recent supreme court decision on whether a GRC means a trans person is their certificated gender for the purposes of section 7 definition of sex"
 
 tags = ["Equality Law",]

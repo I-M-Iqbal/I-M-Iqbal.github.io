@@ -1,7 +1,7 @@
 +++
 date = '2025-06-02T21:46:32+01:00'
 title = 'Why S.58 is arguably the worst offence created by the Terrorism Act 2000'
-
+draft = true 
 tags = ["Counter Terrorism Law"]
 
 +++
