@@ -2,7 +2,7 @@
 date = '2025-06-04T17:48:58+01:00'
 
 title = 'Why the UK does not have blasphemy laws even if the press claim otherwise:'
-draft = true 
+
 Tags = ["criminal law"]
 +++
 

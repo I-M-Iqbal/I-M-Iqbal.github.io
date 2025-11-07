@@ -3,7 +3,7 @@
 date = '2025-07-08T16:04:14+01:00'
 
 title = 'Has the definition of terrorism really stood the test of time?'
-draft = true 
+
 Tags = ["Counter Terrorism Law"]
 
 +++
