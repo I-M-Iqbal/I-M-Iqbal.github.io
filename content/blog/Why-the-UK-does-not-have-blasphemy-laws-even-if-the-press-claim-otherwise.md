@@ -156,6 +156,8 @@ IMI
 
 You can find the judgment here: https://www.judiciary.uk/wp-content/uploads/2025/06/Rex-v-Hamit-Coskun.pdf
 
+EDIT 11/11/2025: Mr Coskun has successfully appealed his conviction on free speech grounds. You can find the details of his appeal here: https://www.bbc.co.uk/news/articles/c9v7wlj3pr2o. For all the reasons discussed above, this prosecution was still not a blasphemy prosecution despite the criminal court finding that the prosecution did violate Mr Coskun's rights. 
+
 [^1]: https://www.theguardian.com/uk-news/2025/jun/02/man-fined-after-burning-quran-outside-turkish-consulate-in-london
 [^2]: https://www.legislation.gov.uk/ukpga/1986/64/section/5
 [^3]: https://www.legislation.gov.uk/ukpga/1986/64/section/6
