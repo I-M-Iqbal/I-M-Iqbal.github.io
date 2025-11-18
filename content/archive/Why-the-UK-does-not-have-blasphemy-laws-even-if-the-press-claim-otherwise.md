@@ -6,6 +6,7 @@ title = 'Why the UK does not have blasphemy laws even if the press claim otherwi
 Tags = ["criminal law"]
 +++
 
+
 A man has been fined £240 after he set fire to a Quran outside the Turkish consulate in London. Mr Coskun is half Kurdish and half Armenian and was born in Turkey. He stated on social media that he wanted to 'protest the Islamist Government of Erdogan who has made Turkey a base for radical Islamists and is trying to establish a Sharia regime'[^1]. The case was heard before a judge sitting in the Magistrates court meaning he was both the finder of fact and responsible to issuing a sentence in this case. 
 
 Following this, a man came out of a property nearby and called Mr Coskun a "fucking idiot" and Mr Coskun repeatedly said "fuck you" and "fuck Islam". The man responded with a death threat entered the property and reemerged with a knife, attacked Mr Coskun and then kicked and spat at him. Ms Coskun was also kicked by a passing delivery driver. 
