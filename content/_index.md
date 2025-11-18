@@ -7,7 +7,9 @@ title = "About me"
 
 Hi all, 
 
-Thank you for taking the time to come to the tiny corner of the internet where I write about legal topics mostly (you might get the occasional book related post too but it will be related to law somehow). 
+Thank you for taking the time to come to the tiny corner of the internet where I write about legal topics- mostly. 
+
+There is also an archive section of the website where blog posts that are out of date can be found. 
 
 A bit about me: I have studied law at university. As a result I have spent a lot of time thinking about the law and if and when I have coherent thoughts which might be vaguely interesting to someone other than me, they will appear here from time to time. 
 
@@ -21,4 +23,6 @@ I M Iqbal
 
  [Charlie's website](https://charliew.net/) < webring > [Adi's website](https://fuzzythebee.github.io/)
 
+
+My friend Charlie has made search engine for the webring, see: 
 
