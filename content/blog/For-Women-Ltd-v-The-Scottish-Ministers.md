@@ -13,11 +13,9 @@ This judgment was primarily focused on the rights of trans people with gender re
 
 ## A quick point on the language used in this post: 
 
-The Equality Act and other law discussed in this post uses terms which are offensive because they do not reflect the language trans people would use to refer to themselves. Where such language is used in this post, it is for legal accuracy alone. Outside of such circumstances language which is accurate has been used.  
+The Equality Act and other law discussed in this post uses terms which are offensive because they do not reflect the language trans people would use to refer to themselves. Where such language is used in this post, it is for legal accuracy alone. Outside of such circumstances language which is accurate has been used. The same is true of the glossary of terms below. Where possible the language trans people would prefer to use has been used and alternative language is solely used to ensure readers of this post can understand the language being used by the court.
 
-The terms sex and gender are used alternatively in the EA and other relevant laws. As a result the UKSC judgment also alternates between these terms. I have tried to avoid using the term gender unless I am discussing a part of the law which uses the term gender for clarity. The only exception is the term  acquired gender which I define in the section below. 
-
-The glossary of terms below contains imperfect definitions and may not reflect the way trans people prefer people discuss their gender. Those terms have been defined to provide clarity as to specifically who is being described and reflect the language used by the court, where possible, the language trans people would prefer to use has been used. 
+The terms sex and gender are used alternatively in the EA and other relevant laws. As a result the UKSC judgment also alternates between these terms. I have tried to avoid using the term gender unless I am discussing a part of the law which uses the term gender for clarity. The only exception is the term acquired gender which I define in the section below. 
 
 ## Glossary of terms used in this blog post: 
 - Biological sex = Sex assigned at birth. 
@@ -25,7 +23,7 @@ The glossary of terms below contains imperfect definitions and may not reflect t
 - Wider sex = Used to refer to a definition of sex that includes cisgender people + trans people with GRCs. For example, woman would be cisgender women and trans women with GRCs.
 - Acquired gender = The gender a trans person identifies as.
 - Transgender person = A Person who does not identify as the gender they were assigned at birth and as a result has the protected characteristic of gender reassignment. 
-- Cisgender person = A person who does identify as the gender they were assigned at birth and as a result has the protected characteristic of sex. 
+- Cisgender person = A person who does identify as the gender they were assigned at birth.
 
 - Gender Recognition Act 2004: Referred to as the GRA throughout.
 - Gender Recognition Certificate: A certificate that states a trans person is legally their acquired gender which is issued under the GRA. Referred to as a GRC throughout.
@@ -277,17 +275,17 @@ Mr Maugham did qualify his conclusion however by stating that he has heard from 
 
 I have tried to keep my opinion of this judgment out of my summary and discussion of the legal issues in this post so it its helpful to as many people as possible without my opinion clouding their perception of the case. I share it now, only for completeness:
 
-- The decision not to allow  interveners from the trans community was a grave error. The court should have heard arguments from the trans community. Edit 13/10/2025: Further blog posts about Victoria Mcloud's challenge to this decision under Article 6 of the ECHR will be written as soon as the records of her and her teams arguments are available. 
-- The court had to decide between 3 options in this case: a biological definition of sex (their conclusion), a wider definition of sex or a mixed definition. The principles of statutory interpretation alongside the UK constitution left them with little choice.
+- The decision not to allow  interveners from the trans community was a grave error. The court should have heard arguments from the trans community. Edit 13/10/2025: Further blog posts about Victoria Mcloud's challenge to this decision under Article 6 of the ECHR will be written as soon as the records of her arguments are available. 
+- The court had to decide between 3 options in this case: a biological definition of sex (their conclusion), a wider definition of sex (that included cisgender people and trans people with the relevant GRC) or a mixed definition. The principles of statutory interpretation alongside the UK constitution left them with little choice.
 - In the UK our parliament is sovereign, meaning when it basses an act, such as the equality act, no court has the power to disapply any provision within it or change the meaning as intended by parliament.
 - As a result, it is not possible for a mixed definition of sex to exist in the EA because parliament included nothing in the act to indicate this was their intention. This would also require a rebuttal of the presumption that the same word in the same law has the same meaning- this would require some explicit evidence to the contrary which no party was able to produce. 
-- The court compares the result of a wider definition of sex with a biological definition. It found that the result of a wider definition would produce irrational results and because the law presumes parliament can not have intended to produce an absurd result, the court had one clear outcome. The  definition sex based on parliaments intention had to be biological. 
+- The court compares the result of a wider definition of sex with a biological definition. It found that the result of a wider definition would produce irrational results and because the law presumes parliament can not have intended to produce an absurd result, there was one clear outcome. The  definition sex based on parliaments intention had to be biological. 
 
-The tone of this judgment, the qualification at the beginning stating this ruling only applying to the EA, the fact the judges state this judgment is not taking a position on the wider debate about the meaning of sex suggests to me the court was aware this judgment could be abused. In addition, the judges clarified that trans people would still be able  make EA claims as described above. This indicates that if this judgment is abused and a legal claim is brought by a trans person, the courts will declare such conduct to be unlawful. I am not sure how much comfort this will be to the trans community who are watching people celebrate this judgment by making false claims about what it means with regard to the EA and the law in general. But, I hope a complete understanding of this judgment provides you with a greater understanding and perhaps more reassurance than you had prior to reading this post. 
+The tone of this judgment, the qualification at the beginning stating this ruling only applying to the EA, the fact the judges state this judgment is not taking a position on the  debate about the meaning of sex suggests to me the court was aware this judgment could be abused. In addition, the judges clarified that trans people would still be able  make EA claims as described above. This indicates that if this judgment is abused and a legal claim is brought by a trans person, the courts will declare such conduct to be unlawful. I am not sure how much comfort this will be to the trans community who are watching people celebrate this judgment by making false claims about what it means with regard to the EA and the law in general. But, I hope a complete understanding of this judgment provides you with a greater understanding and perhaps more reassurance than you had prior to reading this post. 
 
 Regards
 
-IMI
+I Iqbal
 
 Edit 23/05/2025: Baroness Brenda Hale, former head of the UK supreme court, was asked about this judgement recently and she stated that she believes it is being misinterpreted. I suspect this is what the current UKSC judges were concerned about as mentioned above. She also highlighted that a biological definition of sex without clarifying what that means may itself cause issues in the future. Noteably she stated: 
 
