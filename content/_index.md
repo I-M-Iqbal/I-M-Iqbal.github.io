@@ -5,24 +5,18 @@
 title = "About me"
 +++
 
-Hi all, 
+Hi, 
+ 
 
-Thank you for taking the time to come to the tiny corner of the internet where I write about legal topics- mostly. 
+The URL and title of the blog are a reference to a Shakespeare play: Henry VI part 2. The Earl of Warwick refers to 'nice sharp quillets of the law' with quillet meaning subtilty, which is the source of inspiration for the blog's name. 
 
-There is also an archive section of the website where blog posts that are out of date can be found. 
-
-A bit about me: I have studied law at university. As a result I have spent a lot of time thinking about the law and if and when I have coherent thoughts which might be vaguely interesting to someone other than me, they will appear here from time to time. 
+Shakespeare's works are littered with legal and political references, the most famous of which is the line 'The first thing we do, let's kill all the lawyers', which has become a reference point in discourse about legal professional.  There are many ways to interpret the line as highlighting the role lawyers play in upholding the legal system or highlighting their role often involved upholding the status quo by protecting those whom are already in power. What runs through both interpretations of the line is a preoccupation with the ideas of justice and its relationship with the rule of law, which is the main subject of this blog so thank you for taking the time to visit my tiny corner of the internet. 
 
 Regards
 
-I M Iqbal
-
-
- RSS feed: https://imiqbal.com/blog/index.xml
-
+II
 
  [Charlie's website](https://charliew.net/) < webring > [Adi's website](https://fuzzythebee.github.io)
- 
  
  My friend Charlie has made search engine for the webring: https://search.246802468.xyz/
 
