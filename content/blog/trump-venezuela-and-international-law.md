@@ -2,6 +2,8 @@
 date = '2026-01-05T18:15:26Z'
 
 title = 'Trump, Venezuela and International Law'
+
+tags = ["International law"]
 +++
 
 In January 2026, Donald Trump ordered the US military to capture Nicolas Maduro, the President of Venezuela, and his wife Cilia Flores and bring them to the US for a criminal trial for drug related offenses. This involved attacks on several sites in the country, cutting the electricity in Caracas and the targeting of several locations by US special forces.[^1]
