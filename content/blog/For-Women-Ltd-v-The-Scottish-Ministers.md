@@ -285,7 +285,7 @@ The tone of this judgment, the qualification at the beginning stating this rulin
 
 Regards
 
-I Iqbal
+II
 
 Edit 23/05/2025: Baroness Brenda Hale, former head of the UK supreme court, was asked about this judgement recently and she stated that she believes it is being misinterpreted. I suspect this is what the current UKSC judges were concerned about as mentioned above. She also highlighted that a biological definition of sex without clarifying what that means may itself cause issues in the future. Noteably she stated: 
 

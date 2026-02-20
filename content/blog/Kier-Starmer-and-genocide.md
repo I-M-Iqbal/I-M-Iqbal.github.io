@@ -113,6 +113,9 @@ In the words of Ammar Hijazi, Ambassador Agent of the State of Palestine who sub
 
 The Prime Minister litigated Croatia v Serbia alongside Ms Blinne Ní Ghrálaigh. Now he has abandoned his commitment to international law for and its promise, for politics. By contrast, Ms Ní Ghrálaigh is now counsel for South Africa in their genocide case against Israel. And even when he could take steps to prevent genocide as Prime Minister, by ensuring no arms manufactured in the UK are used by Israel and by taking steps to use the UK's influence to force a declaration of anceasefire and the entry of humanitarian aid, he has declined to do so. His own argument in 2014 condemn his actions and it is likely that history will too. 
 
+Regards
+II
+
 EDIT 13/08/2025: At the time of writing, I could not find this letter, it is signed by over 1000 lawyers, legal academics and former judges and it states genocide is either taking place or there is a serious risk of genocide taking place. See: https://lawyersletter.uk/
 
 EDIT 07/09/2025: The International Association of Genocide Scholars (the largest group of genocide scholars in the world) has issued a resolution that states that Israel has committed genocide by creating conditions that are 'calculated to bring about its physical destruction'. Their resolution states that starvation is a result of such actions. See: https://genocidescholars.org/wp-content/uploads/2025/08/IAGS-Resolution-on-Gaza-FINAL.pdf

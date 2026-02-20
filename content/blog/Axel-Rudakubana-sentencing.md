@@ -35,7 +35,7 @@ Many people rightly feel no sentence is severe enough for his crimes: the murder
 
 Regards
 
-IMI
+II
 
 Edit as of 17/02/2025:
 The Attorney General's office responded to the requests under the ULS and confirmed that he would not be seeking to refer the sentence to the Court of Appeal because there was no legal basis for a referal. (10) 

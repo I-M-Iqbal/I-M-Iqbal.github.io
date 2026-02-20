@@ -84,7 +84,7 @@ Ultimately, the justification for this offence is the classic debate that underp
 
 Regards
 
-IMI
+II
 
 [^1]: https://plus-lexis-com.bham-ezproxy.idm.oclc.org/uk/practical-guidance-uk/strict-liability_2/?crid=ffc1e046-8ce7-4612-a602-495262ece4cb&pddocumentnumber=1
 [^2]: https://www.legislation.gov.uk/ukpga/2000/11/section/58

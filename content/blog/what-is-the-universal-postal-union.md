@@ -35,7 +35,7 @@ In 1964, the UPU introduced a consitution and incoporated the Treaty of Bern int
 
 Regards
 
-IMI
+II
 
 Random fun fact to end: Did you know World Post Day is on the 9th October- chosen because it was the day the Treaty of Bern was signed. The annual award for best postal services is also announced on this day. 
 

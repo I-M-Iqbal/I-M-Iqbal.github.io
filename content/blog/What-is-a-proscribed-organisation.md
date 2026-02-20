@@ -101,7 +101,7 @@ Questions about whether we are satisfied with the breadth of S.3 or the discreti
 
 Regards
 
-IMI
+II
 
 PS: This post, if it wasn't apparent already is likely to be the start of a series. This post by comparison to upcoming posts is quite general but necessary as an introduction.
 
