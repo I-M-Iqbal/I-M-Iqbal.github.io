@@ -153,7 +153,8 @@ Arguing using the law to protect Muslims from public order offences designed to 
 Barones Sayeeda Warsi, one of the most Muslim Politicians in this country, has written extensively about the effects of Islamophobia. Her most recent book is titled Muslims Don't Matter. That is in effect the argument Timothy, Murray, The Spectator, The Express and others are making. They wish to say what they like about Muslims without fear of consequence, freedom of speech without consequence which is an inversion of the current law. The outrage directed at this judgment is perhaps the most recent episode that proves Muslims don't matter in this country. 
 
 Regards
-IMI 
+
+II 
 
 You can find the judgment here: https://www.judiciary.uk/wp-content/uploads/2025/06/Rex-v-Hamit-Coskun.pdf
 
