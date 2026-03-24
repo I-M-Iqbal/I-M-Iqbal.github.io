@@ -4,6 +4,8 @@ draft = true
 title = 'Lucy Letby'
 +++
 
+See guardian/ private eye coverage 
+
 Panorama Aug 2025:
 
 Main causes of death:

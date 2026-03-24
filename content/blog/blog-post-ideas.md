@@ -14,7 +14,7 @@ Posted:
 
 Scheduled: 
 - Myanmar v Gambia- summary of proceedings so far. (Feb 2026)
-- Mclaren v Palou, why redacted ??? (Mar 2026)
+- What is MiPO? Why is it being replaced with a new offence? (andrew)  (Mar 2026)
 - Spyware Al Masarir v Saudi Arabia. (Apr 2026)
 - Why is the Wagner Group a Proscribed organisation ? (May 2026)
 - Statelessness and SIAC (June 2026) (see guy goodwin-gill correspondance about 2014 immigration act in the house of laws library).
@@ -22,12 +22,11 @@ Scheduled:
 - Lenin, Robspierre and the origins of the word terrorism (Aug 2026). 
 - The ICJ's advisory opinion on the legality of the use on nuclear weapons (Sept 2026)
 - Schedule 7: what is it,Tommy Robinson and Fahad Ansari. (Oct 2026)
-- 
+- Meaning of disability under S.6. (Nov 2026)
 - UN investigated UK treatment of disabled persons (Dec 2026).
 
 Bonus Post: 
-- Meaning of disability under S.6.
-- What is MiPO? Why is it being replaced with a new offence? (andrew) 
+- Nuclear weapons advisory opinion 
 
 Waiting for judgements:
 - For women follow up post high court case by GLP/ strasbourg challenge by Mcloud and Others. 
@@ -40,6 +39,7 @@ Rest of the List:
 - IPP sentences 
 - Joint enterprise (appeal joint enterprise on trial report)
 - What is the IPT?.
+- ICC trial of duerte and trump (democracy now interview with ex war crimes prosecutor)
 - The Doctor's Trial (nazi's)
 - Enrochat (hack v intercept).
 - Omagh bombing appeal (DNA).
@@ -53,10 +53,14 @@ Rest of the List:
 - Letby. 
 - Famine, Gaza and Sudan 
 - IP law and AI.
-- Racing illegals: Massa v FIA, Briattore, Palou v Mclaren 
 - Kneecap of it all. 
 - Baha Mousa, public inquiries, tony blair, civilian courts. 
 - IPP sentencing.
 - Thalidomide: Harry Evans, Sunday Times, ECHR.
 - Abu Zubaydah, UK settlement, Romania, Poland and the ECHR. 
 - Windush: what happened, public inquiry, the mess that is the compensation scheme. 
+- Denis Donaldson killing/ inquest 
+- Diplock trials 
+- Palestinian statehood and state comments in: https://www.youtube.com/watch?v=KGthHD9hjb4
+- Iran girl school attack, AI, international law. See: https://www.youtube.com/watch?v=fPldNjSVGqA
+- Lamumba's murder, bengium and the congo. See article mentioned at the end of https://www.youtube.com/watch?v=RO0T4D2z_Ww
