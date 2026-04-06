@@ -1,5 +1,5 @@
 +++
-date = '2026-02-04T19:57:34Z'
+date = '2026-02-06T19:57:34Z'
 
 title = 'The Advisory Opinion on the Legality of Nuclear Weapons'
 
@@ -65,6 +65,9 @@ Ultimately, this opinion merely confirms that nuclear weapons are not inherently
 
 This is the context in which the new START treaty expired, a context in which the use of nuclear weapons would be illegal in nearly all circumstances. But frankly, a prohibition in law alone is not what has prevented the use of these weapons since 1945, it is likely that the fear of the consequences is what has prevented states from using them. 
 
+Regards
+
+II
 
 [^1]: https://www.bbc.co.uk/news/articles/c4g31n4ey9go
 [^2]: https://digitallibrary.un.org/record/193267?v=pdf

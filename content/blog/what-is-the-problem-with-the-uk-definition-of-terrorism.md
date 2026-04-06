@@ -181,6 +181,7 @@ Furthermore, Antonio Cocco highlighted that the definition of terrorism may viol
 So perhaps it is time to amend the UK definition of terrorism? 
 
 Regards
+
 II
 
 [^1]: https://www.youtube.com/watch?v=lElcvt1kuPQ

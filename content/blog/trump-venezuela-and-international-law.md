@@ -95,6 +95,7 @@ The US has significant but not sole responsibility for this state of affairs. Th
 This dynamic has long existed in international law, and is one of the reasons why despite the clarity of many international legal obligations, including what  right of self defence, states are still able to violate it. This dyamic is a key reason for the failure in  enforcing international law. Which makes powerful states like the US invoking that as a failure of international law itself, more than a little ironic.
 
 Regards
+
 II
 
 [^1]: https://www.bbc.co.uk/news/articles/cdred61epg4o

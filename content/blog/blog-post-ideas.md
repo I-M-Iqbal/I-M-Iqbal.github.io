@@ -10,38 +10,40 @@ The URL and title of the blog are a reference to a Shakespeare play: Henry VI pa
 
 Posted:
 - Venezuela and Trump (Jan 2026).
+- Nuclear weapons advisory opinion (Feb 2026)
+- 
 
+Abandoned:
+- What is MiPO? Why is it being replaced with a new offence? (andrew)
 
 Scheduled: 
-- Myanmar v Gambia- summary of proceedings so far. (Feb 2026)
-- What is MiPO? Why is it being replaced with a new offence? (andrew)  (Mar 2026)
+- Israel and the Crime of Apathied (Mar 2026)
 - Spyware Al Masarir v Saudi Arabia. (Apr 2026)
 - Why is the Wagner Group a Proscribed organisation ? (May 2026)
 - Statelessness and SIAC (June 2026) (see guy goodwin-gill correspondance about 2014 immigration act in the house of laws library).
 - EHRC DWP (July 2026) [see guardian deadline about 330,000 excess deaths due to this].
 - Lenin, Robspierre and the origins of the word terrorism (Aug 2026). 
-- The ICJ's advisory opinion on the legality of the use on nuclear weapons (Sept 2026)
+-  (Sept 2026)
 - Schedule 7: what is it,Tommy Robinson and Fahad Ansari. (Oct 2026)
 - Meaning of disability under S.6. (Nov 2026)
 - UN investigated UK treatment of disabled persons (Dec 2026).
 
-Bonus Post: 
-- Nuclear weapons advisory opinion 
 
 Waiting for judgements:
 - For women follow up post high court case by GLP/ strasbourg challenge by Mcloud and Others. 
-- Palestine Action proscription (with note on removale of chamberlin).
+- Palestine Action proscription (with note on removal of chamberlin).
 - Scots law PA proscripton ( see scot national article about this)
-- CMPs in public inquiries.
+- Myanmar v Gambia.
 
 
 Rest of the List:
 - IPP sentences 
+- CMPs in public inquiries.
 - Joint enterprise (appeal joint enterprise on trial report)
 - What is the IPT?.
 - ICC trial of duerte and trump (democracy now interview with ex war crimes prosecutor)
 - The Doctor's Trial (nazi's)
-- Enrochat (hack v intercept).
+- Enrochat (hack v intercept). [lord help me this is gonna be a long one, see channel 4 documantary and bbc sound podcast and German case where the messages were thrown out]
 - Omagh bombing appeal (DNA).
 - RRO's and D notices and suberinjunctions SAS (DAG).
 - Chagos Island cases: history, Bancoult, ICJ, final deal. Plus Diego Garcia Military Base and British Indian Ocean Territory Bill.
@@ -51,11 +53,11 @@ Rest of the List:
 - Disability Rights UK's COVID inquiry submissions.
 - Obscenity, Well of Loneliness and Lady Chatterley's Lover.
 - Letby. 
+- Genocide and Brazil's argument (see alonso gurmendi)
 - Famine, Gaza and Sudan 
 - IP law and AI.
 - Kneecap of it all. 
 - Baha Mousa, public inquiries, tony blair, civilian courts. 
-- IPP sentencing.
 - Thalidomide: Harry Evans, Sunday Times, ECHR.
 - Abu Zubaydah, UK settlement, Romania, Poland and the ECHR. 
 - Windush: what happened, public inquiry, the mess that is the compensation scheme. 
@@ -64,3 +66,5 @@ Rest of the List:
 - Palestinian statehood and state comments in: https://www.youtube.com/watch?v=KGthHD9hjb4
 - Iran girl school attack, AI, international law. See: https://www.youtube.com/watch?v=fPldNjSVGqA
 - Lamumba's murder, bengium and the congo. See article mentioned at the end of https://www.youtube.com/watch?v=RO0T4D2z_Ww
+- Nihilistic Violent Extremism: https://www.lawfaremedia.org/article/lawfare-daily---i-m-angry-that-i-exist---nihilistic-violent-extremism-with-seamus-hughes-and-jacob-ware and prevent 
+- THEY RAIDED A LAWYERS OFFICES: https://www.bbc.co.uk/news/articles/c3dlxzjd30ro

@@ -5,6 +5,16 @@ title = 'trash file'
 +++
 
 
+The first key aspect of Apartheid in South Africa is the system of land designation. The majority of land was designated for use by white people, 87% with 13% of the land designated for Black persons. This was despite the fact 70% of South Africans were Black and only 17% are white. The remaining 13% of people whom were designated as mixed-race or indian only had the residential rights in urban areas.  These designation gave rise to forcible removal of black people from land in "white" areas. People subject to forcible removals were often removed to Bantustans, areas that the Apartheid government claimed were independent but were actually under the control of the Apartheid government. Living conditions in Bantustans violated basic fundamental human rights. Readers are encouraged to read the testimonies of those who were forced to live in the Bantustans shared with the Truth and Reconcilliation committee. 
+
+The second key aspect is citizenship deprivation. All Black people forced to live in Bantustans were deprived of their South African Citizenship. In the words of Hannah Ardent, Citizenship is the right to have rights, therefore without citizenship it became permissable for numerous forms of human rights violation to be committed with no legal consequences because in the eyes of Apartheid South Africa, these people lacked the right to be protected under the law. 
+
+Finally, there was an internal passport system instituted in []. All non White people had to carry a pass to travel between different areas of the country. This system was akin to a severe restriction on the right to free movement and by the mid 1950S a 250,000 people a year were being jailed for violating pass laws. 
+
+### Apartheid under the Rome Statute:
+
+The Rome statute has a slightly different definition of Apartheid. The key difference is the Rome statute requires a system of wrongful acts to be in place with the intention of racial domination via systematic oppression.[^17] The 1971 Convention by contrast requires any measure to be put in place with the intention of building a systematic form of racial oppression and domination. The requirement part of two different parts of the two definitions of apartheid. Under the 1971 convention, it is part of the special intent requirement whereas under the Rome Statute it is part of the act requirement. This means under the 1971 convention that once the first wrongful occurs, apartheid has been committed, but multiple wrongful acts are required before criminal liability for the crime against humanity of apartheid arises.[^12] 
+
 
 
 [^1]: https://www.bbc.co.uk/news/articles/cx2qq2n3800o
