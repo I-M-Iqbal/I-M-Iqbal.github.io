@@ -11,19 +11,18 @@ The URL and title of the blog are a reference to a Shakespeare play: Henry VI pa
 Posted:
 - Venezuela and Trump (Jan 2026).
 - Nuclear weapons advisory opinion (Feb 2026)
-- 
+- Israel and the Crime of Apathied (Mar 2026)
 
 Abandoned:
 - What is MiPO? Why is it being replaced with a new offence? (andrew)
 
 Scheduled: 
-- Israel and the Crime of Apathied (Mar 2026)
-- Spyware Al Masarir v Saudi Arabia. (Apr 2026)
+- Ben Roberts Smith (Apr 2026)
 - Why is the Wagner Group a Proscribed organisation ? (May 2026)
 - Statelessness and SIAC (June 2026) (see guy goodwin-gill correspondance about 2014 immigration act in the house of laws library).
 - EHRC DWP (July 2026) [see guardian deadline about 330,000 excess deaths due to this].
 - Lenin, Robspierre and the origins of the word terrorism (Aug 2026). 
--  (Sept 2026)
+- Joint enterprise (appeal joint enterprise on trial report)(Sept 2026)
 - Schedule 7: what is it,Tommy Robinson and Fahad Ansari. (Oct 2026)
 - Meaning of disability under S.6. (Nov 2026)
 - UN investigated UK treatment of disabled persons (Dec 2026).
@@ -38,6 +37,7 @@ Waiting for judgements:
 
 Rest of the List:
 - IPP sentences 
+- Spyware Al Masarir v Saudi Arabia
 - CMPs in public inquiries.
 - Joint enterprise (appeal joint enterprise on trial report)
 - What is the IPT?.
