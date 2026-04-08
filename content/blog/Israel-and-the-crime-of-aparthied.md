@@ -1,7 +1,7 @@
 +++
 date = '2026-03-30T23:08:04+01:00'
 
-title = 'Israel, The death penalty and Apartheid'
+title = 'Israel, the death penalty and apartheid'
 +++
 
 In July 2024, the International Court of Justice (ICJ) issued an advisory opinion on the status of the Occupied Palestinian Territory (OPT).[^1] It found Israel's continuing presence was unlawful and its policies including settlement and other discriminatory policies and practices against Palestinians were unlawful.[^1] Said discriminatory policies and practices were a violation of Article 3 of the Convention on Eliminating Racial Discrimination, a violation of the prohibition on Apartheid.[^1] Apartheid is in essence the crime of establishing a system of racial domination of one group over another by establishing a system oppression directed towards the victim group by seriously violating their fundamental rights.[^2] 
@@ -105,7 +105,7 @@ Postscript: It should be noted that many of the ordinary arguments against the d
 
 Israel has executed two persons in its history, the second was Adolf Eichmann a Nazi officer responsible for the Holocaust.[^42] The first was Meir Tobianski, who was an army officer and was executed as the result of a false accused of espionage and a conviction for for treason. He was exonerated after his death as is all too common in death penalty cases.[^42]  
 
-[^1] See https://www.icj-cij.org/case/186. The specific wrongful acts highlighted to be part of a system of apartheid were discriminatory demolition of property, either as a punishment for crimes or due to lack of permits, requiring Palestinians to have residency permits in East Jerusalem with no requirement for Israelis to possess them and restriction on movement either due to settlements, the wall of permits. Each policy undermines Palestinians political, civil, cultural, social or economic rights while leaving Israeli rights untouched.
+[^1]: See https://www.icj-cij.org/case/186. The specific wrongful acts highlighted to be part of a system of apartheid were discriminatory demolition of property, either as a punishment for crimes or due to lack of permits, requiring Palestinians to have residency permits in East Jerusalem with no requirement for Israelis to possess them and restriction on movement either due to settlements, the wall of permits. Each policy undermines Palestinians political, civil, cultural, social or economic rights while leaving Israeli rights untouched.
 [^2]: See Apartheid Convention of 1973: https://treaties.un.org/doc/Publication/UNTS/Volume%201015/volume-1015-I-14861-English.pdf. 
 [^3]: https://www.dw.com/en/israel-passes-controversial-death-penalty-law/a-76586475
 [^4]: https://www.btselem.org/press_releases/20260330_israel_turning_execution_of_palestinians_into_official_state_policy
