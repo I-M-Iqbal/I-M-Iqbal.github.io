@@ -18,7 +18,7 @@ Abandoned:
 
 Scheduled: 
 - Ben Roberts Smith (Apr 2026)
-- Why is the Wagner Group a Proscribed organisation ? (May 2026)
+- Atrocity speech crime and Trump (May 2026)
 - Statelessness and SIAC (June 2026) (see guy goodwin-gill correspondance about 2014 immigration act in the house of laws library).
 - EHRC DWP (July 2026) [see guardian deadline about 330,000 excess deaths due to this].
 - Lenin, Robspierre and the origins of the word terrorism (Aug 2026). 
@@ -36,6 +36,9 @@ Waiting for judgements:
 
 
 Rest of the List:
+- Khalistan, nationhood and terrorism. 
+- Suffragette's and terrorism. 
+- Why is the Wagner Group a Proscribed organisation?
 - IPP sentences 
 - Spyware Al Masarir v Saudi Arabia
 - CMPs in public inquiries.

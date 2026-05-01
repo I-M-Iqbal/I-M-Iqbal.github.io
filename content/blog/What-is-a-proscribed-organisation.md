@@ -93,7 +93,7 @@ Discretion, Just because the Home Secretary can proscribe an organisation doesn'
 
 Discretion is a key feature of counter terrorism law, its also the mechanism by which political judgment enters the counter terrorism legal space. 
 
-And sometimes it is the cause of questionable legal decisions such as those highlighted above because ultimately the penalties for supporting ISIL, a group who committed genocide,[^13] should not the the same as spraying red paint at a Barclays bank branches. Such a decision appears completely disproportionate.
+And sometimes it is the cause of questionable legal decisions such as those highlighted above because ultimately the penalties for supporting ISIL, a group who committed genocide, should not the the same as spraying red paint at a Barclays bank branches. Such a decision appears completely disproportionate.
 
 Ultimately, the proscription of the groups mentioned above is the product of the breadth of S.3 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.
 
