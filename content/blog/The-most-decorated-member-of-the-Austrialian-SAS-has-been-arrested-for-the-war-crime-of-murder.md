@@ -1,7 +1,7 @@
 +++
 date = '2026-04-09T16:03:14+01:00'
 draft = true
-title = 'The Most Decorated Member of the Australian SAS Has Been Arrested for Murder'
+title = 'The most decorated member of the Australian SAS has been arrested for murder'
 +++
 
 Ben Robert Smith, a former solider in the Australian Special Air Service Regiment (SASR), recipient of the Medal for Gallantry, the Victoria Cross, was once considered a national hero. Then in 2017 journalists discovered credible evidence that he had committed war crimes. Following the publication of allegations of war crimes, he sued for defamation and in 2023, he lost that case in 2023- a judge ruled that he more likely than not had committed the war crime of murder. Three years later, he was arrested at Sydney airport for murder. 

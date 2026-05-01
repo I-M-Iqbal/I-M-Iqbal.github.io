@@ -30,6 +30,10 @@ The section of the Interim guidance that sought to address this impact stated th
 
 > ''
 
+
+
+
+
 https://d2nsgnsf036lw8.cloudfront.net/PDFs-documents-and-other-resources/Judgments-and-decisions/good-law-project-EHRC-AC-2025-1953-judgment-13Feb26.pdf
 
 
