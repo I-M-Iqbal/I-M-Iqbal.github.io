@@ -37,6 +37,7 @@ Waiting for judgements:
 
 Rest of the List:
 - Western Sahara and Morroco.
+- follow up to ^ on EU.
 - Khalistan, nationhood and terrorism. 
 - Suffragette's and terrorism. 
 - Why is the Wagner Group a Proscribed organisation?

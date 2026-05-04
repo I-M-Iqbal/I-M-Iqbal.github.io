@@ -28,9 +28,6 @@ The reason the For Women case impacts upon this guidance is if the definition of
 
 The section of the Interim guidance that sought to address this impact stated the following: 
 
-> 
-
-
 
 
 
