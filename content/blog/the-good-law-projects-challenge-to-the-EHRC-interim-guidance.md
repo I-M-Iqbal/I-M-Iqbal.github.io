@@ -1,7 +1,7 @@
 +++
 date = '2026-02-13T14:55:09Z'
 draft = true
-title = 'The Good Law Project's Challenge to the EHRC Interim Guidance'
+title = 'The Good Law Projects Challenge to the EHRC Interim Guidance'
 +++
 
 There have been several legal developments following the UKSC's For Women judgement which ruled that the meaning of Sex in the Equality Act 2010 refers to biological sex. For a detailed discussion of this judgment, please see: https://quilletsofthelaw.com/for-women-ltd-v-the-scottish-ministers-explained/. One such development is that the Good Law Project (GLP) filed a judicial review case against the EHRC's interim guidance about the judgment. A judgment was handed down in the case by Mr Jonathan Swift KC in February 2026. This post aims, like my last post about these issues, to explain the judgement and what comes next. 
