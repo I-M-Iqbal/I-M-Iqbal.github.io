@@ -153,11 +153,9 @@ The court attached no importance to the provisions of S.117 as a safeguard becau
 
 The UKSC did state that the definition is subject to the European Convention on Human Rights but Mr Gul did not make any arguments about S.1's application violating his rights under the ECHR so they declined to address this issue. 
 
-The court did however express concerns about both the 2000 and 2006 Terrorism Acts:
+The court did however express concerns about both the 2000 and 2006 Terrorism Acts. They returned to David Anderson's first report as Independent Reviewer, where he noted that other countries have chosen to exclude 'exclude activities sanctioned by international law from the reach of terrorist activity'. This includes the Canadian and South African Criminal Codes.
 
-The returned to David Anderson's first report as Independent Reviewer where he noted that other countries have chosen to exclude 'exclude activities sanctioned by international law from the reach of terrorist activity' citing the Canadian and South African Criminal Codes.
-
-In his second report, Anderson KC mentioned the 'potential application of the Terrorism Acts even to UK forces engaged in conflicts overseas' and noted Australia recently changed its laws o create an exception for this kind of activity.
+In his second report, Anderson KC mentioned the 'potential application of the Terrorism Acts even to UK forces engaged in conflicts overseas' and noted Australia recently changed its laws to create an exception for this kind of activity.
 
 The court supported a re-examination of S.1 in light of both issues identified by Mr Anderson KC's reports. In their view:
 
@@ -167,12 +165,9 @@ The court also stated that the 2000 and 2006 acts give the state the ability to 
 
 > 'the fact that the powers are so unrestricted and the definition of “terrorism” is so wide means that such powers are probably of even more concern than the prosecutorial powers to which the Acts give rise.'
 
-Since 2013, the definition of terrorism remains unchanged, therefore all of the issues highlighted by the court remain issues with the definition of terrorism today. Therefore, what the minister said before parliament is false, there has been criticism of the breadth of S.1 by the UKSC. The independent reviewers have also highlighted issues with the definition, see the sections of David 
-Anderson's reports highlighted above. 
+Since 2013, the definition of terrorism remains unchanged, therefore all of the issues highlighted by the court remain issues with the definition of terrorism today. What the minister said before parliament is false, there has been criticism of the breadth of S.1 by the UKSC. The independent reviewers have also highlighted issues with the definition, see the sections of David Anderson's reports highlighted above. Multiple independent reviewers since 2013 have also highlighted the breadth of S.1 including Max Hill KC who went onto be DPP as well as the current incumbent reviewer Jonathan Hall KC.[^8]
 
-Multiple independent reviewers since 2013 have also highlighted the breadth of S.1 including Max Hill KC who went onto be DPP and the current incumbent Jonathan Hall KC.[^8]
-
-So the minister was wrong that the definition of terrorism has withstood scrutiny, it has been criticised by our highest court and the independent reviewers whom are responsible for ensuring counter terrorism law works effectively. The issues discussed by the UKSC and the independent reviewers remain relevant. People are still being prosecuted for activities in support or associated with groups the UK itself supported including groups involved in the coalition against ISIL.[^9] Schedule 7 powers are often used in a discriminatory fashion and this could very well have implications for the right to liberty as the UKSC highlighted.[^10]
+So the minister was wrong that the definition of terrorism has withstood scrutiny, it has been criticised by our highest court and the independent reviewers whom are responsible for ensuring counter terror law works effectively. The issues discussed by the UKSC and the independent reviewers remain relevant. People are still being prosecuted for activities in support or associated with groups the UK itself supported including groups involved in the coalition against ISIL.[^9] Schedule 7 powers are often used in a discriminatory fashion and this could very well have implications for the right to liberty as the UKSC highlighted.[^10]
 
 Furthermore, Antonio Cocco highlighted that the definition of terrorism may violate the ECHR. In his view the court stating that the practice of gold platting is permitted under international law is misleading as the UK is bound by human rights law.[^11] In a blog post about the R v Gul he stated:
 

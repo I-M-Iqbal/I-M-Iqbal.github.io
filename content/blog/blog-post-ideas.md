@@ -43,9 +43,7 @@ Rest of the List:
 - Why is the Wagner Group a Proscribed organisation?
 - IPP sentences 
 - Spyware Al Masarir v Saudi Arabia
-- CMPs in public inquiries.
 - Joint enterprise (appeal joint enterprise on trial report)
-- What is the IPT?.
 - ICC trial of duerte and trump (democracy now interview with ex war crimes prosecutor)
 - The Doctor's Trial (nazi's)
 - Enrochat (hack v intercept). [lord help me this is gonna be a long one, see channel 4 documantary and bbc sound podcast and German case where the messages were thrown out]
@@ -64,12 +62,24 @@ Rest of the List:
 - Kneecap of it all. 
 - Baha Mousa, public inquiries, tony blair, civilian courts. 
 - Thalidomide: Harry Evans, Sunday Times, ECHR.
-- Abu Zubaydah, UK settlement, Romania, Poland and the ECHR. 
 - Windush: what happened, public inquiry, the mess that is the compensation scheme. 
 - Denis Donaldson killing/ inquest 
-- Diplock trials 
 - Palestinian statehood and state comments in: https://www.youtube.com/watch?v=KGthHD9hjb4
 - Iran girl school attack, AI, international law. See: https://www.youtube.com/watch?v=fPldNjSVGqA
 - Lamumba's murder, bengium and the congo. See article mentioned at the end of https://www.youtube.com/watch?v=RO0T4D2z_Ww
 - Nihilistic Violent Extremism: https://www.lawfaremedia.org/article/lawfare-daily---i-m-angry-that-i-exist---nihilistic-violent-extremism-with-seamus-hughes-and-jacob-ware and prevent 
 - THEY RAIDED A LAWYERS OFFICES: https://www.bbc.co.uk/news/articles/c3dlxzjd30ro
+- What is required to detain someone as a terrorist pre trial?
+- What is required to sentence someone as a terrorist, even if they arent charged with terorism 
+- legacy bill shenanigans and the terrible supreme court judgement
+- R v ABJ and BDN dumpster fire. 
+
+
+Dis related posts:
+- legacy law, special advocates, an old sin in a new context.
+- Diplock trials 
+- Abu Zubaydah, UK settlement, Romania, Poland and the ECHR. 
+- What is the IPT?.
+- CMPs in public inquiries.
+- Palestine action proscription case
+- Statelessness and SIAC (June 2026) (see guy goodwin-gill correspondance about 2014 immigration act in the house of laws library).
