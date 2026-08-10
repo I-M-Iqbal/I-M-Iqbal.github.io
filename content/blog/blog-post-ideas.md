@@ -32,10 +32,13 @@ Waiting for judgements:
 - For women follow up post high court case by GLP/ strasbourg challenge by Mcloud and Others. 
 - Palestine Action proscription (with note on removal of chamberlin).
 - Scots law PA proscripton ( see scot national article about this)
+- Palestine Action proscription (CoA)
 - Myanmar v Gambia.
 
 
 Rest of the List:
+- Massa / f1
+- Online safety act, social media bans, a new era of state paternalism. 
 - Western Sahara and Morroco.
 - follow up to ^ on EU.
 - Khalistan, nationhood and terrorism. 
@@ -73,6 +76,7 @@ Rest of the List:
 - What is required to sentence someone as a terrorist, even if they arent charged with terorism 
 - legacy bill shenanigans and the terrible supreme court judgement
 - R v ABJ and BDN dumpster fire. 
+- Rwanda, supreme court and international arbitral award 
 
 
 Dis related posts:

@@ -24,9 +24,9 @@ The conclusions in the For Women judgement significantly impacts the Code of pra
 
 >'If a service provider provides single or separate sex services for women and men, or provides services differently to women and men, they should treat transsexual people according to the gender role in which they present. However, the Act does permit the service provider to provide a different service or exclude a person from the service who is proposing to undergo, is undergoing or who has undergone gender reassignment. This will only be lawful where the exclusion is a proportionate means of achieving a legitimate' aim.[^3] 
 
-The reason the For Women case impacts upon this guidance is if the definition of sex under the Equality Act refers to biological sex, then facilities that allow trans people to use the facilities of their acquired gender would no longer be considered single sex. 
+The reason the For Women case impacts this guidance is, if the definition of sex under the Equality Act refers to biological sex, then facilities that allow trans people to use the facilities of their acquired gender would not  be single sex facilities. 
 
-The section of the Interim guidance that sought to address this impact stated the following: 
+The section of the interim guidance that sought to address this impact stated the following: 
 
 
 
