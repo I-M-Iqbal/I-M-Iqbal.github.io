@@ -77,6 +77,7 @@ Rest of the List:
 - legacy bill shenanigans and the terrible supreme court judgement
 - R v ABJ and BDN dumpster fire. 
 - Rwanda, supreme court and international arbitral award 
+- Bundist citizenship vs CD citizenship models 
 
 
 Dis related posts:
