@@ -6,7 +6,7 @@ title = 'Trump, Venezuela and International Law'
 tags = ["International law"]
 +++
 
-In January 2026, Donald Trump ordered the US military to capture Nicolas Maduro, the President of Venezuela, and his wife Cilia Flores and bring them to the US for a criminal trial for drug related offenses. This involved attacks on several sites in the country, cutting the electricity in Caracas and the targeting of several locations by US special forces.[^1]
+In January 2026, Donald Trump ordered the US military to capture Nicolas Maduro, the President of Venezuela, and his wife Cilia Flores and bring them to the US for a criminal trial for drug related offences. This involved attacks on several sites in the country, cutting the electricity in Caracas and the targeting of several locations by US special forces.[^1]
 
 Trump justified his actions by claiming Maduro allowed two groups to increase the influx of drugs into the US and designated both as Foreign Terrorist Organisations.[^2] Trump claimed Maduro emptied the prison and 'insane asylums' and sent the people formerly detained there to the US.[^2] As a result, Trump claimed operation was to allow law enforcement to arrest Maduro and Flores for drug trafficking with the aim of putting both on trial in the US.[^2] 
 
@@ -93,10 +93,6 @@ Most of the examples given above include US actions or that of her allies. The U
 The US has significant but not sole responsibility for this state of affairs. The Russians have not been shy falsely invoking self-defence during their invasions of Ukraine to give the most recent example. The unwilling or unable doctrine wouldn't exist without the bending of requirements the of the right of self defence to the maximum. Powerful nations continue to exploit weaker nations by invoking ambiguities they helped to introduce into the law of self defence, knowing weaker nations are incapable of responding in any way that would lead to consequences for them. 
 
 This dynamic has long existed in international law, and is one of the reasons why despite the clarity of many international legal obligations, including what  right of self defence, states are still able to violate it. This dyamic is a key reason for the failure in  enforcing international law. Which makes powerful states like the US invoking that as a failure of international law itself, more than a little ironic.
-
-Regards
-
-II
 
 [^1]: https://www.bbc.co.uk/news/articles/cdred61epg4o
 [^2]: https://www.bbc.co.uk/news/articles/c93n4nx5yqro

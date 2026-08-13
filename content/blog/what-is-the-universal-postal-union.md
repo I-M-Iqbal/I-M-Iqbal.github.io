@@ -33,10 +33,6 @@ Update to the 1964 Constitution in 2021:
 
 In 1964, the UPU introduced a consitution and incoporated the Treaty of Bern into it. This is now the documents states ratify if they want to join the UPU. In 2021, the consitution was updated to allow agreements by the UPU congress to have unlimited validity rather than validity for 4 years. 
 
-Regards
-
-II
-
 Random fun fact to end: Did you know World Post Day is on the 9th October- chosen because it was the day the Treaty of Bern was signed. The annual award for best postal services is also announced on this day. 
 
 PS: Hope this met your expectation's Abi :)

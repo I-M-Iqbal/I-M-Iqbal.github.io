@@ -103,6 +103,8 @@ This post discussed South Africa's apartheid system in the context of the law th
 
 It should also be noted that many of the ordinary arguments against the death penalty are not discussed in this post but they naturally are relevant. Israel has executed two persons in its history, the second was Adolf Eichmann a Nazi officer responsible for the Holocaust.[^40] The first was Meir Tobianski, who was an army officer executed as the result of a false accusation of espionage and a conviction for for treason. He was exonerated after his death as is all too common in death penalty cases.[^40]  
 
+EDIT 13/082026: Dr Ralph Wilde has written about this law for Middle East Eye. He is a Professor of International Law at University College London and international lawyer. His work has focused on the law of occupation. See his article here: https://www.middleeasteye.net/opinion/make-no-mistake-Israel-death-penalty-terrorists-law-aimed-at-Palestinians
+
 
 [^1]: See https://www.icj-cij.org/case/186. The specific wrongful acts highlighted to be part of a system of apartheid were discriminatory demolition of property, either as a punishment for crimes or due to lack of permits, requiring Palestinians to have residency permits in East Jerusalem with no requirement for Israelis to possess them and restriction on movement either due to settlements, the wall of permits. Each policy undermines Palestinians political, civil, cultural, social or economic rights while leaving Israeli rights untouched.
 [^2]: See Apartheid Convention of 1973: https://treaties.un.org/doc/Publication/UNTS/Volume%201015/volume-1015-I-14861-English.pdf. 

@@ -283,10 +283,6 @@ I have tried to keep my opinion of this judgment out of my summary and discussio
 
 The tone of this judgment, the qualification at the beginning stating this ruling only applying to the EA, the fact the judges state this judgment is not taking a position on the  debate about the meaning of sex suggests to me the court was aware this judgment could be abused. In addition, the judges clarified that trans people would still be able  make EA claims as described above. This indicates that if this judgment is abused and a legal claim is brought by a trans person, the courts will declare such conduct to be unlawful. I am not sure how much comfort this will be to the trans community who are watching people celebrate this judgment by making false claims about what it means with regard to the EA and the law in general. But, I hope a complete understanding of this judgment provides you with a greater understanding and perhaps more reassurance than you had prior to reading this post. 
 
-Regards
-
-II
-
 Edit 23/05/2025: Baroness Brenda Hale, former head of the UK supreme court, was asked about this judgement recently and she stated that she believes it is being misinterpreted. I suspect this is what the current UKSC judges were concerned about as mentioned above. She also highlighted that a biological definition of sex without clarifying what that means may itself cause issues in the future. Noteably she stated: 
 
 > 'there’s nothing in that judgment that says that you can’t have gender neutral loos, as we have here in this festival.” She applauded the fact that Charleston’s organisers went ahead with that decision “despite the fact that there are people saying that you can’t do that”.The judgment “says nothing about that”, she added. “It’s for other people to work out the other parts of the Equality Act, which permit but do not require services to be provided differently for people according to sex.'[^26]

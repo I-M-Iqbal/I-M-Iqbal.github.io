@@ -16,7 +16,7 @@ On the 24th July 2025, the Prime Minister Sir Kier Starmer KCB KC, made the foll
 
 > 'The suffering and starvation unfolding in Gaza is unspeakable and indefensible. While the situation has been grave for some time, it has reached new depths and continues to worsen. We are witnessing a humanitarian catastrophe.... We all agree on the pressing need for Israel to change course and allow the aid that is desperately needed to enter Gaza without delay.'[^3]
 
-What is notaable is that he still refuses to condemn Israel depriving the population of Gaza of food, as a violation of International Law and as potentially the crime of genocide. 
+What is noteable is that he still refuses to condemn Israel depriving the population of Gaza of food, as a violation of International Law and as potentially the crime of genocide. 
 
 In 2014 the prime minister when he was a mere human rights lawyer represented Croatia before the ICJ. The case is titled: Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Croatia v. Serbia).[^4]
 
@@ -24,7 +24,7 @@ In 2014 the prime minister when he was a mere human rights lawyer represented Cr
 
 In 1999, Croatia brought a case against the Federal Republic of Yugoslavia (FRY) about alleged violations of the Genocide Convention. Following a referendum in 2006, Montenegro declared independence and as a result, the case became known as Croatia v Serbia as Serbia was the successor to the FRY. 
 
-The events at issue in this case was part of the Croatian War of Independence, the following summary is based on the summary in the ICJ's judgement in this case.[^5] They are summarised to assist in understanding the arguments from the case I discuss below but these events and the overall conclusions of the ICJ in this genocide case and the other cases that resulted from the break-up of the SFRY are not the subject of this post. They are likely to be the subject of a future post.
+The events at issue in this case was part of the Croatian War of Independence, the following summary is based on the summary in the ICJ's judgment in this case.[^5] They are summarised to assist in understanding the arguments from the case I discuss below but these events and the overall conclusions of the ICJ in this genocide case and the other cases that resulted from the break-up of the SFRY are not the subject of this post. They are likely to be the subject of a future post.
 
 Until the start of the 1990s, the Socialist Federal Republic of Yugoslavia (SFRY) included the Republics of Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia (with two autonomous provinces Vojvodina and Kosovo) and Slovenia. After the death of President Tito in 1980, there was a growing economic crisis, leading to some of the Republics gaining more power and eventually declaring independence. Croatia declared itself independent in June 1991.
 
@@ -32,7 +32,7 @@ Withtin Croatia, the majority of residents were ethnic Croats but there were eth
 
 At the end of 1990, Croatia adopted a new constitution that Serbs argued deprived them of certain rights. In 1991, the SOA of Krajina established its own police and state security services. Clashes broke out between the Croatian armed forces and those of the SAO Krajina and other armed groups. The armed forces of the FRY intervened, Croatia alleges they did so to support the Krajina Serbs. 
 
-Following a further referendum, SAO Krajina, a majority of Serbs voted in favour of attaching the region to Serbia and staying in the SFRY. A week later, the majority of Croats voted in a seperate referendum to leave the SFRY. By the Summer of 1991, the war had begun. From September the armed forces of the SFRY intervened in this war on behalf of the Serbs and by the end of the year, the armed forces of the SFRY and Serb forces controlled a third of Croat territory. Despite a UN peace plan, peaceful attempts to resolve the conflict failed and following military operations by the Croats they succeeded in regaining some territory with the remainder slowing reintergrating into Croatia from 1996-8. 
+Following a further referendum, SAO Krajina, a majority of Serbs voted in favour of attaching the region to Serbia and staying in the SFRY. A week later, the majority of Croats voted in a separate referendum to leave the SFRY. By the Summer of 1991, the war had begun. From September the armed forces of the SFRY intervened in this war on behalf of the Serbs and by the end of the year, the armed forces of the SFRY and Serb forces controlled a third of Croat territory. Despite a UN peace plan, peaceful attempts to resolve the conflict failed and following military operations by the Croats they succeeded in regaining some territory with the remainder slowing reintegrating into Croatia from 1996-8. 
 
 Croatia alleges that several types of act by Serbia in occupied territory  violated the genocide convention. This post focuses on the arguments related to provision of food to the civilian population and how this is relevant to Israel barring entry of humanitarian aid into Gaza causing famine and starvation[^14]
 
@@ -56,7 +56,7 @@ The court concluded no genocide had taken place because the acts committed by Se
 
 South Africa took the extraordinary step of bringing a genocide case against Israel for its acts in the Gaza Strip which began October 8th. They are arguing that one of the acts of genocide that is taking place is systematic denial of objects indispensable for human life including but not limited to food, water and medical care which they argue violate Article II (c). 
 
-Ms Blinne Ní Ghrálaigh highlighted before the ICJ that 'According to the World Food Programme, "\[f]our out of five people [in the world], in famine or a catastrophic type of hunger, are in Gaza right now”. Indeed, experts warn that deaths from starvation and disease risk significantly outstripping deaths from bombings'.[^8]
+Ms Blinne Ní Ghrálaigh highlighted before the ICJ that 'According to the World Food Program, "\[f]our out of five people [in the world], in famine or a catastrophic type of hunger, are in Gaza right now”. Indeed, experts warn that deaths from starvation and disease risk significantly outstripping deaths from bombings'.[^8]
 
 Only provisional measures hearings have taken place as the case was filed in early 2024. Provisional measures are measures ordered by the court to ensure the subject of the dispute remains in existence so the court can order appropriate remedies. They are issued where the claims are plausible and where there is an urgent need to prevent imminent irreparable prejudice to the rights at issue in the dispute. It is clear that the subject of this dispute: the lives of two million persons are at imminently at risk so the only question the court has to answer was is are the claims by South Africa plausible? 
 
@@ -114,10 +114,6 @@ In the words of Ammar Hijazi, Ambassador Agent of the State of Palestine who sub
 The Prime Minister litigated Croatia v Serbia alongside Ms Blinne Ní Ghrálaigh. Now he has abandoned his commitment to international law for and its promise, for politics. By contrast, Ms Ní Ghrálaigh is now counsel for South Africa in their genocide case against Israel. And even when he could take steps to prevent genocide as Prime Minister, by ensuring no arms manufactured in the UK are used by Israel and by taking steps to use the UK's influence to force a declaration of an ceasefire and the entry of humanitarian aid, he has declined to do so. 
 
 His own argument in 2014 condemn his actions and it is likely that history will too. 
-
-Regards
-
-II
 
 EDIT 13/08/2025: At the time of writing, I could not find this letter, it is signed by over 1000 lawyers, legal academics and former judges and it states genocide is either taking place or there is a serious risk of genocide taking place. See: https://lawyersletter.uk/
 

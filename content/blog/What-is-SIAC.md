@@ -68,9 +68,6 @@ Given the gravity of citizenship status removal and the fact many of those subje
 
 Hannah Arendt argued that a precondition of all human rights is citizenship as it represents the the right to be part of a political community, a state, who according to the law are the guarantors of human rights.[^15] Therefore in her words, without citizenship, there can be no right to have any other rights. British people should know when the government believes they have the right to deprive people of the right to have rights. 
 
-Regards
-
-II
 
 [^1]: https://hudoc.echr.coe.int/eng?i=001-58004
 [^2]: The role of special advocates: Advocacy, due process and the adversarial tradition by Professor John Jackson published in 2016. 

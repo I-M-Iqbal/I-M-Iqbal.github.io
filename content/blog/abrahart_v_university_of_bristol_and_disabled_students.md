@@ -36,25 +36,22 @@ The university argued that they were permitted to ensure a formal process accord
 
 Where a PCP applies to all, but it puts those with a disability at a particular disadvantage compared with non-disabled people it is discriminatory.The requirement to complete an oral assessment was a PCP which had a detrimental effect on people with disabilities which precluded them from completing an oral presentation.
 
-There is also a defense that applies to this form of discrimination, but the university did not argue that it applied and as a result, the high court found that the PCP was indirectly discriminatory.
+There is also a defence that applies to this form of discrimination, but the university did not argue that it applied and as a result, the high court found that the PCP was indirectly discriminatory.
 
 ## Discrimination arising from Disability:
 
 The Equality Act prohibits treating someone unfavourably because of something arising from their disability. The low marks were the result of Ms Abrahart’s condition which prevented her from being able to perform in the oral assessment. 
 
-There is a possible defense for this form of discrimination. It did not apply because it was not necessary to mark her down to achieve fairness with respect to marking because she could have had reasonable adjustments which likely would have led to an increase in Ms Abrahart’s marks. 
+There is a possible defence for this form of discrimination. It did not apply because it was not necessary to mark her down to achieve fairness with respect to marking because she could have had reasonable adjustments which likely would have led to an increase in Ms Abrahart’s marks. 
 
 Many disabled students were very optimistic that this tragedy would lead to the university sector changing its attitude towards disability and meeting its obligations to disabled people under the Equality Act. 
 
 In their annual access insights report, Disabled Students UK found almost half of disabled students who responded to their survey still report having received a lower mark on their course due to an assessment being inaccessible to them.[^2] Disabled student satisfaction is still lower than their able-bodied counterparts in the National Student Survey, a national survey of final year undergraduate students.[^5]  As a result, it appears some portion of respondents may have suffered unlawful discrimination since the Abrahart Ruling. The attitude of universities may not have progressed as significantly as many disabled students hoped. 
 
-Despite this, disabled students always have and always will continue to demand equal treatment to their able-bodied counterparts. The family of Ms Abrahart's are part of a campaign called Forthe100. This campaign aims to establish a duty of care 'requiring universities to act responsibly and provide education with reasonable care and skill'[^6] This campagin is the result of the county court judge in the Abrahart case finding that the university did not owe Miss Abrahart a duty of care because no such duty existed at law. If such a duty was to exist, it would not make universities responsible for instances where students die by suicide instead it requires them to act as other organisations like prisons, schools, employers and hospitals do in this context.
+Despite this, disabled students always have and always will continue to demand equal treatment to their able-bodied counterparts. The family of Ms Abrahart's are part of a campaign called Forthe100. This campaign aims to establish a duty of care 'requiring universities to act responsibly and provide education with reasonable care and skill'[^6] This campaign is the result of the county court judge in the Abrahart case finding that the university did not owe Miss Abrahart a duty of care because no such duty existed at law. If such a duty was to exist, it would not make universities responsible for instances where students die by suicide instead it requires them to act as other organisations like prisons, schools, employers and hospitals do in this context.
 
 For more information on the Forthe100 campagin, please see their website: https://www.forthe100.org.uk
 
-Regards
-
-II
 
 Edit 20/06/2026: There has been significant discussion of whether contract law claims are available to students when bringing claims against their universities. With regard to the claims in contract law, which focus on policies around disability being implicitly included in the terms of the contracts that govern the relationships between students and their universities, this is part of a claim brought by Mr Jacob Meagher against Cambridge Universities. Mr Meagher was a barrister and PhD student whose legal claims focus on Cambridge University failing to provide him with adequate support for his disability in the oral examination element of his PhD.[^7] He has brought not just a claim under the Equality Act but a claim under contract law focusing on the fact the university did not implement its own policies on disability support. For more, please see this post by the blog The Journal of Neurodiversity in Law: https://neurodiversityinlaw.substack.com/p/meagher-v-cambridge-case-analysis-disability-discrimination.
 

@@ -16,14 +16,9 @@ Each chapter focuses on a different event during the war on terror and how the r
 
 Peirce argues that each event eroded human rights and the rule of law, both principles the government claims to be protecting by engaging in a war on terrorism. If you want to read the book you can find it here: https://www.versobooks.com/en-gb/products/2177-dispatches-from-the-dark-side. 
 
-## Given that the events discussed in the book took place over 15 years ago, why is the book still relevant today?
+What all the events discussed in the book have in common is that the law itself was used to facilitate the human rights abuses and violations of the rule of law. The majority of the events discussed are either legal grey hole or a legal black holes. A legal black hole is a "zones formally created by law within which, no recourse to the law can be made. A legal black hole is thus created when there is no legal control on the body exercising the power in question, leaving the decision-maker free to exercise their absolute discretion."[^1] Legal grey holes are "questions of law which courts state that they do have the capacity to review; however, the review exercised is so light touch that it is essentially meaningless".[^2] 
 
-- What all the events discussed in the book have in common is that the law itself was used to facilitate the human rights abuses and violations of the rule of law. The majority of the events discussed are either legal grey hole or a legal black holes. 
-- A legal black hole are "zones formally created by law within which, no recourse to the law can be made. A legal black hole is thus created when there is no legal control on the body exercising the power in question, leaving the decision-maker free to exercise their absolute discretion."[^1] 
-- Legal grey holes are "questions of law which courts state that they do have the capacity to review; however, the review exercised is so light touch that it is essentially meaningless".[^2] 
-
-- For example, Guantanamo started as a  legal black hole, chosen because it was outside of the US thereby allowing the Bush administration to claim US law did not apply there. As a result, they could detain people without charge or trial and torture them without the oversight of US courts. 
-- After several US supreme court cases, it became clear that some limited rights under the US constitution still applied in Guantanamo such as habeas corpus: the primary mechanism used to challenge unlawful detention in the US. However, the courts, as expected, heavily deferred to the government regarding their assessments of the national security threats posed by those detained there. In effect, the courts were applying a light touch review to the status of the them, thereby allowing people who had no links to Al-Qaeda or any other terrorist group to remain detained in a prison notorious for human rights abuses and torture. Guantanamo changed from a legal black hole to a legal grey hole, which is how it remains 23 years after it was opened. 
+For example, Guantanamo started as a  legal black hole, chosen because it was outside of the US thereby allowing the Bush administration to claim US law did not apply there. As a result, they could detain people without charge or trial and torture them without the oversight of US courts. After several US supreme court cases, it became clear that some limited rights under the US constitution still applied in Guantanamo such as habeas corpus: the primary mechanism used to challenge unlawful detention in the US. However, the courts, as expected, heavily deferred to the government regarding their assessments of the national security threats posed by those detained there. In effect, the courts were applying a light touch review to the status of the them, thereby allowing people who had no links to Al-Qaeda or any other terrorist group to remain detained in a prison notorious for human rights abuses and torture. Guantanamo changed from a legal black hole to a legal grey hole, which is how it remains 23 years after it was opened. 
 
 Peirce discusses Guantanamo throughout her book but primarily in Chapter 1: Make sure you say you were treated properly and Chapter 4: Are we out Brothers Keepers?.
 
@@ -35,7 +30,7 @@ The writ of habeas corpus has only been suspended four times in US history, most
 
 This is the product of courts hearing Habeas petitions from those who are detained to either be deported based on 2 different grounds:
 
-- 1- The Secretary of state has concluded they are a threat to the foreign policy of the US because they where involved in pro-Palestine activism. To be clear, such activism is protected under the 1st amendment: the right to freedom of speech. 
+- 1- The Secretary of State has concluded they are a threat to the foreign policy of the US because they where involved in pro-Palestine activism. To be clear, such activism is protected under the 1st amendment: the right to freedom of speech. 
 - 2- They are accused of being a member of a gang and as a result will be sent to El Salvador's notorious CECOT prison. The vast majority of those detained are not gang members. For example, one man was detained because he had a tattoo of a crown to honour his parents. 
 
 Miller argues because these cases are immigration cases, the courts that hear the Habeas petitions which aren't immigration courts, lack jurisdiction. Habeas makes no distinction based on the reason for detention. It applies in all cases where the government is detaining a person. To suspend Habeas is to suspend the ability of people to challenge the grounds for detention. 
@@ -66,9 +61,7 @@ The title Dispatches from the Dark Side is a warning, from a solicitor who knows
 
 Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
 
-Regards
- 
-II
+
 
 [^1]: https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/
 [^2]:https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/

@@ -33,7 +33,7 @@ Other states argued that the genocide convention prohibits the use of nuclear we
 
 Multiple states also argued that the law of war's prohibition on damage to the environment prohibits the use of nuclear weapons. They citied sources of law under both international human rights law and international humanitarian law. For example, some states relied on the 1977 additional protocol to the Geneva Conventions states 'methods or means of warfare which are intended, or may be expected, to cause widespread, long-term and severe damage to the natural environment'.[^4] Other states argued that this area of law did not apply in wartime, did not apply to them or was not a binding source of law. In their view, given the lack of mention of nuclear weapons and wartime, it would undermine the stability of international law for this requirements to apply to this question. 
 
-The court agreed that such treaties may not completely prohibit the use of nuclear weapons, but their requirements must be taken into account when assessing whether the use of a nuclear weapon is permissible under the law of war, via the requirements of neccessity and proportionality. Furthermore, for states that are signatories of the 1977 protocol above, this obligations are particularly important. 
+The court agreed that such treaties may not completely prohibit the use of nuclear weapons, but their requirements must be taken into account when assessing whether the use of a nuclear weapon is permissible under the law of war, via the requirements of necessity and proportionality. Furthermore, for states that are signatories of the 1977 protocol above, this obligations are particularly important. 
 
 ### The law on the use of force: 
 
@@ -65,9 +65,6 @@ Ultimately, this opinion merely confirms that nuclear weapons are not inherently
 
 This is the context in which the new START treaty expired, a context in which the use of nuclear weapons would be illegal in nearly all circumstances. But frankly, a prohibition in law alone is not what has prevented the use of these weapons since 1945, it is likely that the fear of the consequences is what has prevented states from using them. 
 
-Regards
-
-II
 
 [^1]: https://www.bbc.co.uk/news/articles/c4g31n4ey9go
 [^2]: https://digitallibrary.un.org/record/193267?v=pdf
