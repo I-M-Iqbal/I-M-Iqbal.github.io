@@ -47,20 +47,17 @@ The Bush administration argued Guantanamo was in Cuba and outside the jurisdicti
 
 To quote Peirce on Rasul v Bush:
 
-The argument that won in Bush v Rasul was:
-
 > "prisoners... should have access to legal remedies and to lawyers who could, most importantly of all, for the first time go in and, bit by bit, bring out reports, not just of the physical and mental horrors inflicted by or on behalf of Americans, but the complicity of this country (at every level) in their unlawful captivity. We were never mean to know any of this."
 
 We know what happened because of Habeas Corpus. Without it, we would not know the names of the 800 men detained there. Lawyers would not have been able to tell the world of the torture they experienced at the hands of the country that calls itself the leader of the free world. Worse of all the men might still be there because the campaigns to end Guantanamo might never have started. We would never know that our government, the UK government, was complicit in the crime of torture.[^4]
 
 To suspend Habeas protection as Miller would like to, is to deprive people subject to the control of the US from the protection of the law. Suspending Habeas created a legal black hole, a place devoid of law where all manner of human rights abuses can occur in the dark, without oversight of any kind. This would mean access to law is no longer a right, it is a privilege. A privilege that the president of the United States can take away. As Elie Mystal, a lawyer and legal commentator, would say: There is not a coming constitutional crisis in the US. We are in a constitutional crisis and America, in his view, is a fascist dictatorship.[^5]. 
 
-Peirce's book  tells us how governments use the law to undermine the law by creating spaces without any or with very little legal oversight. This has time and time again, allowed the executive to violate the fundamental rights of human beings such as the right not to be tortured and to avoid accountability. The architects of the crimes she discuses such as the President of the US at the time: George Bush and the Prime Minister of the UK: Tony Blair remain free men to this day.
+Peirce's book explains how governments use the law to undermine the law by creating spaces without any or with very little legal oversight. This has time and time again, allowed the executive to violate the fundamental rights of human beings such as the right not to be tortured and to avoid accountability. The architects of the crimes she discuses such as the President of the US at the time: George Bush and the Prime Minister of the UK: Tony Blair remain free men to this day.
 
-The title Dispatches from the Dark Side is a warning, from a solicitor who knows because she has represented hundreds of people who found themselves in a legal black or grey hole, as to what happens in the dark, where the law and oversight does not exist. The subtitle of the book refers to the death of justice. To suspend Habeas is to kill justice because without it, there is no way to know who is detained by the government, on what grounds and what conditions they are being held in.
+The title Dispatches from the Dark Side is a warning, from a solicitor who knows because she has represented hundreds of people who found themselves in a legal black or grey hole, as to what happens in the dark, where the law and oversight does not exist. The subtitle of the book refers to the death of justice. To suspend Habeas is to kill justice because without it, there is no way to know whom is detained by the government, why they are detained and what conditions they are being held in.
 
 Millers argument is nearly identical to the argument made by Bush administration. Let us hope the US supreme court will reject it, as they rejected it in Bush v Rasul in 2004.
-
 
 
 [^1]: https://ukconstitutionallaw.org/2019/09/13/alan-greene-miller-2-non-justiciability-and-the-danger-of-legal-black-holes/
