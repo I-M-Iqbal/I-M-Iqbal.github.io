@@ -84,8 +84,7 @@ This is explicitly allowed by the legislation, there is nothing nefarious about 
 
 The issues discussed above leads to a obvious question: should the law deal with groups who merely support terrorism abroad and have views which are contrary to most in the UK, like Hizb ut-Tahrir in the same way as ISIL who clearly pose a direct violent threat to the UK.
 
-Should we deal with a direct action group like Palestine Action in the same way as ISIL? Both will be subject to same legal regime if the government goes ahead and proscribes Palestine Action as they
-have promised. 
+Should we deal with a direct action group like Palestine Action in the same way as ISIL? Both will be subject to same legal regime if the government goes ahead and proscribes Palestine Action as they have promised. 
 
 They clearly pose different threat levels to the UK and her citizens. So why deal with them the same way?
 
@@ -95,7 +94,7 @@ Discretion is a key feature of counter terrorism law, its also the mechanism by 
 
 And sometimes it is the cause of questionable legal decisions such as those highlighted above because ultimately the penalties for supporting ISIL, a group who committed genocide, should not the the same as spraying red paint at a Barclays bank branches. Such a decision appears completely disproportionate.
 
-Ultimately, the proscription of the groups mentioned above is the product of the breadth of S.3 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.
+Ultimately, the proscription of the groups mentioned above is the product of the breadth of S.1 and the role of discretion in these decisions. Both of those factors allow politics to dictate the way the law operates, which is a typical feature of counter terrorism law.
 
 Questions about whether we are satisfied with the breadth of S.3 or the discretion available to the Home Secretary, remain unasked and unanswered. But the power of proscription keeps being used and people keep being prosecuted for supporting proscribed organisations, even where there are serious questions about whether the group they are accused of supporting should be proscribed or whether the law on proscription should exist as it does in its current form. 
 

@@ -1,8 +1,9 @@
 +++
-date = '2026-02-13T14:55:34Z'
+date = '2026-09-21T21:02:45+01:00'
 draft = true
-title = 'The Proscription of Palestine Action'
+title = 'Suffragettes Luddites and Terrorism'
 +++
+
 https://www.judiciary.uk/wp-content/uploads/2026/02/R-Ammori-v-SSHD-OPEN-Judgment-final.pdf
 
 find leave judgment by chamberlin 

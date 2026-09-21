@@ -34,5 +34,6 @@ Scheduled:
 - legacy bill shenanigans and the terrible supreme court judgement
 - R v ABJ and BDN dumpster fire. 
 - Abu Zubaydah, UK settlement, Romania, Poland and the ECHR. 
-- What is the IPT?.
 - CMPs in public inquiries.
+- Guantanamo and CMPs
+- the IPT and CMPs

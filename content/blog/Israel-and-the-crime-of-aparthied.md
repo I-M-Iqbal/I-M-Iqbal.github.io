@@ -100,8 +100,7 @@ Postscript:
 
 This post discussed South Africa's apartheid system in the context of the law that developed in response. The discussion was limited but for further detail, readers are encouraged to examine the work of the Truth and Reconciliation Committee, set up in the wake of the end of the aparthied system. The final report of the committee can be found here: https://sabctrc.saha.org.za/reports.htm. 
 
-
-It should also be noted that many of the ordinary arguments against the death penalty are not discussed in this post but they naturally are relevant. Israel has executed two persons in its history, the second was Adolf Eichmann a Nazi officer responsible for the Holocaust.[^40] The first was Meir Tobianski, who was an army officer executed as the result of a false accusation of espionage and a conviction for for treason. He was exonerated after his death as is all too common in death penalty cases.[^40]  
+It should also be noted that many of the ordinary arguments against the death penalty are not discussed in this post but they naturally are relevant. Israel has executed two persons in its history, the second was Adolf Eichmann a Nazi officer responsible for the Holocaust.[^40] The first was Meir Tobianski, who was an army officer executed as the result of a false accusation of espionage and a subsequent conviction for for treason. He was exonerated after his death, as is all too common in death penalty cases.[^40]  
 
 EDIT 13/082026: Dr Ralph Wilde has written about this law for Middle East Eye. He is a Professor of International Law at University College London and international lawyer. His work has focused on the law of occupation. See his article here: https://www.middleeasteye.net/opinion/make-no-mistake-Israel-death-penalty-terrorists-law-aimed-at-Palestinians
 

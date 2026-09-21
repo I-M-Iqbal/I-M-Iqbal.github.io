@@ -66,7 +66,7 @@ The requirements that orders do not make people stateless focuses on whether the
 
 Given the gravity of citizenship status removal and the fact many of those subject to them are former members of ISIS detained in northern Syria in conditions which violate international law, including the prohibition on torture,[^14] it should be clear in what circumstances the UK government can remove citizenship. This is both a rule of law issue but also a democratic one. How can we know whether the voting population agrees with the way the Home Secretary has used this power without known the reasons why they have used it and the circumstances of their decisions?
 
-Hannah Arendt argued that a precondition of all human rights is citizenship as it represents the the right to be part of a political community, a state, who according to the law are the guarantors of human rights.[^15] Therefore in her words, without citizenship, there can be no right to have any other rights. British people should know when the government believes they have the right to deprive people of the right to have rights. 
+Hannah Arendt argued that a precondition of all human rights is citizenship as it represents the the right to be part of a political community, a state, who according to the law are the guarantors of human rights.[^15] Therefore in her words, without citizenship, there can be no right to have any other rights. The least that should be available to the British public is information about the circumstances in which the government believes they have the right to deprive people of the right to have rights. 
 
 
 [^1]: https://hudoc.echr.coe.int/eng?i=001-58004

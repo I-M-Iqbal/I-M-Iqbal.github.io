@@ -4,6 +4,10 @@ draft = true
 title = 'trash file'
 +++
 
+https://www.judiciary.uk/wp-content/uploads/2026/02/R-Ammori-v-SSHD-OPEN-Judgment-final.pdf
+
+find leave judgment by chamberlin 
+
 Ben Robert Smith, a former solider in the Australian Special Air Service Regiment (SASR), recipient of the Medal for Gallantry, the Victoria Cross, was once considered a national hero. Then in 2017 journalists discovered credible evidence that he had committed war crimes. Following the publication of allegations of war crimes, he sued for defamation and in 2023, he lost that case in 2023- a judge ruled that he more likely than not had committed the war crime of murder. Three years later, he was arrested at Sydney airport for murder. 
 
 But this is not a story about how after decades Australia finally decided the lives and murders of Afghans mattered. It's not a story about one man, its a story about how the wider SASR committed war crimes which were ignored at best and covered up at worse. It is the story of how journalists, not the military justice system, forced the government of Australia to set up an independent investigation into the SASR. Said investigation found at least 40 persons had been murdered in Afghanistan by the SASR. Despite the final report of that investigation being published 6 years ago, only two men have been arrested.
