@@ -1,8 +1,12 @@
 +++
 date = '2026-01-06T17:12:00Z'
 draft = true
-title = 'Lucy Letby'
+title = 'I would rather be in Mississippi if I was challenging my conviction than Britain'
 +++
+
+Andrew Malkinson
+
+Omagh bombing case 
 
 See guardian/ private eye coverage 
 
