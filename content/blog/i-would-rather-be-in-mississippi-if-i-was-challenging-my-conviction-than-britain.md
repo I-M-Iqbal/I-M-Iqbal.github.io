@@ -1,5 +1,5 @@
 +++
-date = '2026-01-06T17:12:00Z'
+date = '2026-09-22T20:12:52+01:00'
 draft = true
 title = 'I would rather be in Mississippi if I was challenging my conviction than Britain'
 +++
