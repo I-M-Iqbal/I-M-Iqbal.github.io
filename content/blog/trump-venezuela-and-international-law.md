@@ -92,7 +92,7 @@ Most of the examples given above include US actions or that of her allies. The U
 
 The US has significant but not sole responsibility for this state of affairs. The Russians have not been shy falsely invoking self-defence during their invasions of Ukraine to give the most recent example. The unwilling or unable doctrine wouldn't exist without the bending of requirements the of the right of self defence to the maximum. Powerful nations continue to exploit weaker nations by invoking ambiguities they helped to introduce into the law of self defence, knowing weaker nations are incapable of responding in any way that would lead to consequences for them. 
 
-This dynamic has long existed in international law, and is one of the reasons why despite the clarity of many international legal obligations, including what  right of self defence, states are still able to violate it. This dyamic is a key reason for the failure in  enforcing international law. Which makes powerful states like the US invoking that as a failure of international law itself, more than a little ironic.
+This dynamic has long existed in international law, and is one of the reasons why despite the clarity of many international legal obligations, including what right of self defence means, states are still able to violate it. This dyamic is a key reason for the failure in enforcing international law. Which makes powerful states like the US invoking that as a failure of international law itself, more than a little ironic.
 
 [^1]: https://www.bbc.co.uk/news/articles/cdred61epg4o
 [^2]: https://www.bbc.co.uk/news/articles/c93n4nx5yqro

@@ -18,7 +18,7 @@ Scheduled:
 - Letby (title: clive stafford smith quote)
 - The consequences of the For Women judgment
 - Sexual offences and reasonable belief in consent (we breed lions, cornell 7, inquiry into family court secrecy)
-- What is the proscribed organisation appeals tribunal(2/4)
+- What is a proscribed organisation and what is the proscribed organisation appeals tribunal(1/4)
 - Wagner group proscription (3/4)
 - Palestine action, Suffregette's and the luddittes. (4/4)
 
