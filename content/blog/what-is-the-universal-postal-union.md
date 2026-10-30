@@ -7,23 +7,23 @@ tags = ["International law"]
 
 +++
 
-My friend Abi wrote a blog post about the S10 standard created by the Universal Postal Union. You can find it here: https://www.akpain.net/blog/s10-upu/. As a result, I googled the union and realised it was created via a international treaty: the Treaty of Bern and pre-dates the UN by 71 years. So here is a brief outline of the treaty of Bern, how the UPU became part of the UN and what the treaty looks like today.
+My friend Abi wrote a blog post about the S10 standard created by the Universal Postal Union. You can find it here: https://www.akpain.net/blog/s10-upu/. As a result, I googled the union and realised it was created via an international treaty: the Treaty of Bern and pre-dates the UN by 71 years. So here is a brief outline of the treaty of Bern, how the UPU became part of the UN and what the treaty looks like today.
 
 The Treaty of Bern:
 
-It was signed on 9th October 1874 in the Swiss city of Bern. It was originally known as the General Postal Union but its name changed to the Universal Postal Union (UPU) in 1878 to reflect is broad global membership. In 1874 the following countries were members: German Empire, Austria-Hungary, Belgium, Denmark, Egypt, Spain, the United States, France, Great Britain, Greece, Italy, Luxembourg, the Netherlands, Portugal, Romania, the Russian Empire, Serbia, the United Kingdoms of Sweden and Norway, Switzerland, and the Ottoman Empire.
+It was signed on 9th October 1874 in the Swiss city of Bern. It was originally known as the General Postal Union, but its name changed to the Universal Postal Union (UPU) in 1878 to reflect is broad global membership. In 1874 the following countries were members: German Empire, Austria-Hungary, Belgium, Denmark, Egypt, Spain, the United States, France, Great Britain, Greece, Italy, Luxembourg, the Netherlands, Portugal, Romania, the Russian Empire, Serbia, the United Kingdoms of Sweden and Norway, Switzerland, and the Ottoman Empire.
 
 The treaty's purpose was to allow the free flow of mail between its members. Article 1 obliges members to create a union for this purpose. Articles 2-10 outline what products are 'post-able' via the union, the cost of doing so and the exceptions to the ordinary prices outlined in the treaty. Article 10(1) also establishes a right of post to transit within the union. Article 11 states members can establish postal relations with counties outside the union without the involvement of the union. Article 14 clarifies the treaty does not affect internal post within any country and is concerned with transnational post. 
 
 The UPU and the UN:
 
-The UPU because part of the UN on 1 July 1948, via a negotiated agreement. It is a specialised agency of the UN meaning its an autonomous international organizations working with the United Nations. The agreement is linked here (It starts on page 232): https://treaties.un.org/doc/Publication/UNTS/Volume%2019/v19.pdf. The treaty is largely procedural- establishing the information to be shared between the UN and the UPU, financing arrangements and formal communication and consultation mechanisms between the UN and UPU. It is also one of the oldest specialised agencies of the UN having celebrated its 150th birthday last year on the 9th of October.  
+The UPU because part of the UN on 1 July 1948, via a negotiated agreement. It's a specialised agency of the UN meaning its an autonomous international organizations working with the United Nations. The agreement is linked here (It starts on page 232): https://treaties.un.org/doc/Publication/UNTS/Volume%2019/v19.pdf. The treaty is largely procedural- establishing the information to be shared between the UN and the UPU, financing arrangements and formal communication and consultation mechanisms between the UN and UPU. It is one of the oldest specialised agencies of the UN having celebrated its 150th birthday last year on the 9th of October.  
 
 UPU, decolonisation and Terminal dues:
 
 The original treaty intended for the recipient country to keep all the profits from the mail because the drafters of the treaty believed all letters would get a response and as a result, the postal flows and money earned by states would balance out. This was not the case for other classes of mail even in the early years of the UPU such as periodicals. 
 
-After 1948, as membership of the UPU grew because of decolonisation, this issue became more acute. Decolonised nations received more mail than they sent. All changes to the treaty  had to be negotiated via a meeting of the UPU congress, a meeting that normally takes place every 4 years with all member states of the UPU attending. In 1969, the UPU introduced terminal dues to address this imbalance. When two countries had imbalanced mail flows, the country that sent more mail would have to pay a fee to the country that received more mail. The amount was based on the weight of mail sent and received
+After 1948, as membership of the UPU grew because of decolonisation, this issue became more acute. Decolonised nations received more mail than they sent. All changes to the treaty  had to be negotiated via a meeting of the UPU congress, a meeting that normally takes place every 4 years with all member states of the UPU attending. In 1969, the UPU introduced terminal dues to address this imbalance. When two countries had imbalanced mail flows, the country that sent more mail would have to pay a fee to the country that received more mail. The amount was based on the weight of mail sent and received.
 
 Terminal dues since their introduction have often subject of disputes. Remailing, the practice of routing mail through a third country to force that country to bear delivery costs was banned in 1924. However, remailing remained an issue so in 1988 a per-item charge was included in terminal dues to drive up the cost of remailing. By this point the amount paid in terminal dues had also gone up significantly since 1964 when they were first introduced. 
 
@@ -31,7 +31,7 @@ The most recent dispute over terminal dues was the result of the 2018 trade war 
 
 Update to the 1964 Constitution in 2021:
 
-In 1964, the UPU introduced a constitution and incorporated the Treaty of Bern into it. This is now the documents states ratify if they want to join the UPU. In 2021, the constitution was updated to allow agreements by the UPU congress to have unlimited validity rather than validity for 4 years. 
+In 1964, the UPU created a constitution and incorporated the Treaty of Bern into it. This is now the documents states ratify if they want to join the UPU. In 2021, the constitution was updated to allow agreements by the UPU congress to have unlimited validity rather than validity for 4 years. 
 
 Random fun fact to end: Did you know World Post Day is on the 9th October- chosen because it was the day the Treaty of Bern was signed. The annual award for best postal services is also announced on this day. 
 

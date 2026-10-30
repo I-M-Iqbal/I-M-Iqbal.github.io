@@ -12,20 +12,28 @@ Posted:
 - Venezuela and Trump (Jan 2026).
 - Nuclear weapons advisory opinion (Feb 2026)
 - Israel and the Crime of Apathied (Mar 2026)
-Scheduled: 
-- Statelessness and SIAC (June 2026) (see guy goodwin-gill correspondance about 2014 immigration act in the house of laws library).
-- Lenin, Robspierre and the origins of the word terrorism (Aug 2026). 
-- Joint enterprise (appeal joint enterprise on trial report)(Sept 2026)
-- UN investigated UK treatment of disabled persons (Dec 2026). EHRC and DWP  [see guardian deadline about 330,000 excess deaths due to this].
-- For women follow up post high court case by GLP/ strasbourg challenge by Mcloud and Others. 
-- Palestine Action proscription (with note on removal of chamberlin), Sots law issue (scot national articles as sources) (CoA judgement) note suffragette mess too. 
-- wagner group proscription and the new national security law 
-- Enrochat (hack v intercept). [lord help me this is gonna be a long one, see channel 4 documantary and bbc sound podcast and German case where the messages were thrown out]
-- Chagos Island cases: history, Bancoult, ICJ, final deal. Plus Diego Garcia Military Base and British Indian Ocean Territory Bill.
-- MI5 lying to courts over hiring a Nazi.
-- what is the Hillsborough law.
+- 9/11 at 25 years (Sept 2026)
+
+Scheduled:
+- Letby (title: clive stafford smith quote)
+- The consequences of the For Women judgment
+- Sexual offences and reasonable belief in consent (we breed lions, cornell 7, inquiry into family court secrecy)
+- What is the proscribed organisation appeals tribunal(2/4)
+- Wagner group proscription (3/4)
+- Palestine action, Suffregette's and the luddittes. (4/4)
+
+Ideas:
+- SIAC and Statelessness (guy goodwin-gill correspondance on 2014 Act) (2/2)
+- Lenin, Robespierre and the origins of the word terrorism
+- joint enterprise (potential title: Joint Enterprise is unlawful, so why are people still being convicted because of it)
+- UN investigation of UK treatment of disabled people (1/2)
+- EHRC and the DWP (gurdian headline of 330,000 excess deaths of disabled persons) (2/2)
+- Enrochat, hacks vs intercepts
+- Chagos island cases
+- GCHQ cases
+- MI5 and Nazi's
+- What is the Hillsborough law.
 - Obscenity, Well of Loneliness and Lady Chatterley's Lover.
-- Letby. 
 - Genocide and Brazil's argument (see alonso gurmendi)
 - Palestinian statehood and state comments in: https://www.youtube.com/watch?v=KGthHD9hjb4
 - Nihilistic Violent Extremism: https://www.lawfaremedia.org/article/lawfare-daily---i-m-angry-that-i-exist---nihilistic-violent-extremism-with-seamus-hughes-and-jacob-ware and prevent 
@@ -34,6 +42,8 @@ Scheduled:
 - legacy bill shenanigans and the terrible supreme court judgement
 - R v ABJ and BDN dumpster fire. 
 - Abu Zubaydah, UK settlement, Romania, Poland and the ECHR. 
-- CMPs in public inquiries.
-- Guantanamo and CMPs
-- the IPT and CMPs
+- CMPs in public inquiries (omagh and pat finucane)
+- Guantanamo and CMPs (and UN victimr sof terrorism rights)
+- The IPT and CMPs
+- Joint interprise
+- Rap lyrics and crminal trials (uk)
