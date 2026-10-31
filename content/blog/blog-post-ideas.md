@@ -18,6 +18,7 @@ Scheduled:
 - Letby (title: clive stafford smith quote)
 - The consequences of the For Women judgment
 - Sexual offences and reasonable belief in consent (we breed lions, cornell 7, inquiry into family court secrecy)
+- Genocide and Brazil's argument (see alonso gurmendi) (2/2 following Starmer and genocide)
 - What is a proscribed organisation and what is the proscribed organisation appeals tribunal(1/4)
 - Wagner group proscription (3/4)
 - Palestine action, Suffregette's and the luddittes. (4/4)
@@ -34,7 +35,6 @@ Ideas:
 - MI5 and Nazi's
 - What is the Hillsborough law.
 - Obscenity, Well of Loneliness and Lady Chatterley's Lover.
-- Genocide and Brazil's argument (see alonso gurmendi)
 - Palestinian statehood and state comments in: https://www.youtube.com/watch?v=KGthHD9hjb4
 - Nihilistic Violent Extremism: https://www.lawfaremedia.org/article/lawfare-daily---i-m-angry-that-i-exist---nihilistic-violent-extremism-with-seamus-hughes-and-jacob-ware and prevent 
 - THEY RAIDED A LAWYERS OFFICES: https://www.bbc.co.uk/news/articles/c3dlxzjd30ro
