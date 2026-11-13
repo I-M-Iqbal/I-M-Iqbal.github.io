@@ -17,11 +17,13 @@ Posted:
 Scheduled:
 - Letby (title: clive stafford smith quote)
 - The consequences of the For Women judgment
+- Akhtar Uddin
 - Sexual offences and reasonable belief in consent (we breed lions, cornell 7, inquiry into family court secrecy)
 - Genocide and Brazil's argument (see alonso gurmendi) (2/2 following Starmer and genocide)
 - What is a proscribed organisation and what is the proscribed organisation appeals tribunal(1/4)
 - Wagner group proscription (3/4)
 - Palestine action, Suffregette's and the luddittes. (4/4)
+- definition of terrorism in light of 24 report from independent reviewer: does the uk definition of terrorism need an international law exclusion.
 
 Ideas:
 - SIAC and Statelessness (guy goodwin-gill correspondance on 2014 Act) (2/2)
